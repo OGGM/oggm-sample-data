@@ -1,0 +1,7 @@
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
+2001,3044,IN,HAMTAH,3.46,,,-1654.0,"AREA was calculated from submitted accumulation and ablation areas.NET_BALANCE was reported positive, but corrected according to reported AAR.",RGI50-14.15536
+2002,3044,IN,HAMTAH,3.46,,,-1221.0,"AREA was calculated from submitted accumulation and ablation areas.NET_BALANCE was reported positive, but corrected according to reported AAR.",RGI50-14.15536
+2003,3044,IN,HAMTAH,3.46,,,-1621.0,"AREA was calculated from submitted accumulation and ablation areas.NET_BALANCE was reported positive, but corrected according to reported AAR.",RGI50-14.15536
+2004,3044,IN,HAMTAH,3.45,,,-1857.0,"AREA was calculated from submitted accumulation and ablation areas. NET_BALANCE was reported positive, but corrected according to reported AAR.",RGI50-14.15536
+2005,3044,IN,HAMTAH,,,,-1856.0,"Reported YEAR was corrected from 2004 to 2005. NET_BALANCE was reported positive, but corrected according to reported AAR.",RGI50-14.15536
+2006,3044,IN,HAMTAH,3.45,,,-1391.0,"AREA was calculated from submitted accumulation and ablation areas. NET_BALANCE was reported positive, but corrected according to reported AAR.",RGI50-14.15536

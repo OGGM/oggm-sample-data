@@ -1,0 +1,21 @@
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
+1996,1629,GL,MITTIVAKKAT,17.6,1510.0,-1500.0,10.0,"Data source: Knudsen and Hasholt (2008): Mass balance observations at Mittivakkat Glacier, Ammassalik Island, Southeast Greenland 1995-2006, Geogr. Tidsskrift, 108(1), 111-120.",RGI50-05.11186
+1997,1629,GL,MITTIVAKKAT,17.6,1410.0,-1810.0,-400.0,"Data source: Knudsen and Hasholt (2008): Mass balance observations at Mittivakkat Glacier, Ammassalik Island, Southeast Greenland 1995-2006, Geogr. Tidsskrift, 108(1), 111-120.",RGI50-05.11186
+1998,1629,GL,MITTIVAKKAT,17.6,1140.0,-2310.0,-1170.0,"Data source: Knudsen and Hasholt (2008): Mass balance observations at Mittivakkat Glacier, Ammassalik Island, Southeast Greenland 1995-2006, Geogr. Tidsskrift, 108(1), 111-120.",RGI50-05.11186
+1999,1629,GL,MITTIVAKKAT,17.6,980.0,-1750.0,-770.0,"Data source: Knudsen and Hasholt (2008): Mass balance observations at Mittivakkat Glacier, Ammassalik Island, Southeast Greenland 1995-2006, Geogr. Tidsskrift, 108(1), 111-120.",RGI50-05.11186
+2000,1629,GL,MITTIVAKKAT,17.6,1230.0,-2060.0,-830.0,"Data source: Knudsen and Hasholt (2008): Mass balance observations at Mittivakkat Glacier, Ammassalik Island, Southeast Greenland 1995-2006, Geogr. Tidsskrift, 108(1), 111-120.",RGI50-05.11186
+2001,1629,GL,MITTIVAKKAT,17.6,1180.0,-2140.0,-960.0,"Data source: Knudsen and Hasholt (2008): Mass balance observations at Mittivakkat Glacier, Ammassalik Island, Southeast Greenland 1995-2006, Geogr. Tidsskrift, 108(1), 111-120.",RGI50-05.11186
+2002,1629,GL,MITTIVAKKAT,17.6,1280.0,-1780.0,-500.0,"Data source: Knudsen and Hasholt (2008): Mass balance observations at Mittivakkat Glacier, Ammassalik Island, Southeast Greenland 1995-2006, Geogr. Tidsskrift, 108(1), 111-120.",RGI50-05.11186
+2003,1629,GL,MITTIVAKKAT,17.6,,,340.0,"Data source: Knudsen and Hasholt (2008): Mass balance observations at Mittivakkat Glacier, Ammassalik Island, Southeast Greenland 1995-2006, Geogr. Tidsskrift, 108(1), 111-120.",RGI50-05.11186
+2004,1629,GL,MITTIVAKKAT,17.6,,,-1070.0,"Data source: Knudsen and Hasholt (2008): Mass balance observations at Mittivakkat Glacier, Ammassalik Island, Southeast Greenland 1995-2006, Geogr. Tidsskrift, 108(1), 111-120.",RGI50-05.11186
+2005,1629,GL,MITTIVAKKAT,17.6,920.0,-2740.0,-1820.0,"Data source: Knudsen and Hasholt (2008): Mass balance observations at Mittivakkat Glacier, Ammassalik Island, Southeast Greenland 1995-2006, Geogr. Tidsskrift, 108(1), 111-120.",RGI50-05.11186
+2006,1629,GL,MITTIVAKKAT,17.6,980.0,-1590.0,-580.0,"Data source: Knudsen and Hasholt (2008): Mass balance observations at Mittivakkat Glacier, Ammassalik Island, Southeast Greenland 1995-2006, Geogr. Tidsskrift, 108(1), 111-120.",RGI50-05.11186
+2007,1629,GL,MITTIVAKKAT,,,,-1580.0,,RGI50-05.11186
+2008,1629,GL,MITTIVAKKAT,17.6,1160.0,-1690.0,-520.0,,RGI50-05.11186
+2009,1629,GL,MITTIVAKKAT,17.6,,,-1010.0,,RGI50-05.11186
+2010,1629,GL,MITTIVAKKAT,17.6,,,-2160.0,,RGI50-05.11186
+2011,1629,GL,MITTIVAKKAT,17.6,,,-2450.0,"INTERACT (2011), Press release: http://www.eu-interact.org/topmenu/news/nyhet/article/an-interact-trans-national-access-award-helps-scientists-to-observe-record-ice-losses-from-greenland/",RGI50-05.11186
+2012,1629,GL,MITTIVAKKAT,17.6,900.0,-2530.0,-1630.0,,RGI50-05.11186
+2013,1629,GL,MITTIVAKKAT,15.94,1330.0,-2030.0,-700.0,,RGI50-05.11186
+2014,1629,GL,MITTIVAKKAT,15.9,,,-1200.0,,RGI50-05.11186
+2015,1629,GL,MITTIVAKKAT,,,,200.0,Preliminary value.,RGI50-05.11186

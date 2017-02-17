@@ -1,0 +1,16 @@
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
+2000,2665,AQ,BAHIA DEL DIABLO,12.9,,,-570.0,"Value has been revised according to new glacier area (Marinsek, 2013). Old values: 14.3 km2; -560 mm w.e.",RGI50-19.00595
+2001,2665,AQ,BAHIA DEL DIABLO,12.9,,,-60.0,"Value has been revised according to new glacier area (Marinsek, 2013). Old values: 14.3 km2; -60 mm w.e.",RGI50-19.00595
+2002,2665,AQ,BAHIA DEL DIABLO,12.9,,,-560.0,"Value has been revised according to new glacier area (Marinsek, 2013). Old values: 14.3 km2; -510 mm w.e.",RGI50-19.00595
+2003,2665,AQ,BAHIA DEL DIABLO,12.9,,,-180.0,"Value has been revised according to new glacier area (Marinsek, 2013). Old values: 14.3 km2; -150 mm w.e.",RGI50-19.00595
+2004,2665,AQ,BAHIA DEL DIABLO,12.9,,,-120.0,"Value has been revised according to new glacier area (Marinsek, 2013). Old values: 14.3 km2; -110 mm w.e.",RGI50-19.00595
+2005,2665,AQ,BAHIA DEL DIABLO,12.9,,,-140.0,"Value has been revised according to new glacier area (Marinsek, 2013). Old values: 14.3 km2; -230 mm w.e.",RGI50-19.00595
+2006,2665,AQ,BAHIA DEL DIABLO,12.9,,,-450.0,"Value has been revised according to new glacier area (Marinsek, 2013). Old values: 14.3 km2; -580 mm w.e.",RGI50-19.00595
+2007,2665,AQ,BAHIA DEL DIABLO,12.9,,,-140.0,"Value has been revised according to new glacier area (Marinsek, 2013). Old values: 14.3 km2; -80 mm w.e.",RGI50-19.00595
+2008,2665,AQ,BAHIA DEL DIABLO,12.9,,,-440.0,"Value has been revised according to new glacier area (Marinsek, 2013). Old values: 14.3 km2; -530 mm w.e.",RGI50-19.00595
+2009,2665,AQ,BAHIA DEL DIABLO,12.9,,,-330.0,"Value has been revised according to new glacier area (Marinsek, 2013). Old values: 14.3 km2; -255 mm w.e.",RGI50-19.00595
+2010,2665,AQ,BAHIA DEL DIABLO,12.9,,,370.0,"Value has been revised according to new glacier area (Marinsek, 2013). Old values: 14.3 km2; 370 mm w.e.",RGI50-19.00595
+2011,2665,AQ,BAHIA DEL DIABLO,12.9,,,20.0,"Value has been revised according to new glacier area (Marinsek, 2013). Old values: 14.3 km2; 60 mm w.e.",RGI50-19.00595
+2012,2665,AQ,BAHIA DEL DIABLO,12.9,,,-20.0,,RGI50-19.00595
+2013,2665,AQ,BAHIA DEL DIABLO,12.9,,,100.0,,RGI50-19.00595
+2014,2665,AQ,BAHIA DEL DIABLO,12.9,,,190.0,,RGI50-19.00595

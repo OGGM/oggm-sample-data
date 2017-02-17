@@ -1,0 +1,11 @@
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
+2005,1597,NZ,BREWSTER,2.54,2979.0,-1838.0,1141.0,"up to 2000 m a.s.l.: Accumulation: a gradient based on 3 measurements (1700, 1800, 1900 m a.s.l.) has been used to calculate accumulation; Ablation: stake measurements, aerial photographs of the end-of-summer snowline, radiation and elevation have been us",RGI50-18.01130
+2006,1597,NZ,BREWSTER,2.54,2479.0,-2197.0,282.0,,RGI50-18.01130
+2007,1597,NZ,BREWSTER,2.54,2881.0,-2583.0,297.0,"above 1900 m a.s.l.: Winter balance: a gradient based on 2 measurements (SP12, SP23) has been used to calculate accumulation; Summer balance: estimated according to aerial photographs of the end-of-summer snowline and elevation, above 1980 m a.s.l. the summer balance had to be estimated with the help of aerial photographs and topological characteristics",RGI50-18.01130
+2008,1597,NZ,BREWSTER,2.54,2447.0,-4100.0,-1653.0,,RGI50-18.01130
+2009,1597,NZ,BREWSTER,2.54,1914.0,-2741.0,-828.0,,RGI50-18.01130
+2010,1597,NZ,BREWSTER,,2672.0,-2450.0,222.0,Elevation range reported as 1676-2399 m a.s.l.,RGI50-18.01130
+2011,1597,NZ,BREWSTER,,1972.0,-3481.0,-1509.0,Elevation range reported as 1676-2399 m a.s.l.,RGI50-18.01130
+2012,1597,NZ,BREWSTER,,1586.0,-1786.0,-200.0,,RGI50-18.01130
+2013,1597,NZ,BREWSTER,,2489.0,-2383.0,106.0,,RGI50-18.01130
+2014,1597,NZ,BREWSTER,2.55,2508.0,-1830.0,678.0,,RGI50-18.01130

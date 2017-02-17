@@ -1,0 +1,21 @@
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
+1995,1107,IT,CALDERONE,,,,12.0,"PECCI M., D'AGATA C. & SMIRAGLIA C. (2008) - Ghiacciaio del Calderone (Apennines, Italy):  the mass balance of a shrinking mediterranean glacier. Geografia Fisica e Dinamica Quaternaria, 31, 55-62",RGI50-11.03967
+1996,1107,IT,CALDERONE,,,,36.0,"PECCI M., D'AGATA C. & SMIRAGLIA C. (2008) - Ghiacciaio del Calderone (Apennines, Italy):  the mass balance of a shrinking mediterranean glacier. Geografia Fisica e Dinamica Quaternaria, 31, 55-62",RGI50-11.03967
+1997,1107,IT,CALDERONE,,,,-198.0,"PECCI M., D'AGATA C. & SMIRAGLIA C. (2008) - Ghiacciaio del Calderone (Apennines, Italy):  the mass balance of a shrinking mediterranean glacier. Geografia Fisica e Dinamica Quaternaria, 31, 55-62",RGI50-11.03967
+1998,1107,IT,CALDERONE,,,,-636.0,"PECCI M., D'AGATA C. & SMIRAGLIA C. (2008) - Ghiacciaio del Calderone (Apennines, Italy):  the mass balance of a shrinking mediterranean glacier. Geografia Fisica e Dinamica Quaternaria, 31, 55-62",RGI50-11.03967
+1999,1107,IT,CALDERONE,,,,-945.0,"PECCI M., D'AGATA C. & SMIRAGLIA C. (2008) - Ghiacciaio del Calderone (Apennines, Italy):  the mass balance of a shrinking mediterranean glacier. Geografia Fisica e Dinamica Quaternaria, 31, 55-62",RGI50-11.03967
+2000,1107,IT,CALDERONE,,,,-636.0,"PECCI M., D'AGATA C. & SMIRAGLIA C. (2008) - Ghiacciaio del Calderone (Apennines, Italy):  the mass balance of a shrinking mediterranean glacier. Geografia Fisica e Dinamica Quaternaria, 31, 55-62",RGI50-11.03967
+2001,1107,IT,CALDERONE,0.05,,,-511.0,Specific net balance; measures directly on the stakes at the end of the hydrological year,RGI50-11.03967
+2002,1107,IT,CALDERONE,0.03,,,-1847.0,Specific net balance; measures directly on the stakes at the end of the hydrological year,RGI50-11.03967
+2003,1107,IT,CALDERONE,0.03,,,-264.0,Specific net balance; measures directly on the stakes at the end of the hydrological year,RGI50-11.03967
+2004,1107,IT,CALDERONE,0.03,,,252.0,Specific net balance; measures directly on the stakes at the end of the hydrological year,RGI50-11.03967
+2005,1107,IT,CALDERONE,0.03,,,-194.0,Specific net balance; measures directly on the stakes at the end of the hydrological year,RGI50-11.03967
+2006,1107,IT,CALDERONE,0.03,2603.0,-1513.0,1090.0,,RGI50-11.03967
+2007,1107,IT,CALDERONE,0.03,1182.0,-3501.0,-2320.0,"Specific summer and specific net balance rounded down due to ablation stakes fallen down, but checked by laser-GPS measures",RGI50-11.03967
+2008,1107,IT,CALDERONE,0.03,2695.0,-2420.0,275.0,"Specific summer and specific net balance rounded down due to ablation stakes fallen down, but checked by laser-GPS measures / Massimo Pecci, Pinuccio D'Aquila, Luca Lombardi; EIM (Italian Mountain Institute) Piazza dei Caprettari, 70 - 00186 Rome (Italy)",RGI50-11.03967
+2009,1107,IT,CALDERONE,0.03,3593.0,-3192.0,401.0,"Specific summer and specific net balance rounded  down due to ablation stakes completely covered (buried), but checked and estrapolated by photo-comparison (same places in 208 and 2009) and GPS measures",RGI50-11.03967
+2010,1107,IT,CALDERONE,0.03,2801.0,-2099.0,702.0,"Specific summer and specific net balance rounded  down due to ablation stakes completely covered (buried), but checked and estrapolated by photo-comparison (same places in 208 and 2009) and GPS measures.",RGI50-11.03967
+2011,1107,IT,CALDERONE,0.03,3063.0,-4245.0,-1182.0,,RGI50-11.03967
+2012,1107,IT,CALDERONE,0.03,2516.0,-4540.0,-2024.0,"Specific summer and specific net balance rounded  down due to ablation stakes lost (fallen down), but checked and estrapolated by photo-comparison (in the same places since 2008)",RGI50-11.03967
+2013,1107,IT,CALDERONE,0.03,3225.0,-2768.0,487.0,"Specific summer and specific net balance rounded  down due to ablation stakes lost (fallen down), but checked and estrapolated by photo-comparison (from the same point of view since 2008).",RGI50-11.03967
+2014,1107,IT,CALDERONE,0.03,5978.0,-5352.0,626.0,"Specific summer and specific net balance rounded  down due to ablation stakes lost (fallen down), but checked and estrapolated by photo-comparison (from the same point of view since 2008).",RGI50-11.03967

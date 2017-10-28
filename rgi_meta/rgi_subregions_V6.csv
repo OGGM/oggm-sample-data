@@ -1,0 +1,91 @@
+ O1, O2,Full_name
+1,1,N Alaska                        
+1,2,Alaska Ra (Wrangell/Kilbuck)    
+1,3,Alaska Pena (Aleutians)         
+1,4,W Chugach Mtns (Talkeetna)      
+1,5,St Elias Mtns                   
+1,6,N Coast Ranges                  
+2,1,Mackenzie and Selwyn Mtns       
+2,2,S Coast Ranges                  
+2,3,N Rocky Mtns                    
+2,4,Cascade Ra and Sa Nevada        
+2,5,S Rocky Mtns                    
+3,1,N Ellesmere Island              
+3,2,Axel Heiberg and Meighen Is     
+3,3,NC Ellesmere Island             
+3,4,SC Ellesmere Island             
+3,5,S Ellesmere Island (NW Devon)   
+3,6,Devon Island                    
+3,7,Melville Island                 
+4,1,Bylot Island                    
+4,2,W Baffin Island                 
+4,3,N Baffin Island                 
+4,4,NE Baffin Island                
+4,5,EC Baffin Island                
+4,6,SE Baffin Island                
+4,7,Cumberland Sound                
+4,8,Frobisher Bay                   
+4,9,Labrador                        
+5,1,Greenland (periphery)           
+5,11,Greenland Ice Sheet             
+6,1,Iceland                         
+7,1,Svalbard                        
+7,2,Jan Mayen                       
+8,1,S Norway                        
+8,2,N Scandinavia                   
+9,1,Franz Josef Land                
+9,2,Novaya Zemlya                   
+9,3,Severnaya Zemlya                
+10,1,Ural Mountains                  
+10,2,Central Siberia                 
+10,3,Cherskiy/Suntar Khayata Ranges  
+10,4,Altay and Sayan                 
+10,5,NE Russia                       
+10,6,E Chukotka                      
+10,7,Japan                           
+11,1,Alps                            
+11,2,Southern and Eastern Europe     
+12,1,Greater Caucasus                
+12,2,Middle East                     
+13,1,Hissar Alay                     
+13,2,Pamir (Safed Khirs/W Tarim)     
+13,3,W Tien Shan                     
+13,4,E Tien Shan (Dzhungaria)        
+13,5,W Kun Lun                       
+13,6,E Kun Lun (Altyn Tagh)          
+13,7,Qilian Shan                     
+13,8,Inner Tibet                     
+13,9,S and E Tibet                   
+14,1,Hindu Kush                      
+14,2,Karakoram                       
+14,3,W Himalaya                      
+15,1,C Himalaya                      
+15,2,E Himalaya                      
+15,3,Hengduan Shan                   
+16,1,Low-latitude Andes              
+16,2,Mexico                          
+16,3,E Africa                        
+16,4,New Guinea                      
+17,1,Patagonia                       
+17,2,C Andes                         
+18,1,New Zealand                     
+19,1,Subantarctic (Pacific)          
+19,2,S Shetlands and S Orkneys       
+19,3,Subantarctic (Atlantic)         
+19,4,Subantarctic (Indian)           
+19,5,Balleny Islands                 
+19,11,E Queen Maud Land 7A            
+19,12,Amery Ice Shelf 7B              
+19,13,Wilkes Land 7C                  
+19,14,Victoria Land 7D                
+19,15,Ross Ice Shelf 7E               
+19,16,Marie Byrd Land 7F              
+19,17,Pine Island Bay 7G              
+19,18,Bellingshausen Sea 7H1          
+19,19,Alexander Island 7H2            
+19,20,W Antarctic Pena 7I1            
+19,21,NE Antarctic Pena 7I2           
+19,22,SE Antarctic Pena 7I3           
+19,23,Ronne-Filchner Ice Shelf 7J     
+19,24,W Queen Maud Land 7K            
+19,31,Antarctic Ice Sheet             

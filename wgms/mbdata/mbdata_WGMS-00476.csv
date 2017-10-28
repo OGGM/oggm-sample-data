@@ -1,18 +1,18 @@
-YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
-1964,476,AT,FILLECK K.,0.11,,,-1260.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!",RGI50-11.00073
-1965,476,AT,FILLECK K.,0.16,,,1890.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!",RGI50-11.00073
-1966,476,AT,FILLECK K.,0.16,,,680.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!",RGI50-11.00073
-1967,476,AT,FILLECK K.,0.16,,,190.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!",RGI50-11.00073
-1968,476,AT,FILLECK K.,0.16,,,350.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!",RGI50-11.00073
-1969,476,AT,FILLECK K.,0.16,,,-430.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!",RGI50-11.00073
-1970,476,AT,FILLECK K.,0.16,,,280.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!",RGI50-11.00073
-1971,476,AT,FILLECK K.,0.13,,,-300.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!",RGI50-11.00073
-1972,476,AT,FILLECK K.,0.13,,,120.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!",RGI50-11.00073
-1973,476,AT,FILLECK K.,0.14,,,-860.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!",RGI50-11.00073
-1974,476,AT,FILLECK K.,0.15,,,690.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!",RGI50-11.00073
-1975,476,AT,FILLECK K.,0.15,,,560.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!",RGI50-11.00073
-1976,476,AT,FILLECK K.,0.14,,,280.0,,RGI50-11.00073
-1977,476,AT,FILLECK K.,0.14,,,230.0,,RGI50-11.00073
-1978,476,AT,FILLECK K.,0.16,,,870.0,,RGI50-11.00073
-1979,476,AT,FILLECK K.,0.16,,,130.0,,RGI50-11.00073
-1980,476,AT,FILLECK K.,0.14,,,860.0,,RGI50-11.00073
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS
+1964,476,AT,FILLECK K.,0.11,,,-1260.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!"
+1965,476,AT,FILLECK K.,0.16,,,1890.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!"
+1966,476,AT,FILLECK K.,0.16,,,680.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!"
+1967,476,AT,FILLECK K.,0.16,,,190.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!"
+1968,476,AT,FILLECK K.,0.16,,,350.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!"
+1969,476,AT,FILLECK K.,0.16,,,-430.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!"
+1970,476,AT,FILLECK K.,0.16,,,280.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!"
+1971,476,AT,FILLECK K.,0.13,,,-300.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!"
+1972,476,AT,FILLECK K.,0.13,,,120.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!"
+1973,476,AT,FILLECK K.,0.14,,,-860.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!"
+1974,476,AT,FILLECK K.,0.15,,,690.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!"
+1975,476,AT,FILLECK K.,0.15,,,560.0,"Data from Dyurgerov, M. (2002): [2, 3, 4, 5] For detailed references consult Dyurgerov's Appendix 1!"
+1976,476,AT,FILLECK K.,0.148,,,280.0,
+1977,476,AT,FILLECK K.,0.148,,,230.0,
+1978,476,AT,FILLECK K.,0.16,,,870.0,
+1979,476,AT,FILLECK K.,0.16,,,130.0,
+1980,476,AT,FILLECK K.,0.148,,,860.0,

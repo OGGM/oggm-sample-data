@@ -1,14 +1,14 @@
-YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
-2000,1238,IT,GRAND ETRET,0.55,329.0,-550.0,-221.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances.",RGI50-11.03298
-2001,1238,IT,GRAND ETRET,0.55,764.0,-431.0,333.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances.",RGI50-11.03298
-2002,1238,IT,GRAND ETRET,0.55,444.0,-822.0,-378.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances.",RGI50-11.03298
-2003,1238,IT,GRAND ETRET,0.55,332.0,-885.0,-553.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances.",RGI50-11.03298
-2004,1238,IT,GRAND ETRET,0.55,436.0,-789.0,-353.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances.",RGI50-11.03298
-2005,1238,IT,GRAND ETRET,0.55,353.0,-766.0,-413.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances.",RGI50-11.03298
-2006,1238,IT,GRAND ETRET,0.55,334.0,-912.0,-578.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances.",RGI50-11.03298
-2008,1238,IT,GRAND ETRET,0.55,1322.0,-2685.0,-1363.0,,RGI50-11.03298
-2009,1238,IT,GRAND ETRET,,2846.0,-2473.0,373.0,,RGI50-11.03298
-2012,1238,IT,GRAND ETRET,,,,-1158.0,,RGI50-11.03298
-2013,1238,IT,GRAND ETRET,0.53,1901.0,-2171.0,-270.0,,RGI50-11.03298
-2014,1238,IT,GRAND ETRET,0.53,,,-569.0,,RGI50-11.03298
-2015,1238,IT,GRAND ETRET,0.53,1452.0,-3243.0,-1791.0,,RGI50-11.03298
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS
+2000,1238,IT,GRAND ETRET,0.5526,329.0,-550.0,-221.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances."
+2001,1238,IT,GRAND ETRET,0.5526,764.0,-431.0,333.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances."
+2002,1238,IT,GRAND ETRET,0.5526,444.0,-822.0,-378.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances."
+2003,1238,IT,GRAND ETRET,0.5526,332.0,-885.0,-553.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances."
+2004,1238,IT,GRAND ETRET,0.5526,436.0,-789.0,-353.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances."
+2005,1238,IT,GRAND ETRET,0.5526,353.0,-766.0,-413.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances."
+2006,1238,IT,GRAND ETRET,0.5526,334.0,-912.0,-578.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances."
+2008,1238,IT,GRAND ETRET,0.5526,1322.0,-2685.0,-1363.0,
+2009,1238,IT,GRAND ETRET,,2846.0,-2473.0,373.0,
+2012,1238,IT,GRAND ETRET,,,,-1158.0,
+2013,1238,IT,GRAND ETRET,0.5322,1901.0,-2171.0,-270.0,
+2014,1238,IT,GRAND ETRET,0.5322,,,-569.0,
+2015,1238,IT,GRAND ETRET,0.5322,1452.0,-3243.0,-1791.0,

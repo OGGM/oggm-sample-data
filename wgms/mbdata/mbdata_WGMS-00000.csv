@@ -1,53 +1,54 @@
-YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
-1960,0,CA,WHITE,40.13,,,-404.0,Area and Ba from Cogley.,RGI50-03.04539
-1961,0,CA,WHITE,40.11,,,17.0,Area and Ba from Cogley.,RGI50-03.04539
-1962,0,CA,WHITE,40.09,,,-781.0,Area and Ba from Cogley.,RGI50-03.04539
-1963,0,CA,WHITE,40.08,,,-155.0,Area and Ba from Cogley.,RGI50-03.04539
-1964,0,CA,WHITE,40.06,,,350.0,Area and Ba from Cogley.,RGI50-03.04539
-1965,0,CA,WHITE,40.04,,,-12.0,Area and Ba from Cogley.,RGI50-03.04539
-1966,0,CA,WHITE,40.02,,,-25.0,Area and Ba from Cogley.,RGI50-03.04539
-1967,0,CA,WHITE,40.01,,,118.0,Area and Ba from Cogley.,RGI50-03.04539
-1968,0,CA,WHITE,39.99,,,-408.0,Area and Ba from Cogley.,RGI50-03.04539
-1969,0,CA,WHITE,39.97,,,72.0,Area and Ba from Cogley.,RGI50-03.04539
-1970,0,CA,WHITE,39.95,,,-4.0,Area and Ba from Cogley.,RGI50-03.04539
-1971,0,CA,WHITE,39.93,,,-183.0,Area and Ba from Cogley.,RGI50-03.04539
-1972,0,CA,WHITE,39.92,,,118.0,Area and Ba from Cogley.,RGI50-03.04539
-1973,0,CA,WHITE,39.9,,,191.0,Area and Ba from Cogley.,RGI50-03.04539
-1974,0,CA,WHITE,39.88,,,-44.0,Area and Ba from Cogley.,RGI50-03.04539
-1975,0,CA,WHITE,39.86,,,251.0,Area and Ba from Cogley.,RGI50-03.04539
-1976,0,CA,WHITE,39.84,,,114.0,Area and Ba from Cogley.,RGI50-03.04539
-1977,0,CA,WHITE,39.83,,,-370.0,Area and Ba from Cogley.,RGI50-03.04539
-1978,0,CA,WHITE,39.81,,,-131.0,Area and Ba from Cogley.,RGI50-03.04539
-1979,0,CA,WHITE,39.79,,,-87.0,Area and Ba from Cogley.,RGI50-03.04539
-1983,0,CA,WHITE,39.72,,,-76.0,Area and Ba from Cogley.,RGI50-03.04539
-1984,0,CA,WHITE,39.7,,,-44.0,Area and Ba from Cogley.,RGI50-03.04539
-1985,0,CA,WHITE,39.68,,,1.0,Area and Ba from Cogley.,RGI50-03.04539
-1986,0,CA,WHITE,39.67,,,-243.0,Area and Ba from Cogley.,RGI50-03.04539
-1987,0,CA,WHITE,39.65,,,-594.0,Area and Ba from Cogley.,RGI50-03.04539
-1988,0,CA,WHITE,39.63,,,140.0,Area and Ba from Cogley.,RGI50-03.04539
-1989,0,CA,WHITE,39.61,,,40.0,Area and Ba from Cogley.,RGI50-03.04539
-1990,0,CA,WHITE,39.59,,,-431.0,Area and Ba from Cogley.,RGI50-03.04539
-1991,0,CA,WHITE,39.58,,,-160.0,Area and Ba from Cogley.,RGI50-03.04539
-1992,0,CA,WHITE,39.56,,,-274.0,Area and Ba from Cogley.,RGI50-03.04539
-1993,0,CA,WHITE,39.54,,,-423.0,Area and Ba from Cogley.,RGI50-03.04539
-1994,0,CA,WHITE,39.52,,,-276.0,Area and Ba from Cogley.,RGI50-03.04539
-1995,0,CA,WHITE,39.51,,,-347.0,Area and Ba from Cogley.,RGI50-03.04539
-1996,0,CA,WHITE,39.49,,,50.0,Area and Ba from Cogley.,RGI50-03.04539
-1997,0,CA,WHITE,39.47,,,-38.0,Area and Ba from Cogley.,RGI50-03.04539
-1998,0,CA,WHITE,39.45,,,-201.0,Area and Ba from Cogley.,RGI50-03.04539
-1999,0,CA,WHITE,39.43,,,-470.0,Area and Ba from Cogley.,RGI50-03.04539
-2000,0,CA,WHITE,39.42,,,-405.0,Area and Ba from Cogley.,RGI50-03.04539
-2001,0,CA,WHITE,39.4,,,-151.0,Area and Ba from Cogley.,RGI50-03.04539
-2002,0,CA,WHITE,39.38,,,32.0,Area and Ba from Cogley.,RGI50-03.04539
-2003,0,CA,WHITE,39.38,,,-106.0,Area and Ba from Cogley.,RGI50-03.04539
-2004,0,CA,WHITE,39.38,,,37.0,Area and Ba from Cogley.,RGI50-03.04539
-2005,0,CA,WHITE,39.38,,,-612.0,Area and Ba from Cogley.,RGI50-03.04539
-2006,0,CA,WHITE,39.38,,,-93.0,Area and Ba from Cogley.,RGI50-03.04539
-2007,0,CA,WHITE,39.38,,,-818.0,Area and Ba from Cogley.,RGI50-03.04539
-2008,0,CA,WHITE,39.38,,,-807.0,Area and Ba from Cogley.,RGI50-03.04539
-2009,0,CA,WHITE,39.38,,,-586.0,Area and Ba from Cogley.,RGI50-03.04539
-2010,0,CA,WHITE,39.38,,,-194.0,Area and Ba from Cogley.,RGI50-03.04539
-2011,0,CA,WHITE,39.38,,,-987.0,Area and Ba from Cogley.,RGI50-03.04539
-2012,0,CA,WHITE,39.38,,,-951.0,,RGI50-03.04539
-2013,0,CA,WHITE,,,,45.0,,RGI50-03.04539
-2014,0,CA,WHITE,38.54,,,-417.0,,RGI50-03.04539
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS
+1960,0,CA,WHITE,40.13,,,-404.0,Area and Ba from Cogley.
+1961,0,CA,WHITE,40.11,,,17.0,Area and Ba from Cogley.
+1962,0,CA,WHITE,40.09,,,-781.0,Area and Ba from Cogley.
+1963,0,CA,WHITE,40.08,,,-155.0,Area and Ba from Cogley.
+1964,0,CA,WHITE,40.06,,,350.0,Area and Ba from Cogley.
+1965,0,CA,WHITE,40.04,,,-12.0,Area and Ba from Cogley.
+1966,0,CA,WHITE,40.02,,,-25.0,Area and Ba from Cogley.
+1967,0,CA,WHITE,40.01,,,118.0,Area and Ba from Cogley.
+1968,0,CA,WHITE,39.99,,,-408.0,Area and Ba from Cogley.
+1969,0,CA,WHITE,39.97,,,72.0,Area and Ba from Cogley.
+1970,0,CA,WHITE,39.95,,,-4.0,Area and Ba from Cogley.
+1971,0,CA,WHITE,39.93,,,-183.0,Area and Ba from Cogley.
+1972,0,CA,WHITE,39.92,,,118.0,Area and Ba from Cogley.
+1973,0,CA,WHITE,39.9,,,191.0,Area and Ba from Cogley.
+1974,0,CA,WHITE,39.88,,,-44.0,Area and Ba from Cogley.
+1975,0,CA,WHITE,39.86,,,251.0,Area and Ba from Cogley.
+1976,0,CA,WHITE,39.84,,,114.0,Area and Ba from Cogley.
+1977,0,CA,WHITE,39.83,,,-370.0,Area and Ba from Cogley.
+1978,0,CA,WHITE,39.81,,,-131.0,Area and Ba from Cogley.
+1979,0,CA,WHITE,39.79,,,-87.0,Area and Ba from Cogley.
+1983,0,CA,WHITE,39.72,,,-76.0,Area and Ba from Cogley.
+1984,0,CA,WHITE,39.7,,,-44.0,Area and Ba from Cogley.
+1985,0,CA,WHITE,39.68,,,1.0,Area and Ba from Cogley.
+1986,0,CA,WHITE,39.67,,,-243.0,Area and Ba from Cogley.
+1987,0,CA,WHITE,39.65,,,-594.0,Area and Ba from Cogley.
+1988,0,CA,WHITE,39.63,,,140.0,Area and Ba from Cogley.
+1989,0,CA,WHITE,39.61,,,40.0,Area and Ba from Cogley.
+1990,0,CA,WHITE,39.59,,,-431.0,Area and Ba from Cogley.
+1991,0,CA,WHITE,39.58,,,-160.0,Area and Ba from Cogley.
+1992,0,CA,WHITE,39.56,,,-274.0,Area and Ba from Cogley.
+1993,0,CA,WHITE,39.54,,,-423.0,Area and Ba from Cogley.
+1994,0,CA,WHITE,39.52,,,-276.0,Area and Ba from Cogley.
+1995,0,CA,WHITE,39.51,,,-347.0,Area and Ba from Cogley.
+1996,0,CA,WHITE,39.49,,,50.0,Area and Ba from Cogley.
+1997,0,CA,WHITE,39.47,,,-38.0,Area and Ba from Cogley.
+1998,0,CA,WHITE,39.45,,,-201.0,Area and Ba from Cogley.
+1999,0,CA,WHITE,39.43,,,-470.0,Area and Ba from Cogley.
+2000,0,CA,WHITE,39.42,,,-405.0,Area and Ba from Cogley.
+2001,0,CA,WHITE,39.4,,,-151.0,Area and Ba from Cogley.
+2002,0,CA,WHITE,39.38,,,32.0,Area and Ba from Cogley.
+2003,0,CA,WHITE,39.38,,,-106.0,Area and Ba from Cogley.
+2004,0,CA,WHITE,39.38,,,37.0,Area and Ba from Cogley.
+2005,0,CA,WHITE,39.38,,,-612.0,Area and Ba from Cogley.
+2006,0,CA,WHITE,39.38,,,-93.0,Area and Ba from Cogley.
+2007,0,CA,WHITE,39.38,,,-818.0,Area and Ba from Cogley.
+2008,0,CA,WHITE,39.38,,,-807.0,Area and Ba from Cogley.
+2009,0,CA,WHITE,39.38,,,-586.0,Area and Ba from Cogley.
+2010,0,CA,WHITE,39.38,,,-194.0,Area and Ba from Cogley.
+2011,0,CA,WHITE,39.38,,,-987.0,Area and Ba from Cogley.
+2012,0,CA,WHITE,39.38,,,-951.0,
+2013,0,CA,WHITE,,,,45.0,
+2014,0,CA,WHITE,38.5411,,,-417.0,
+2015,0,CA,WHITE,38.541633600000004,,,-693.0,Calculated from submitted values.

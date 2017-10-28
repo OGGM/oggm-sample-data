@@ -1,6 +1,6 @@
-YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
-1987,3666,PK,SIACHEN,971.0,,,-232.0,"Value refers to lower bounds by Zaman and Liu (2015, JoG); upper bound estimate: +174 mm w.e. Bhutiyani (1999, JoG): -488 mm w.e.",RGI50-14.07524
-1988,3666,PK,SIACHEN,971.0,,,-261.0,"Value refers to lower bounds by Zaman and Liu (2015, JoG); upper bound estimate: +220 mm w.e. Bhutiyani (1999, JoG): -565 mm w.e.",RGI50-14.07524
-1989,3666,PK,SIACHEN,971.0,,,524.0,"Value refers to lower bounds by Zaman and Liu (2015, JoG); upper bound estimate: +788 mm w.e. Bhutiyani (1999, JoG): +358mm w.e.",RGI50-14.07524
-1990,3666,PK,SIACHEN,971.0,,,-468.0,"Value refers to lower bounds by Zaman and Liu (2015, JoG); upper bound estimate: +49 mm w.e. Bhutiyani (1999, JoG): -794 mm w.e.",RGI50-14.07524
-1991,3666,PK,SIACHEN,971.0,,,-721.0,"Value refers to lower bounds by Zaman and Liu (2015, JoG); upper bound estimate: -146 mm w.e. Bhutiyani (1999, JoG): -1084 mm w.e.",RGI50-14.07524
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS
+1987,3666,PK,SIACHEN,971.0,,,-232.0,"Value refers to lower bounds by Zaman and Liu (2015, JoG); upper bound estimate: +174 mm w.e. Bhutiyani (1999, JoG): -488 mm w.e."
+1988,3666,PK,SIACHEN,971.0,,,-261.0,"Value refers to lower bounds by Zaman and Liu (2015, JoG); upper bound estimate: +220 mm w.e. Bhutiyani (1999, JoG): -565 mm w.e."
+1989,3666,PK,SIACHEN,971.0,,,524.0,"Value refers to lower bounds by Zaman and Liu (2015, JoG); upper bound estimate: +788 mm w.e. Bhutiyani (1999, JoG): +358mm w.e."
+1990,3666,PK,SIACHEN,971.0,,,-468.0,"Value refers to lower bounds by Zaman and Liu (2015, JoG); upper bound estimate: +49 mm w.e. Bhutiyani (1999, JoG): -794 mm w.e."
+1991,3666,PK,SIACHEN,971.0,,,-721.0,"Value refers to lower bounds by Zaman and Liu (2015, JoG); upper bound estimate: -146 mm w.e. Bhutiyani (1999, JoG): -1084 mm w.e."

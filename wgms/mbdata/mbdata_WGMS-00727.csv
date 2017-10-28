@@ -1,14 +1,17 @@
-YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
-1967,727,RU,MARUKHSKIY,3.33,,,-430.0,Data from Dyurgerov M. (2002). ,RGI50-12.00960
-1968,727,RU,MARUKHSKIY,3.33,,,-170.0,Data from Dyurgerov M. (2002). ,RGI50-12.00960
-1969,727,RU,MARUKHSKIY,3.33,,,-940.0,Data from Dyurgerov M. (2002). ,RGI50-12.00960
-1970,727,RU,MARUKHSKIY,3.33,,,390.0,Data from Dyurgerov M. (2002). ,RGI50-12.00960
-1971,727,RU,MARUKHSKIY,3.33,,,-900.0,Data from Dyurgerov M. (2002). ,RGI50-12.00960
-1972,727,RU,MARUKHSKIY,3.33,,,-1190.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bn -1124,RGI50-12.00960
-1973,727,RU,MARUKHSKIY,3.33,,,-120.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bn -170,RGI50-12.00960
-1974,727,RU,MARUKHSKIY,3.33,,,-370.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bn -508,RGI50-12.00960
-1975,727,RU,MARUKHSKIY,3.33,,,-1260.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bn -1468,RGI50-12.00960
-1976,727,RU,MARUKHSKIY,3.33,,,340.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bn 235,RGI50-12.00960
-1977,727,RU,MARUKHSKIY,3.33,,,-820.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bn -1086,RGI50-12.00960
-1981,727,RU,MARUKHSKIY,,,,-590.0,,RGI50-12.00960
-1982,727,RU,MARUKHSKIY,,,,-400.0,,RGI50-12.00960
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS
+1967,727,RU,MARUKHSKIY,3.33,,,-430.0,Data from Dyurgerov M. (2002). 
+1968,727,RU,MARUKHSKIY,3.33,,,-170.0,Data from Dyurgerov M. (2002). 
+1969,727,RU,MARUKHSKIY,3.33,,,-940.0,Data from Dyurgerov M. (2002). 
+1970,727,RU,MARUKHSKIY,3.33,,,390.0,Data from Dyurgerov M. (2002). 
+1971,727,RU,MARUKHSKIY,3.33,,,-900.0,Data from Dyurgerov M. (2002). 
+1972,727,RU,MARUKHSKIY,3.33,,,-1190.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bn -1124
+1973,727,RU,MARUKHSKIY,3.33,,,-120.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bn -170
+1974,727,RU,MARUKHSKIY,3.33,,,-370.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bn -508
+1975,727,RU,MARUKHSKIY,3.33,,,-1260.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bn -1468
+1976,727,RU,MARUKHSKIY,3.33,,,340.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bn 235
+1977,727,RU,MARUKHSKIY,3.33,,,-820.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bn -1086
+1978,727,RU,MARUKHSKIY,3.33,,,190.0,Data from Dyurgerov M. (2002).
+1979,727,RU,MARUKHSKIY,3.33,,,-160.0,Data from Dyurgerov M. (2002).
+1980,727,RU,MARUKHSKIY,3.33,,,-1470.0,Data from Dyurgerov M. (2002).
+1981,727,RU,MARUKHSKIY,,,,-590.0,
+1982,727,RU,MARUKHSKIY,,,,-400.0,

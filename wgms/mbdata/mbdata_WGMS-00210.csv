@@ -1,46 +1,47 @@
-YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
-1956,210,US,BLUE GLACIER,4.2,,,1390.0,Data from Dyurgerov M. (2002). ,RGI50-02.13924
-1957,210,US,BLUE GLACIER,4.2,,,-1110.0,Data from Dyurgerov M. (2002). ,RGI50-02.13924
-1958,210,US,BLUE GLACIER,4.2,,,-1660.0,Data from Dyurgerov M. (2002). ,RGI50-02.13924
-1959,210,US,BLUE GLACIER,4.2,,,-300.0,Dyurgerov M. (2002):Net balance also reported as -60.,RGI50-02.13924
-1960,210,US,BLUE GLACIER,4.2,,,-280.0,Dyurgerov M. (2002):Net balance also reported as -40.,RGI50-02.13924
-1961,210,US,BLUE GLACIER,4.2,,,470.0,Dyurgerov M. (2002):Net balance also reported as 710.,RGI50-02.13924
-1962,210,US,BLUE GLACIER,4.2,,,210.0,Dyurgerov M. (2002):Net balance also reported as 450.,RGI50-02.13924
-1963,210,US,BLUE GLACIER,4.2,,,-580.0,Dyurgerov M. (2002):Net balance also reported as -340.,RGI50-02.13924
-1964,210,US,BLUE GLACIER,4.2,,,630.0,Dyurgerov M. (2002):Net balance also reported as 870.,RGI50-02.13924
-1965,210,US,BLUE GLACIER,4.2,,,-560.0,Dyurgerov M. (2002):Net balance also reported as -320.,RGI50-02.13924
-1966,210,US,BLUE GLACIER,4.2,,,340.0,Dyurgerov M. (2002):Net balance also reported as 850.,RGI50-02.13924
-1967,210,US,BLUE GLACIER,4.2,,,340.0,Dyurgerov M. (2002):Net balance also reported as 580.,RGI50-02.13924
-1968,210,US,BLUE GLACIER,4.2,,,30.0,Dyurgerov M. (2002):Net balance also reported as 270.,RGI50-02.13924
-1969,210,US,BLUE GLACIER,4.2,,,710.0,Dyurgerov M. (2002):Net balance also reported as 950.,RGI50-02.13924
-1970,210,US,BLUE GLACIER,4.2,,,-390.0,Dyurgerov M. (2002):Net balance also reported as -150.,RGI50-02.13924
-1971,210,US,BLUE GLACIER,4.2,,,1150.0,Dyurgerov M. (2002):Net balance also reported as 1390.,RGI50-02.13924
-1972,210,US,BLUE GLACIER,4.2,,,400.0,Dyurgerov M. (2002):Net balance also reported as 640.,RGI50-02.13924
-1973,210,US,BLUE GLACIER,4.2,,,-140.0,Dyurgerov M. (2002):Net balance also reported as 100.,RGI50-02.13924
-1974,210,US,BLUE GLACIER,4.2,,,2000.0,Dyurgerov M. (2002):Net balance also reported as 2240.,RGI50-02.13924
-1975,210,US,BLUE GLACIER,4.2,,,670.0,Net balance also reported as 910.,RGI50-02.13924
-1976,210,US,BLUE GLACIER,4.3,,,1420.0,Dyurgerov M. (2002):Net balance also reported as 1660.,RGI50-02.13924
-1977,210,US,BLUE GLACIER,4.3,,,-1240.0,Dyurgerov M. (2002):Net balance also reported as -1000.,RGI50-02.13924
-1978,210,US,BLUE GLACIER,4.3,,,510.0,Dyurgerov M. (2002):Net balance also reported as 750.,RGI50-02.13924
-1979,210,US,BLUE GLACIER,4.3,,,-1150.0,Net balance also reported as 910.,RGI50-02.13924
-1980,210,US,BLUE GLACIER,4.3,,,-1610.0,Net balance also reported as -1370.,RGI50-02.13924
-1981,210,US,BLUE GLACIER,4.3,,,-1310.0,Net balance also reported as -1070.,RGI50-02.13924
-1982,210,US,BLUE GLACIER,4.3,,,750.0,Net balance also reported as 990.,RGI50-02.13924
-1983,210,US,BLUE GLACIER,4.3,,,1340.0,Net balance also reported as 1580.,RGI50-02.13924
-1984,210,US,BLUE GLACIER,4.3,,,490.0,Net balance also reported as 730.,RGI50-02.13924
-1985,210,US,BLUE GLACIER,4.3,,,420.0,Net balance also reported as 660.,RGI50-02.13924
-1986,210,US,BLUE GLACIER,,,,-920.0,Net balance also reported as -680.,RGI50-02.13924
-1987,210,US,BLUE GLACIER,4.3,,,-790.0,Dyurgerov M. (2002):Net balance also reported as 10.,RGI50-02.13924
-1988,210,US,BLUE GLACIER,4.3,,,220.0,Dyurgerov M. (2002):Net balance also reported as 1010.,RGI50-02.13924
-1989,210,US,BLUE GLACIER,4.3,,,-640.0,Dyurgerov M. (2002):Net balance also reported as 150.,RGI50-02.13924
-1990,210,US,BLUE GLACIER,4.3,,,-1180.0,Dyurgerov M. (2002: Net balance also reported as -390.,RGI50-02.13924
-1991,210,US,BLUE GLACIER,4.3,,,-790.0,Dyurgerov M. (2002):Net balance also reported as 10.,RGI50-02.13924
-1992,210,US,BLUE GLACIER,4.3,,,-1180.0,Dyurgerov M. (2002):Net balance also reported as -390.,RGI50-02.13924
-1993,210,US,BLUE GLACIER,4.3,,,-1350.0,Dyurgerov M. (2002):Net balance also reported as -550.,RGI50-02.13924
-1994,210,US,BLUE GLACIER,4.3,,,-1750.0,Dyurgerov M. (2002):Net balance also reported as -960.,RGI50-02.13924
-1995,210,US,BLUE GLACIER,4.3,,,-10.0,Dyurgerov M. (2002):Net balance also reported as 780.,RGI50-02.13924
-1996,210,US,BLUE GLACIER,4.3,,,-790.0,Dyurgerov M. (2002):Net balance also reported as 10.,RGI50-02.13924
-1997,210,US,BLUE GLACIER,4.3,,,-490.0,Dyurgerov M. (2002):Net balance also reported as 310.,RGI50-02.13924
-1998,210,US,BLUE GLACIER,,,,-880.0,"Value from Conway et al (1999): -1110, ELA-AAR relation was used to calculate bn.",RGI50-02.13924
-1999,210,US,BLUE GLACIER,,,,1090.0,Values from Conway et al (1999): ELA-AAR relation was used to calculate bn. The mass balance program was suspended in 1999.,RGI50-02.13924
-2014,210,US,BLUE GLACIER,,2800.0,-4210.0,-1410.0,,RGI50-02.13924
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS
+1956,210,US,BLUE GLACIER,4.2,,,1390.0,Data from Dyurgerov M. (2002). 
+1957,210,US,BLUE GLACIER,4.2,,,-1110.0,Data from Dyurgerov M. (2002). 
+1958,210,US,BLUE GLACIER,4.2,,,-1660.0,Data from Dyurgerov M. (2002). 
+1959,210,US,BLUE GLACIER,4.2,,,-300.0,Dyurgerov M. (2002):Net balance also reported as -60.
+1960,210,US,BLUE GLACIER,4.2,,,-280.0,Dyurgerov M. (2002):Net balance also reported as -40.
+1961,210,US,BLUE GLACIER,4.2,,,470.0,Dyurgerov M. (2002):Net balance also reported as 710.
+1962,210,US,BLUE GLACIER,4.2,,,210.0,Dyurgerov M. (2002):Net balance also reported as 450.
+1963,210,US,BLUE GLACIER,4.2,,,-580.0,Dyurgerov M. (2002):Net balance also reported as -340.
+1964,210,US,BLUE GLACIER,4.2,,,630.0,Dyurgerov M. (2002):Net balance also reported as 870.
+1965,210,US,BLUE GLACIER,4.2,,,-560.0,Dyurgerov M. (2002):Net balance also reported as -320.
+1966,210,US,BLUE GLACIER,4.2,,,340.0,Dyurgerov M. (2002):Net balance also reported as 850.
+1967,210,US,BLUE GLACIER,4.2,,,340.0,Dyurgerov M. (2002):Net balance also reported as 580.
+1968,210,US,BLUE GLACIER,4.2,,,30.0,Dyurgerov M. (2002):Net balance also reported as 270.
+1969,210,US,BLUE GLACIER,4.2,,,710.0,Dyurgerov M. (2002):Net balance also reported as 950.
+1970,210,US,BLUE GLACIER,4.2,,,-390.0,Dyurgerov M. (2002):Net balance also reported as -150.
+1971,210,US,BLUE GLACIER,4.2,,,1150.0,Dyurgerov M. (2002):Net balance also reported as 1390.
+1972,210,US,BLUE GLACIER,4.2,,,400.0,Dyurgerov M. (2002):Net balance also reported as 640.
+1973,210,US,BLUE GLACIER,4.2,,,-140.0,Dyurgerov M. (2002):Net balance also reported as 100.
+1974,210,US,BLUE GLACIER,4.2,,,2000.0,Dyurgerov M. (2002):Net balance also reported as 2240.
+1975,210,US,BLUE GLACIER,4.2,,,670.0,Net balance also reported as 910.
+1976,210,US,BLUE GLACIER,4.3,,,1420.0,Dyurgerov M. (2002):Net balance also reported as 1660.
+1977,210,US,BLUE GLACIER,4.3,,,-1240.0,Dyurgerov M. (2002):Net balance also reported as -1000.
+1978,210,US,BLUE GLACIER,4.3,,,510.0,Dyurgerov M. (2002):Net balance also reported as 750.
+1979,210,US,BLUE GLACIER,4.3,,,-1150.0,Net balance also reported as 910.
+1980,210,US,BLUE GLACIER,4.3,,,-1610.0,Net balance also reported as -1370.
+1981,210,US,BLUE GLACIER,4.3,,,-1310.0,Net balance also reported as -1070.
+1982,210,US,BLUE GLACIER,4.3,,,750.0,Net balance also reported as 990.
+1983,210,US,BLUE GLACIER,4.3,,,1340.0,Net balance also reported as 1580.
+1984,210,US,BLUE GLACIER,4.3,,,490.0,Net balance also reported as 730.
+1985,210,US,BLUE GLACIER,4.3,,,420.0,Net balance also reported as 660.
+1986,210,US,BLUE GLACIER,,,,-920.0,Net balance also reported as -680.
+1987,210,US,BLUE GLACIER,4.3,,,-790.0,Dyurgerov M. (2002):Net balance also reported as 10.
+1988,210,US,BLUE GLACIER,4.3,,,220.0,Dyurgerov M. (2002):Net balance also reported as 1010.
+1989,210,US,BLUE GLACIER,4.3,,,-640.0,Dyurgerov M. (2002):Net balance also reported as 150.
+1990,210,US,BLUE GLACIER,4.3,,,-1180.0,Dyurgerov M. (2002: Net balance also reported as -390.
+1991,210,US,BLUE GLACIER,4.3,,,-790.0,Dyurgerov M. (2002):Net balance also reported as 10.
+1992,210,US,BLUE GLACIER,4.3,,,-1180.0,Dyurgerov M. (2002):Net balance also reported as -390.
+1993,210,US,BLUE GLACIER,4.3,,,-1350.0,Dyurgerov M. (2002):Net balance also reported as -550.
+1994,210,US,BLUE GLACIER,4.3,,,-1750.0,Dyurgerov M. (2002):Net balance also reported as -960.
+1995,210,US,BLUE GLACIER,4.3,,,-10.0,Dyurgerov M. (2002):Net balance also reported as 780.
+1996,210,US,BLUE GLACIER,4.3,,,-790.0,Dyurgerov M. (2002):Net balance also reported as 10.
+1997,210,US,BLUE GLACIER,4.3,,,-490.0,Dyurgerov M. (2002):Net balance also reported as 310.
+1998,210,US,BLUE GLACIER,,,,-880.0,"Value from Conway et al (1999): -1110, ELA-AAR relation was used to calculate bn."
+1999,210,US,BLUE GLACIER,,,,1090.0,Values from Conway et al (1999): ELA-AAR relation was used to calculate bn. The mass balance program was suspended in 1999.
+2014,210,US,BLUE GLACIER,,2800.0,-4210.0,-1410.0,
+2015,210,US,BLUE GLACIER,5.6799998,2510.0,-4800.0,-2300.0,Preliminary. Glacier wide balances calculated with 1987 elevations & 2009 glacier extents

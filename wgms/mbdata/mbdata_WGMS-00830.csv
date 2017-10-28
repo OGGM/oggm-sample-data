@@ -1,6 +1,6 @@
-YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
-1963,830,RU,MALYY BERELSKIY,,,,10.0,Multi-annual observation (50 mm w.e.) evenly distributed to corresponding years.,RGI50-10.01107
-1964,830,RU,MALYY BERELSKIY,,,,10.0,Multi-annual observation (50 mm w.e.) evenly distributed to corresponding years.,RGI50-10.01107
-1965,830,RU,MALYY BERELSKIY,,,,10.0,Multi-annual observation (50 mm w.e.) evenly distributed to corresponding years.,RGI50-10.01107
-1966,830,RU,MALYY BERELSKIY,,,,10.0,Multi-annual observation (50 mm w.e.) evenly distributed to corresponding years.,RGI50-10.01107
-1967,830,RU,MALYY BERELSKIY,,,,10.0,Multi-annual observation (50 mm w.e.) evenly distributed to corresponding years.,RGI50-10.01107
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS
+1963,830,RU,MALYY BERELSKIY,,,,10.0,Multi-annual observation (50 mm w.e.) evenly distributed to corresponding years.
+1964,830,RU,MALYY BERELSKIY,,,,10.0,Multi-annual observation (50 mm w.e.) evenly distributed to corresponding years.
+1965,830,RU,MALYY BERELSKIY,,,,10.0,Multi-annual observation (50 mm w.e.) evenly distributed to corresponding years.
+1966,830,RU,MALYY BERELSKIY,,,,10.0,Multi-annual observation (50 mm w.e.) evenly distributed to corresponding years.
+1967,830,RU,MALYY BERELSKIY,,,,10.0,Multi-annual observation (50 mm w.e.) evenly distributed to corresponding years.

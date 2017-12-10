@@ -1,4 +1,4 @@
-RGI50_Code,Full_name
+RGI_Code,Full_name
 01,Alaska
 02,Western Canada and US
 03,Arctic Canada North
@@ -8,7 +8,6 @@ RGI50_Code,Full_name
 07,Svalbard
 08,Scandinavia
 09,Russian Arctic
-10,North Asia
 10,North Asia
 11,Central Europe
 12,Caucasus and Middle East

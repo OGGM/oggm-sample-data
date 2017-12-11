@@ -1,0 +1,13 @@
+--- SouthGlacier -----------------------
+01_margin       Wilson et al., 2013
+02_surface      Wilson et al., 2013
+03_RES          Wilson et al., 2013
+04_mb           Wheler et al., 2014
+05_dhdt         n.a.
+06_speed        n.a.
+07_azimuth      n.a.
+08_velocity     Flowers et al., 2011
+
+Flowers, G.E., N. Roux, S. Pimentel, and C.G. Schoof (2011). Present dynamics and future prognosis of a slowly surging glacier. The Cryosphere, 5, 299-313. DOI: 10.5194/tc-5-299-2011, 2011.
+
+Wheler, B.A., A.H. MacDougall, G.E. Flowers, E.I. Petersen, P.H. Whitfield, and K.E. Kohfeld (2104). Effects of temperature forcing provenance and extrapolation on the performance of an empirical glacier-melt model. Arctic, Antarctic, and Alpine Research, 46, 379-393. DOI: 10.1657/1938-4246-46.2.379

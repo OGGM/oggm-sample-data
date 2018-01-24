@@ -1,0 +1,36 @@
+*.py[cod]
+__pycache__
+
+# PyCharm stuffs
+.idea/
+
+# coverage stuffs
+.coverage
+
+# Notebook stuffs
+examples/*checkpoints
+.ipynb_checkpoints
+
+# Tests stuffs
+oggm/tests/result_images
+result_images
+
+# Packages
+*.egg
+*.egg-info
+eggs
+
+# specific
+*.cache
+baseline/
+*.lock
+oggm/tests/tmp_*
+*.html
+docs/*-gen.rst
+docs/_build
+docs/_build_html
+docs/generated
+docs/_sources
+docs/_images
+docs/.doctrees
+oggm/version.py

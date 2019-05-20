@@ -19,6 +19,8 @@ result_images
 *.egg
 *.egg-info
 eggs
+# Mac OS specific files
+*.DS_Store
 
 # specific
 *.cache

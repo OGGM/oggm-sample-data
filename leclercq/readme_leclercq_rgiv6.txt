@@ -1,0 +1,14 @@
+README for rgi_leclercq_links_2014_RGIV6.csv
+
+Data locations:
+
+Leclercq length change data: http://www.the-cryosphere.net/8/659/2014/tc-8-659-2014-supplement.zip
+RGIV6 data: https://www.glims.org/RGI/rgi60_files/00_rgi60.zip
+
+MATCH labels:
+1 - positive match
+2 - 'best effort' match
+
+Data and methodology description:
+
+Glaciers from the Leclercq dataset are identified with the glaciers in the RGI in two steps. First an attempt is made to find a positive match in the RGI for the glacier described in the Leclercq dataset, according to an objective standard, and if this fails, an attempt is made to find a nearby glacier which may not be confidently identified as the glacier described in the Leclercq dataset, but can be used as a 'best effort' for the purpose of comparing local glacier changes. These two types of identification are kept distinct, and labelled as such in the glacier list.  To find positive matches, the criteria are the following: 1) the (lat, lon) pair given in the Leclercq data must either lie within the outline of an RGI glacier, or within rounding distance for the (lat, lon) values (which are given to 2 decimal places); and 2) the area given in the Leclercq data must be within a factor of 2 of the RGI glacier. In cases where the (lat, lon) pair given is exactly on the border between connected glaciers, or within rounding distance for more than one glacier but within the outline of neither, and both glaciers satisfy the 2nd condition, one glacier is selected but moved to the 'best effort' class (though occasionally this will not be necessary if one of the RGI glaciers can be uniquely identified with a different Leclercq glacier, as the other can then be positively identified as the correct Leclercq glacier). The 1st criterion is not applied as strictly in certain cases where the (lat, lon) pair is close to a larger glacier and there are no other glaciers nearby, particularly when the (lat, lon) location is clearly downstream of an RGI glacier's tongue as this represents a rapid tongue retreat between the time of the Leclercq measurement and the time of the RGI measurement. The 'best effort' criteria are much looser, simply selecting the most size-appropriate glacier in the local group of glaciers (but not any RGI glacier which is positively identified as a different Leclercq glacier). If there are either no local RGI glaciers or the given size of the Leclercq glacier is vastly different to that of any local RGI glaciers, no 'best effort' glacier is identified and the glacier status is given as 'not found'. For the 471 glaciers in the Leclercq dataset this process gives 291 positive matches, 122 best-effort matches, 37 not found, and the remaing 21 Antarctic glaciers unprocessed due to concerns over the validity of modelling in this region.

@@ -1,99 +1,100 @@
-YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS
-1919,408,CH,SILVRETTA,3.70875,1363.0,,-211.0,
-1920,408,CH,SILVRETTA,3.70625,1969.0,,33.0,
-1921,408,CH,SILVRETTA,3.705,674.0,,-2354.0,
-1922,408,CH,SILVRETTA,3.7031300000000003,987.0,,74.0,
-1923,408,CH,SILVRETTA,3.7,1391.0,,-149.0,
-1924,408,CH,SILVRETTA,3.6968699999999997,1188.0,,391.0,
-1925,408,CH,SILVRETTA,3.6956300000000004,836.0,,187.0,
-1926,408,CH,SILVRETTA,3.6931300000000005,1263.0,,0.0,
-1927,408,CH,SILVRETTA,3.69125,1909.0,,216.0,
-1928,408,CH,SILVRETTA,3.69125,947.0,,-1040.0,
-1929,408,CH,SILVRETTA,3.69125,1223.0,,-1334.0,
-1930,408,CH,SILVRETTA,3.68875,958.0,,-330.0,
-1931,408,CH,SILVRETTA,3.6881199999999996,1467.0,,477.0,
-1932,408,CH,SILVRETTA,3.68625,1081.0,,-1152.0,
-1933,408,CH,SILVRETTA,3.685,1284.0,,229.0,
-1934,408,CH,SILVRETTA,3.6843800000000004,867.0,,-407.0,
-1935,408,CH,SILVRETTA,3.6843800000000004,1800.0,,290.0,
-1936,408,CH,SILVRETTA,3.6831300000000002,1525.0,,111.0,
-1937,408,CH,SILVRETTA,3.6818699999999995,1325.0,,14.0,
-1938,408,CH,SILVRETTA,3.5556300000000003,922.0,,-161.0,
-1939,408,CH,SILVRETTA,3.4781199999999997,986.0,,-441.0,
-1940,408,CH,SILVRETTA,3.46625,1401.0,,565.0,
-1941,408,CH,SILVRETTA,3.4556199999999997,1460.0,,700.0,
-1942,408,CH,SILVRETTA,3.4493699999999996,1016.0,,-1214.0,
-1943,408,CH,SILVRETTA,3.43875,1365.0,,-427.0,
-1944,408,CH,SILVRETTA,3.4268699999999996,1130.0,,-232.0,
-1945,408,CH,SILVRETTA,3.415,2370.0,,-181.0,
-1946,408,CH,SILVRETTA,3.4043699999999997,1265.0,,103.0,
-1947,408,CH,SILVRETTA,3.3981199999999996,824.0,,-2567.0,
-1948,408,CH,SILVRETTA,3.3906300000000003,1947.0,,1063.0,
-1949,408,CH,SILVRETTA,3.385,615.0,,-1455.0,
-1950,408,CH,SILVRETTA,3.375,1291.0,,-1352.0,
-1951,408,CH,SILVRETTA,3.3625,1751.0,,-268.0,
-1952,408,CH,SILVRETTA,3.3556199999999996,1210.0,,-973.0,
-1953,408,CH,SILVRETTA,3.3493800000000005,1621.0,,-265.0,
-1954,408,CH,SILVRETTA,3.3406300000000004,1103.0,,-220.0,
-1955,408,CH,SILVRETTA,3.325,1849.0,,719.0,
-1956,408,CH,SILVRETTA,3.31375,1383.0,,171.0,
-1957,408,CH,SILVRETTA,3.3081300000000002,1162.0,,12.0,
-1958,408,CH,SILVRETTA,3.3018699999999996,1403.0,,-642.0,
-1959,408,CH,SILVRETTA,3.23312,938.0,,-1132.0,
-1960,408,CH,SILVRETTA,3.246,808.0,-522.0,286.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1961,408,CH,SILVRETTA,3.243,1211.0,-1008.0,203.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1962,408,CH,SILVRETTA,3.236,1334.0,-1738.0,-404.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1963,408,CH,SILVRETTA,3.229,867.0,-1909.0,-1042.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1964,408,CH,SILVRETTA,3.223,973.0,-2348.0,-1375.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1965,408,CH,SILVRETTA,3.216,1323.0,-43.0,1280.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1966,408,CH,SILVRETTA,3.202,1338.0,-60.0,1278.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1967,408,CH,SILVRETTA,3.191,1452.0,-1076.0,376.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1968,408,CH,SILVRETTA,3.184,1311.0,-680.0,631.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1969,408,CH,SILVRETTA,3.178,769.0,-944.0,-175.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1970,408,CH,SILVRETTA,3.174,1286.0,-1141.0,145.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1971,408,CH,SILVRETTA,3.172,944.0,-1702.0,-758.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1972,408,CH,SILVRETTA,3.171,424.0,-683.0,-259.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1973,408,CH,SILVRETTA,3.147,969.0,-2071.0,-1102.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1974,408,CH,SILVRETTA,3.121,1055.0,-292.0,763.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1975,408,CH,SILVRETTA,3.121,1089.0,-767.0,322.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1976,408,CH,SILVRETTA,3.122,820.0,-1038.0,-218.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1977,408,CH,SILVRETTA,3.123,1191.0,-769.0,422.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1978,408,CH,SILVRETTA,3.125,1137.0,-250.0,887.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1979,408,CH,SILVRETTA,3.125,913.0,-1062.0,-149.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1980,408,CH,SILVRETTA,3.126,1406.0,-671.0,735.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1981,408,CH,SILVRETTA,3.127,1395.0,-916.0,479.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1982,408,CH,SILVRETTA,3.127,1276.0,-1973.0,-697.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1983,408,CH,SILVRETTA,3.129,1097.0,-1584.0,-487.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1984,408,CH,SILVRETTA,3.129,1011.0,-294.0,717.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1985,408,CH,SILVRETTA,3.131,1041.0,-834.0,207.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1986,408,CH,SILVRETTA,3.137,1075.0,-1442.0,-367.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1987,408,CH,SILVRETTA,3.109,484.0,-1428.0,-944.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1988,408,CH,SILVRETTA,3.099,1047.0,-1460.0,-413.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1989,408,CH,SILVRETTA,3.094,917.0,-1310.0,-393.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1990,408,CH,SILVRETTA,3.08,1121.0,-1830.0,-709.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1991,408,CH,SILVRETTA,3.069,870.0,-2108.0,-1238.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1992,408,CH,SILVRETTA,3.049,1883.0,-3027.0,-1144.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1993,408,CH,SILVRETTA,3.036,1781.0,-2025.0,-244.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1994,408,CH,SILVRETTA,3.007,1609.0,-2317.0,-708.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1995,408,CH,SILVRETTA,2.975,1213.0,-1342.0,-129.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1996,408,CH,SILVRETTA,2.968,471.0,-614.0,-143.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1997,408,CH,SILVRETTA,2.961,1500.0,-1763.0,-263.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1998,408,CH,SILVRETTA,2.957,607.0,-2198.0,-1591.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1999,408,CH,SILVRETTA,2.953,2073.0,-2269.0,-196.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-2000,408,CH,SILVRETTA,2.949,1752.0,-1740.0,12.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-2001,408,CH,SILVRETTA,2.94,1587.0,-914.0,673.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-2002,408,CH,SILVRETTA,2.935,1189.0,-1487.0,-298.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-2003,408,CH,SILVRETTA,2.889,1140.0,-3669.0,-2529.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-2004,408,CH,SILVRETTA,2.837,1396.0,-1516.0,-120.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-2005,408,CH,SILVRETTA,2.824,1101.0,-2151.0,-1050.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-2006,408,CH,SILVRETTA,2.814,1235.0,-2684.0,-1449.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-2007,408,CH,SILVRETTA,2.789,774.0,-1690.0,-916.0,"Reference: Huss et. al (2009), Glaciological Reports, http://glaciology.ethz.ch/; LB: 2467, UB: 3069"
-2008,408,CH,SILVRETTA,2.789,1674.0,-2313.0,-639.0,
-2009,408,CH,SILVRETTA,2.785,1547.0,-2644.0,-1097.0,
-2010,408,CH,SILVRETTA,2.785,1325.0,-1593.0,-268.0,"Reference: Huss et. al (2009), Glaciological Reports, http://glaciology.ethz.ch/. WGMS comment: year was reported as 2009/2010"
-2011,408,CH,SILVRETTA,2.74,1030.0,-2422.0,-1392.0,Bs calculated from Ba and Bw.
-2012,408,CH,SILVRETTA,2.74,1559.0,-2974.0,-1415.0,Bs calculated from Ba and Bw.
-2013,408,CH,SILVRETTA,2.74,1271.0,-1517.0,-246.0,Bs calculated from Ba and Bw.
-2014,408,CH,SILVRETTA,2.7088,1100.0,-2050.0,-950.0,
-2015,408,CH,SILVRETTA,2.6837499,1397.0,-3046.0,-1649.0,"VAW / ETH Zürich, http://www.glamos.ch"
-2016,408,CH,SILVRETTA,2.6837499,1400.0,-2000.0,-600.0,"VAW / ETH Zürich, PRELIMINARY"
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
+1919,408,CH,SILVRETTA,3.70875,1363.0,-1574.0,-211.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1920,408,CH,SILVRETTA,3.70625,1969.0,-1936.0,33.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1921,408,CH,SILVRETTA,3.705,674.0,-3028.0,-2354.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1922,408,CH,SILVRETTA,3.7031300000000003,987.0,-913.0,74.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1923,408,CH,SILVRETTA,3.7,1391.0,-1540.0,-149.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1924,408,CH,SILVRETTA,3.6968699999999997,1188.0,-797.0,391.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1925,408,CH,SILVRETTA,3.6956300000000004,836.0,-649.0,187.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1926,408,CH,SILVRETTA,3.6931300000000005,1263.0,-1263.0,0.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1927,408,CH,SILVRETTA,3.69125,1909.0,-1693.0,216.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1928,408,CH,SILVRETTA,3.69125,947.0,-1987.0,-1040.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1929,408,CH,SILVRETTA,3.69125,1223.0,-2557.0,-1334.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1930,408,CH,SILVRETTA,3.68875,958.0,-1288.0,-330.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1931,408,CH,SILVRETTA,3.6881199999999996,1467.0,-990.0,477.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1932,408,CH,SILVRETTA,3.68625,1081.0,-2233.0,-1152.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1933,408,CH,SILVRETTA,3.685,1284.0,-1055.0,229.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1934,408,CH,SILVRETTA,3.6843800000000004,867.0,-1274.0,-407.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1935,408,CH,SILVRETTA,3.6843800000000004,1800.0,-1510.0,290.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1936,408,CH,SILVRETTA,3.6831300000000002,1525.0,-1414.0,111.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1937,408,CH,SILVRETTA,3.6818699999999995,1325.0,-1311.0,14.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1938,408,CH,SILVRETTA,3.5556300000000003,922.0,-1083.0,-161.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1939,408,CH,SILVRETTA,3.4781199999999997,986.0,-1427.0,-441.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1940,408,CH,SILVRETTA,3.46625,1401.0,-836.0,565.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1941,408,CH,SILVRETTA,3.4556199999999997,1460.0,-760.0,700.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1942,408,CH,SILVRETTA,3.4493699999999996,1016.0,-2230.0,-1214.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1943,408,CH,SILVRETTA,3.43875,1365.0,-1792.0,-427.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1944,408,CH,SILVRETTA,3.4268699999999996,1130.0,-1362.0,-232.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1945,408,CH,SILVRETTA,3.415,2370.0,-2551.0,-181.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1946,408,CH,SILVRETTA,3.4043699999999997,1265.0,-1162.0,103.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1947,408,CH,SILVRETTA,3.3981199999999996,824.0,-3391.0,-2567.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1948,408,CH,SILVRETTA,3.3906300000000003,1947.0,-884.0,1063.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1949,408,CH,SILVRETTA,3.385,615.0,-2070.0,-1455.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1950,408,CH,SILVRETTA,3.375,1291.0,-2643.0,-1352.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1951,408,CH,SILVRETTA,3.3625,1751.0,-2019.0,-268.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1952,408,CH,SILVRETTA,3.3556199999999996,1210.0,-2183.0,-973.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1953,408,CH,SILVRETTA,3.3493800000000005,1621.0,-1886.0,-265.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1954,408,CH,SILVRETTA,3.3406300000000004,1103.0,-1323.0,-220.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1955,408,CH,SILVRETTA,3.325,1849.0,-1130.0,719.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1956,408,CH,SILVRETTA,3.31375,1383.0,-1212.0,171.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1957,408,CH,SILVRETTA,3.3081300000000002,1162.0,-1150.0,12.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1958,408,CH,SILVRETTA,3.3018699999999996,1403.0,-2045.0,-642.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1959,408,CH,SILVRETTA,3.23312,938.0,-2070.0,-1132.0, Bs calculated from reported Bw and Ba.,RGI50-11.00804
+1960,408,CH,SILVRETTA,3.246,808.0,-522.0,286.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1961,408,CH,SILVRETTA,3.243,1211.0,-1008.0,203.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1962,408,CH,SILVRETTA,3.236,1334.0,-1738.0,-404.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1963,408,CH,SILVRETTA,3.229,867.0,-1909.0,-1042.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1964,408,CH,SILVRETTA,3.223,973.0,-2348.0,-1375.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1965,408,CH,SILVRETTA,3.216,1323.0,-43.0,1280.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1966,408,CH,SILVRETTA,3.202,1338.0,-60.0,1278.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1967,408,CH,SILVRETTA,3.191,1452.0,-1076.0,376.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1968,408,CH,SILVRETTA,3.184,1311.0,-680.0,631.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1969,408,CH,SILVRETTA,3.178,769.0,-944.0,-175.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1970,408,CH,SILVRETTA,3.174,1286.0,-1141.0,145.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1971,408,CH,SILVRETTA,3.172,944.0,-1702.0,-758.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1972,408,CH,SILVRETTA,3.171,424.0,-683.0,-259.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1973,408,CH,SILVRETTA,3.147,969.0,-2071.0,-1102.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1974,408,CH,SILVRETTA,3.121,1055.0,-292.0,763.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1975,408,CH,SILVRETTA,3.121,1089.0,-767.0,322.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1976,408,CH,SILVRETTA,3.122,820.0,-1038.0,-218.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1977,408,CH,SILVRETTA,3.123,1191.0,-769.0,422.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1978,408,CH,SILVRETTA,3.125,1137.0,-250.0,887.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1979,408,CH,SILVRETTA,3.125,913.0,-1062.0,-149.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1980,408,CH,SILVRETTA,3.126,1406.0,-671.0,735.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1981,408,CH,SILVRETTA,3.127,1395.0,-916.0,479.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1982,408,CH,SILVRETTA,3.127,1276.0,-1973.0,-697.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1983,408,CH,SILVRETTA,3.129,1097.0,-1584.0,-487.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1984,408,CH,SILVRETTA,3.129,1011.0,-294.0,717.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1985,408,CH,SILVRETTA,3.131,1041.0,-834.0,207.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1986,408,CH,SILVRETTA,3.137,1075.0,-1442.0,-367.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1987,408,CH,SILVRETTA,3.109,484.0,-1428.0,-944.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1988,408,CH,SILVRETTA,3.099,1047.0,-1460.0,-413.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1989,408,CH,SILVRETTA,3.094,917.0,-1310.0,-393.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1990,408,CH,SILVRETTA,3.08,1121.0,-1830.0,-709.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1991,408,CH,SILVRETTA,3.069,870.0,-2108.0,-1238.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1992,408,CH,SILVRETTA,3.049,1883.0,-3027.0,-1144.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1993,408,CH,SILVRETTA,3.036,1781.0,-2025.0,-244.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1994,408,CH,SILVRETTA,3.007,1609.0,-2317.0,-708.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1995,408,CH,SILVRETTA,2.975,1213.0,-1342.0,-129.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1996,408,CH,SILVRETTA,2.968,471.0,-614.0,-143.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1997,408,CH,SILVRETTA,2.961,1500.0,-1763.0,-263.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1998,408,CH,SILVRETTA,2.957,607.0,-2198.0,-1591.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+1999,408,CH,SILVRETTA,2.953,2073.0,-2269.0,-196.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+2000,408,CH,SILVRETTA,2.949,1752.0,-1740.0,12.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+2001,408,CH,SILVRETTA,2.94,1587.0,-914.0,673.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+2002,408,CH,SILVRETTA,2.935,1189.0,-1487.0,-298.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+2003,408,CH,SILVRETTA,2.889,1140.0,-3669.0,-2529.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+2004,408,CH,SILVRETTA,2.837,1396.0,-1516.0,-120.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+2005,408,CH,SILVRETTA,2.824,1101.0,-2151.0,-1050.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+2006,408,CH,SILVRETTA,2.814,1235.0,-2684.0,-1449.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.00804
+2007,408,CH,SILVRETTA,2.789,774.0,-1690.0,-916.0,"Reference: Huss et. al (2009), Glaciological Reports, http://glaciology.ethz.ch/; LB: 2467, UB: 3069",RGI50-11.00804
+2008,408,CH,SILVRETTA,2.789,1674.0,-2313.0,-639.0,,RGI50-11.00804
+2009,408,CH,SILVRETTA,2.785,1547.0,-2644.0,-1097.0,,RGI50-11.00804
+2010,408,CH,SILVRETTA,2.785,1325.0,-1593.0,-268.0,"Reference: Huss et. al (2009), Glaciological Reports, http://glaciology.ethz.ch/. WGMS comment: year was reported as 2009/2010",RGI50-11.00804
+2011,408,CH,SILVRETTA,2.74,1030.0,-2422.0,-1392.0,Bs calculated from Ba and Bw.,RGI50-11.00804
+2012,408,CH,SILVRETTA,2.74,1559.0,-2974.0,-1415.0,Bs calculated from Ba and Bw.,RGI50-11.00804
+2013,408,CH,SILVRETTA,2.74,1271.0,-1517.0,-246.0,Bs calculated from Ba and Bw.,RGI50-11.00804
+2014,408,CH,SILVRETTA,2.7088,1100.0,-2050.0,-950.0,,RGI50-11.00804
+2015,408,CH,SILVRETTA,2.6837499,1397.0,-3046.0,-1649.0,"VAW / ETH Zürich, http://www.glamos.ch",RGI50-11.00804
+2016,408,CH,SILVRETTA,2.68375,1395.0,-2001.0,-606.0,,RGI50-11.00804
+2017,408,CH,SILVRETTA,2.67062,1350.0,-2850.0,-1500.0,,RGI50-11.00804

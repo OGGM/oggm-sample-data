@@ -1,0 +1,6 @@
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
+2011,10401,NP,WEST CHANGRI NUP,,,,-950.0,"Due to the lack of measurements in October 2011 where heavy snow falls had covered the stakes, 2010-11 and 2011-12 Ba was obtained from the 2010-12 mass balance (Ba(2010-12) = Ba(2010-11) + Ba(2011-12) = -2.68 m w.e; and applying a regression equation between the Changri Nup and Mera annual centered MBs between 2012 and 2015 (r2 = 0.97).",RGI60-13.03734
+2012,10401,NP,WEST CHANGRI NUP,,,,-1730.0,"Due to the lack of measurements in October 2011 where heavy snow falls had covered the stakes, 2010-11 and 2011-12 Ba was obtained from the 2010-12 mass balance (Ba(2010-12) = Ba(2010-11) + Ba(2011-12) = -2.68 m w.e; and applying a regression equation between the Changri Nup and Mera annual centered MBs between 2012 and 2015 (r2 = 0.97).",RGI60-13.03734
+2013,10401,NP,WEST CHANGRI NUP,,,,-920.0,,RGI60-13.03734
+2014,10401,NP,WEST CHANGRI NUP,,,,-1330.0,,RGI60-13.03734
+2015,10401,NP,WEST CHANGRI NUP,,,,-1280.0,,RGI60-13.03734

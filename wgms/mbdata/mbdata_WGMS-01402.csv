@@ -1,12 +1,12 @@
-YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS
-1965,1402,CA,WOOLSEY,3.88,,,-60.0,
-1966,1402,CA,WOOLSEY,3.865,2560.0,-2770.0,-210.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bw 2610
-1967,1402,CA,WOOLSEY,3.865,3130.0,-3010.0,120.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bw 3193
-1968,1402,CA,WOOLSEY,3.865,2840.0,-2670.0,170.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bn 23
-1969,1402,CA,WOOLSEY,3.865,2300.0,-3100.0,-810.0,Data from Dyurgerov M. (2002). 
-1970,1402,CA,WOOLSEY,3.865,1870.0,-3770.0,-1900.0,Data from Dyurgerov M. (2002). 
-1971,1402,CA,WOOLSEY,3.92,2870.0,-2800.0,70.0,Data from Dyurgerov M. (2002). 
-1972,1402,CA,WOOLSEY,3.92,2750.0,-2490.0,250.0,Data from Dyurgerov M. (2002). 
-1973,1402,CA,WOOLSEY,3.92,2160.0,,,Data from Dyurgerov M. (2002). 
-1974,1402,CA,WOOLSEY,3.92,2890.0,-2190.0,700.0,Data from Dyurgerov M. (2002). 
-1975,1402,CA,WOOLSEY,3.92,2510.0,-2150.0,360.0,Data from Dyurgerov M. (2002).
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
+1965,1402,CA,WOOLSEY,3.88,,,-60.0,,RGI50-02.04693
+1966,1402,CA,WOOLSEY,3.865,2560.0,-2770.0,-210.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bw 2610,RGI50-02.04693
+1967,1402,CA,WOOLSEY,3.865,3130.0,-3010.0,120.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bw 3193,RGI50-02.04693
+1968,1402,CA,WOOLSEY,3.865,2840.0,-2670.0,170.0,Data from Dyurgerov M. (2002). Mass balance versus altitude recalculated by Dyurgerov: bn 23,RGI50-02.04693
+1969,1402,CA,WOOLSEY,3.865,2300.0,-3100.0,-810.0,Data from Dyurgerov M. (2002). ,RGI50-02.04693
+1970,1402,CA,WOOLSEY,3.865,1870.0,-3770.0,-1900.0,Data from Dyurgerov M. (2002). ,RGI50-02.04693
+1971,1402,CA,WOOLSEY,3.92,2870.0,-2800.0,70.0,Data from Dyurgerov M. (2002). ,RGI50-02.04693
+1972,1402,CA,WOOLSEY,3.92,2750.0,-2490.0,250.0,Data from Dyurgerov M. (2002). ,RGI50-02.04693
+1973,1402,CA,WOOLSEY,3.92,2160.0,,,Data from Dyurgerov M. (2002). ,RGI50-02.04693
+1974,1402,CA,WOOLSEY,3.92,2890.0,-2190.0,700.0,Data from Dyurgerov M. (2002). ,RGI50-02.04693
+1975,1402,CA,WOOLSEY,3.92,2510.0,-2150.0,360.0,Data from Dyurgerov M. (2002).,RGI50-02.04693

@@ -1,56 +1,57 @@
-YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS
-1962,359,CH,GRIES,6.574,1008.0,-1992.0,-984.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1963,359,CH,GRIES,6.55,1269.0,-1449.0,-180.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1964,359,CH,GRIES,6.534,1666.0,-2354.0,-688.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1965,359,CH,GRIES,6.515,846.0,-401.0,445.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1966,359,CH,GRIES,6.496,845.0,-1202.0,-357.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1967,359,CH,GRIES,6.422,1475.0,-1446.0,29.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1968,359,CH,GRIES,6.434,1124.0,-745.0,379.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1969,359,CH,GRIES,6.42,1503.0,-770.0,733.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1970,359,CH,GRIES,6.415,1471.0,-2229.0,-758.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1971,359,CH,GRIES,6.403,1449.0,-1976.0,-527.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1972,359,CH,GRIES,6.396,1283.0,-875.0,408.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1973,359,CH,GRIES,6.388,771.0,-1866.0,-1095.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1974,359,CH,GRIES,6.379,1509.0,-1687.0,-178.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1975,359,CH,GRIES,6.372,1565.0,-1187.0,378.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1976,359,CH,GRIES,6.364,684.0,-1705.0,-1021.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1977,359,CH,GRIES,6.356,1808.0,-642.0,1166.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1978,359,CH,GRIES,6.348,2165.0,-1109.0,1056.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1979,359,CH,GRIES,6.364,1128.0,-2013.0,-885.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1980,359,CH,GRIES,6.261,1449.0,-879.0,570.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1981,359,CH,GRIES,6.237,952.0,-1276.0,-324.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1982,359,CH,GRIES,6.228,1205.0,-2509.0,-1304.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1983,359,CH,GRIES,6.221,1314.0,-2093.0,-779.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1984,359,CH,GRIES,6.209,875.0,-879.0,-4.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1985,359,CH,GRIES,6.194,1070.0,-1596.0,-526.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1986,359,CH,GRIES,6.077,1767.0,-2714.0,-947.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1987,359,CH,GRIES,5.991,883.0,-1616.0,-733.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1988,359,CH,GRIES,5.963,1244.0,-2168.0,-924.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1989,359,CH,GRIES,5.929,1439.0,-2510.0,-1071.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1990,359,CH,GRIES,5.891,1167.0,-3155.0,-1988.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1991,359,CH,GRIES,5.799,1186.0,-2530.0,-1344.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1992,359,CH,GRIES,5.933,1198.0,-2323.0,-1125.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1993,359,CH,GRIES,5.879,716.0,-1768.0,-1052.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1994,359,CH,GRIES,5.822,1587.0,-1796.0,-209.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1995,359,CH,GRIES,5.781,1185.0,-1463.0,-278.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1996,359,CH,GRIES,5.755,632.0,-1149.0,-517.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1997,359,CH,GRIES,5.734,1598.0,-2666.0,-1068.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1998,359,CH,GRIES,5.767,962.0,-3015.0,-2053.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-1999,359,CH,GRIES,5.324,1676.0,-2240.0,-564.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-2000,359,CH,GRIES,5.314,1392.0,-2377.0,-985.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-2001,359,CH,GRIES,5.309,1802.0,-2031.0,-229.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-2002,359,CH,GRIES,5.302,876.0,-1866.0,-990.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-2003,359,CH,GRIES,5.274,1558.0,-4269.0,-2711.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-2004,359,CH,GRIES,5.167,1343.0,-2489.0,-1146.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-2005,359,CH,GRIES,5.133,1142.0,-2654.0,-1512.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-2006,359,CH,GRIES,5.084,914.0,-2909.0,-1995.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/"
-2007,359,CH,GRIES,4.973,626.0,-2099.0,-1473.0,"Reference: Huss et. al (2009), Glaciological Reports, http://glaciology.ethz.ch/; LB: 2425, UB: 3324"
-2008,359,CH,GRIES,4.973,1139.0,-2740.0,-1601.0,
-2009,359,CH,GRIES,4.973,2465.0,-3348.0,-883.0,
-2010,359,CH,GRIES,4.973,1623.0,-2930.0,-1307.0,"Reference: Huss et. al (2009), Glaciological Reports, http://glaciology.ethz.ch/. WGMS comment: year was reported as 2009/2010"
-2011,359,CH,GRIES,4.83,958.0,-2760.0,-1802.0,Bs calculated from Bw and Ba.
-2012,359,CH,GRIES,4.83,1722.0,-3762.0,-2040.0,Bs calculated from Bw and Ba.
-2013,359,CH,GRIES,4.83,1390.0,-1932.0,-542.0,Bs calculated from Bw and Ba.
-2014,359,CH,GRIES,4.9731,1620.0,-2230.0,-610.0,
-2015,359,CH,GRIES,4.4306302,1764.0,-3477.0,-1713.0,"VAW / ETH Zürich, http://www.glamos.ch"
-2016,359,CH,GRIES,4.4306302,1750.0,-2950.0,-1200.0,"VAW / ETH Zürich, PRELIMINARY"
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
+1962,359,CH,GRIES,6.574,1008.0,-1992.0,-984.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1963,359,CH,GRIES,6.55,1269.0,-1449.0,-180.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1964,359,CH,GRIES,6.534,1666.0,-2354.0,-688.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1965,359,CH,GRIES,6.515,846.0,-401.0,445.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1966,359,CH,GRIES,6.496,845.0,-1202.0,-357.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1967,359,CH,GRIES,6.422,1475.0,-1446.0,29.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1968,359,CH,GRIES,6.434,1124.0,-745.0,379.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1969,359,CH,GRIES,6.42,1503.0,-770.0,733.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1970,359,CH,GRIES,6.415,1471.0,-2229.0,-758.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1971,359,CH,GRIES,6.403,1449.0,-1976.0,-527.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1972,359,CH,GRIES,6.396,1283.0,-875.0,408.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1973,359,CH,GRIES,6.388,771.0,-1866.0,-1095.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1974,359,CH,GRIES,6.379,1509.0,-1687.0,-178.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1975,359,CH,GRIES,6.372,1565.0,-1187.0,378.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1976,359,CH,GRIES,6.364,684.0,-1705.0,-1021.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1977,359,CH,GRIES,6.356,1808.0,-642.0,1166.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1978,359,CH,GRIES,6.348,2165.0,-1109.0,1056.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1979,359,CH,GRIES,6.364,1128.0,-2013.0,-885.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1980,359,CH,GRIES,6.261,1449.0,-879.0,570.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1981,359,CH,GRIES,6.237,952.0,-1276.0,-324.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1982,359,CH,GRIES,6.228,1205.0,-2509.0,-1304.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1983,359,CH,GRIES,6.221,1314.0,-2093.0,-779.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1984,359,CH,GRIES,6.209,875.0,-879.0,-4.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1985,359,CH,GRIES,6.194,1070.0,-1596.0,-526.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1986,359,CH,GRIES,6.077,1767.0,-2714.0,-947.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1987,359,CH,GRIES,5.991,883.0,-1616.0,-733.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1988,359,CH,GRIES,5.963,1244.0,-2168.0,-924.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1989,359,CH,GRIES,5.929,1439.0,-2510.0,-1071.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1990,359,CH,GRIES,5.891,1167.0,-3155.0,-1988.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1991,359,CH,GRIES,5.799,1186.0,-2530.0,-1344.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1992,359,CH,GRIES,5.933,1198.0,-2323.0,-1125.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1993,359,CH,GRIES,5.879,716.0,-1768.0,-1052.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1994,359,CH,GRIES,5.822,1587.0,-1796.0,-209.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1995,359,CH,GRIES,5.781,1185.0,-1463.0,-278.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1996,359,CH,GRIES,5.755,632.0,-1149.0,-517.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1997,359,CH,GRIES,5.734,1598.0,-2666.0,-1068.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1998,359,CH,GRIES,5.767,962.0,-3015.0,-2053.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+1999,359,CH,GRIES,5.324,1676.0,-2240.0,-564.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+2000,359,CH,GRIES,5.314,1392.0,-2377.0,-985.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+2001,359,CH,GRIES,5.309,1802.0,-2031.0,-229.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+2002,359,CH,GRIES,5.302,876.0,-1866.0,-990.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+2003,359,CH,GRIES,5.274,1558.0,-4269.0,-2711.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+2004,359,CH,GRIES,5.167,1343.0,-2489.0,-1146.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+2005,359,CH,GRIES,5.133,1142.0,-2654.0,-1512.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+2006,359,CH,GRIES,5.084,914.0,-2909.0,-1995.0,"Reference: Huss et. al (2009), Glaciological Reports No 87-128, http://glaciology.ethz.ch/swiss-glaciers/",RGI50-11.01876
+2007,359,CH,GRIES,4.973,626.0,-2099.0,-1473.0,"Reference: Huss et. al (2009), Glaciological Reports, http://glaciology.ethz.ch/; LB: 2425, UB: 3324",RGI50-11.01876
+2008,359,CH,GRIES,4.973,1139.0,-2740.0,-1601.0,,RGI50-11.01876
+2009,359,CH,GRIES,4.973,2465.0,-3348.0,-883.0,,RGI50-11.01876
+2010,359,CH,GRIES,4.973,1623.0,-2930.0,-1307.0,"Reference: Huss et. al (2009), Glaciological Reports, http://glaciology.ethz.ch/. WGMS comment: year was reported as 2009/2010",RGI50-11.01876
+2011,359,CH,GRIES,4.83,958.0,-2760.0,-1802.0,Bs calculated from Bw and Ba.,RGI50-11.01876
+2012,359,CH,GRIES,4.83,1722.0,-3762.0,-2040.0,Bs calculated from Bw and Ba.,RGI50-11.01876
+2013,359,CH,GRIES,4.83,1390.0,-1932.0,-542.0,Bs calculated from Bw and Ba.,RGI50-11.01876
+2014,359,CH,GRIES,4.9731,1620.0,-2230.0,-610.0,,RGI50-11.01876
+2015,359,CH,GRIES,4.4306302,1764.0,-3477.0,-1713.0,"VAW / ETH Zürich, http://www.glamos.ch",RGI50-11.01876
+2016,359,CH,GRIES,4.430630000000001,1753.0,-2944.0,-1191.0,,RGI50-11.01876
+2017,359,CH,GRIES,4.4075,1600.0,-4050.0,-2450.0,,RGI50-11.01876

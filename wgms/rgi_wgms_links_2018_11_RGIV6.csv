@@ -1,0 +1,281 @@
+CenLon,CenLat,POLITICAL_UNIT,NAME,WGMS_ID,PSFG_ID,WGI_ID,GLIMS_ID,RGI60_ID,RGI_REG,RGI_REG_NAME,GlacierType,TerminusType,IsTidewater,N_MB_YRS,HAS_PROFILE,REMARKS
+-57.3729,-63.8619,AQ,BAHIA DEL DIABLO,2665,,,G302570E63825S,RGI60-19.00595,19,Antarctic and Subantarctic,Glacier,Marine-terminating,True,17,True,RGI link checked manually.
+-58.8882,-62.1653,AQ,BELLINGSHAUSEN,6833,,,G301112E62165S,RGI60-19.01992,19,Antarctic and Subantarctic,Glacier,Land-terminating,False,5,False,
+-60.6025,-63.0041,AQ,G1,3925,,,,RGI60-19.02101,19,Antarctic and Subantarctic,Glacier,Land-terminating,False,6,False,RGI link checked manually.
+-60.3948,-62.6827,AQ,HURD,3367,,AQ0006C00000,,RGI60-19.02057,19,Antarctic and Subantarctic,Ice cap,Marine-terminating,True,15,False,RGI link checked manually.
+-60.3547,-62.6707,AQ,JOHNSONS,3366,,AQ0006C00000,,RGI60-19.02059,19,Antarctic and Subantarctic,Ice cap,Marine-terminating,True,15,False,RGI link checked manually.
+-69.9486,-29.1741,AR,BROWN SUPERIOR,3903,,,,RGI60-17.14923,17,Southern Andes,Glacier,Land-terminating,False,10,True,RGI link checked manually.
+-69.7682,-29.1453,AR,CONCONTA NORTE,3902,,,,RGI60-17.14924,17,Southern Andes,Glacier,Land-terminating,False,10,True,RGI link checked manually.
+-69.3786,-28.2166,AR,LOS AMARILLOS,3904,,,,RGI60-17.15131,17,Southern Andes,Glacier,Land-terminating,False,10,True,RGI link checked manually.
+-68.4093,-54.7862,AR,MARTIAL ESTE,2000,,,,RGI60-17.02128,17,Southern Andes,Glacier,Land-terminating,False,16,True,RGI link checked manually.
+-69.8755,-31.5818,AR,PILOTO ESTE,3589,,AR1J11100000,,RGI60-17.14445,17,Southern Andes,Glacier,Land-terminating,False,24,False,RGI link checked manually.
+12.5956,47.1403,AT,FILLECK K.,476,AT0601B,ATJ143S0A098,,RGI60-11.00073,11,Central Europe,Glacier,Land-terminating,False,17,False,RGI link checked manually.
+12.9702,47.0421,AT,GOLDBERG K.,1305,AT0802B,,,RGI60-11.00289,11,Central Europe,Glacier,Land-terminating,False,26,True,RGI link checked manually.
+13.6135,47.4845,AT,HALLSTAETTER G.,535,AT1102,ATJ142T0R002,,RGI60-11.00002,11,Central Europe,Glacier,Land-terminating,False,10,True,RGI link checked manually.
+10.7584,46.8003,AT,HINTEREIS F.,491,AT0209,ATJ143O0E125,,RGI60-11.00897,11,Central Europe,Glacier,Land-terminating,False,65,True,RGI link checked manually.
+10.8054,46.7801,AT,HOCHJOCH F.,492,AT0208,ATJ143O0E121,,RGI60-11.00957,11,Central Europe,Glacier,Land-terminating,False,5,True,RGI link checked manually.
+13.0581,47.4242,AT,HOCHKOENIG,3993,,,,RGI60-11.00012,11,Central Europe,Glacier,Land-terminating,False,10,False,RGI link checked manually.
+10.1603,46.8577,AT,JAMTAL F.,480,AT0106,ATJ143S0N019,,RGI60-11.00781,11,Central Europe,Glacier,Land-terminating,False,28,True,RGI link checked manually.
+10.7907,46.8424,AT,KESSELWAND F.,507,AT0226,ATJ143O0E129,,RGI60-11.00787,11,Central Europe,Glacier,Land-terminating,False,65,True,RGI link checked manually.
+12.9472,47.053000000000004,AT,KLEINFLEISS K.,547,AT0801,ATJ131M0O036,,RGI60-11.00251,11,Central Europe,Glacier,Land-terminating,False,16,True,RGI link checked manually.
+11.0191,46.7817,AT,LANGTALER F.,510,AT0223,ATJ143O0E072,,RGI60-11.00929,11,Central Europe,Glacier,Land-terminating,False,8,True,RGI link checked manually.
+10.1054,46.8515,AT,OCHSENTALER G.,483,AT0103,ATR013I0L008,,RGI60-11.00797,11,Central Europe,Glacier,Land-terminating,False,9,True,RGI link checked manually.
+12.6967,47.0991,AT,PASTERZE,566,AT0704,ATJ131M0O027,,RGI60-11.00106,11,Central Europe,Glacier,Land-terminating,False,30,True,RGI link checked manually.
+12.5964,47.1316,AT,STUBACHER SONNBLICK K.,573,AT0601A,ATJ143S0A097,,RGI60-11.00080,11,Central Europe,Glacier,Land-terminating,False,72,True,RGI link checked manually.
+10.1309,46.8529,AT,VERMUNT G.,482,AT0104,ATR013I0L007,,RGI60-11.00807,11,Central Europe,Glacier,Land-terminating,False,9,True,RGI link checked manually.
+10.818,46.8762,AT,VERNAGT F.,489,AT0211,ATJ143O0E133,,RGI60-11.00719,11,Central Europe,Glacier,Land-terminating,False,53,True,RGI link checked manually.
+13.0049,47.0385,AT,WURTEN K.,545,AT0804,ATJ131M0O038,,RGI60-11.00300,11,Central Europe,Glacier,Land-terminating,False,33,True,RGI link checked manually.
+12.3784,47.0851,AT,ZETTALUNITZ/MULLWITZ K.,578,AT0508,ATJ131I0S054,,RGI60-11.00190,11,Central Europe,Glacier,Land-terminating,False,10,True,RGI link checked manually.
+-68.1287,-16.3523,BO,CHACALTAYA,1505,BO5180,BO00XXX00002,,RGI60-16.01447,16,Low Latitudes,Glacier,Land-terminating,False,17,True,RGI link checked manually.
+-68.1064,-16.3023,BO,CHARQUINI SUR,2667,,,,RGI60-16.00532,16,Low Latitudes,Glacier,Land-terminating,False,13,True,RGI link checked manually.
+-68.1439,-16.274,BO,ZONGO,1503,BO5150,BO00XXX00001,,RGI60-16.00543,16,Low Latitudes,Glacier,Land-terminating,False,24,True,RGI link checked manually.
+-130.83,57.091,CA,ALEXANDER,32,CA0133,CA0N00200001,,RGI60-01.05355,01,Alaska,Glacier,Land-terminating,False,9,True,RGI link checked manually.
+-131.062,56.955,CA,ANDREI,34,CA0148,CA0N00200002,,RGI60-01.04591,01,Alaska,Glacier,Land-terminating,False,10,True,RGI link checked manually.
+-90.96600000000001,79.442,CA,BABY,1,CA0205,CAR014E00009,,RGI60-03.00840,03,"Arctic Canada, North",Glacier,Land-terminating,False,34,False,RGI link checked manually.
+-73.0575,70.0214,CA,BARNES ICE CAP SOUTH DOME N SLOPE,38,CA0210A,CA0000T00210,,RGI60-04.06187,04,"Arctic Canada, South",Ice cap,Land-terminating,False,13,False,RGI link checked manually.
+-117.26700000000001,51.9303,CA,BENCH,66,CA0234,CA0 XXX00013,,RGI60-02.05986,02,Western Canada and USA,Glacier,Land-terminating,False,8,True,RGI link checked manually.
+-123.928,51.3761,CA,BRIDGE,47,CA0275,CA0M20000001,,RGI60-02.04119,02,Western Canada and USA,Glacier,Land-terminating,False,5,True,RGI link checked manually.
+-69.8037,69.6303,CA,DECADE,3909,,,,RGI60-04.03082,04,"Arctic Canada, South",Glacier,Land-terminating,False,5,False,RGI link checked manually.
+-83.162,75.4978,CA,DEVON ICE CAP NW,39,CA0431,CA000S200001,,RGI60-03.02435,03,"Arctic Canada, North",Ice cap,Marine-terminating,True,56,True,RGI link checked manually.
+-116.759,50.7204,CA,HELM,45,CA0855,CAM000C00002,,RGI60-02.01860,02,Western Canada and USA,Glacier,Land-terminating,False,41,True,RGI link checked manually.
+-79.1438,75.8872,CA,LAIKA,1412,CA0720,,,RGI60-03.01427,03,"Arctic Canada, North",Glacier,Land-terminating,False,6,True,RGI link checked manually.
+-99.1904,79.982,CA,MEIGHEN ICE CAP,16,CA1335,CA002R900001,,RGI60-03.00691,03,"Arctic Canada, North",Glacier,Land-terminating,False,57,False,RGI link checked manually.
+-123.03998,40.98806,CA,MELVILLE SOUTH ICE CAP,3690,,,,RGI60-02.13974,02,Western Canada and USA,Glacier,Land-terminating,False,54,False,RGI link checked manually.
+-118.68299999999999,52.1518,CA,PEYTO,57,CA1640,CA0M12200002,,RGI60-02.06581,02,Western Canada and USA,Glacier,Land-terminating,False,51,True,RGI link checked manually.
+-123.785,50.9547,CA,PLACE,41,CA1660,CA0M20000002,,RGI60-02.02587,02,Western Canada and USA,Glacier,Land-terminating,False,52,True,RGI link checked manually.
+-118.27600000000001,52.3488,CA,RAM RIVER,1394,CA1815,,,RGI60-02.07173,02,Western Canada and USA,Glacier,Land-terminating,False,10,True,RGI link checked manually.
+-123.061,50.6859,CA,SENTINEL,44,CA1915,CAM000C00096,,RGI60-02.01779,02,Western Canada and USA,Glacier,Land-terminating,False,24,True,RGI link checked manually.
+-64.1739,81.9561,CA,ST PATRICK BAY NE ICE CAP,3908,,,,RGI60-03.01623,03,"Arctic Canada, North",Glacier,Land-terminating,False,7,False,RGI link checked manually.
+-125.544,51.3746,CA,SYKORA,59,CA1995,CA0M22000001,,RGI60-02.04114,02,Western Canada and USA,Glacier,Land-terminating,False,10,True,RGI link checked manually.
+-126.73200000000001,51.8921,CA,TIEDEMANN,24,CA2040,CA0 XXX00017,,RGI60-02.05862,02,Western Canada and USA,Glacier,Land-terminating,False,7,True,RGI link checked manually.
+-74.2248,83.1066,CA,WARD H. I. RISE,53,CA2318,CA0 XXX00003,,RGI60-03.04079,03,"Arctic Canada, North",Glacier,Land-terminating,False,25,False,RGI link checked manually.
+-90.87697,79.5146,CA,WHITE,0,CA2340,CA2R014E0014,G269123E79515N,RGI60-03.04539,03,"Arctic Canada, North",Glacier,Land-terminating,False,54,True,RGI link checked manually.
+-125.09200000000001,51.5439,CA,WOOLSEY,1402,CA2380,,,RGI60-02.04693,02,Western Canada and USA,Glacier,Land-terminating,False,11,True,RGI link checked manually.
+-130.684,56.975,CA,YURI,30,CA2530,CA0N00200003,,RGI60-01.05211,01,Alaska,Glacier,Land-terminating,False,10,True,RGI link checked manually.
+-124.70200000000001,51.0545,CA,ZAVISHA,46,CA2605,CA0M20200001,,RGI60-02.03590,02,Western Canada and USA,Glacier,Land-terminating,False,10,True,RGI link checked manually.
+7.95058,46.0021,CH,ADLER,3801,CH0016B,CHN012506003,,RGI60-11.02780,11,Central Europe,Glacier,Land-terminating,False,11,True,RGI link checked manually.
+9.64185,46.2987,CH,ALBIGNA,1674,CH0116,,,RGI60-11.02285,11,Central Europe,Glacier,Land-terminating,False,6,True,RGI link checked manually.
+7.58038,46.0109,CH,ALLALIN,394,CH0011,CHN012502029,,RGI60-11.02715,11,Central Europe,Glacier,Land-terminating,False,62,True,RGI link checked manually.
+8.4812,46.416000000000004,CH,BASODINO,463,CH0104,CHL012104010,,RGI60-11.01987,11,Central Europe,Glacier,Land-terminating,False,25,True,RGI link checked manually.
+8.891169999999999,46.8442,CH,CLARIDENFIRN,2660,CH0141,CH4R014OI019,,RGI60-11.00843,11,Central Europe,Glacier,Land-terminating,False,102,True,RGI link checked manually.
+7.259639999999999,45.9901,CH,CORBASSIERE,366,CH0038,CHN012803003,,RGI60-11.02782,11,Central Europe,Glacier,Land-terminating,False,20,True,RGI link checked manually.
+7.53552,45.9968,CH,FINDELEN,389,CH0016,CHN012506003,,RGI60-11.02789,11,Central Europe,Glacier,Land-terminating,False,12,True,RGI link checked manually.
+9.701080000000001,46.3085,CH,FORNO,396,CH0102,CHL011803012,,RGI60-11.02245,11,Central Europe,Glacier,Land-terminating,False,6,True,RGI link checked manually.
+7.96925,46.0007,CH,GIETRO,367,CH0037,CHN012802014,,RGI60-11.02791,11,Central Europe,Glacier,Land-terminating,False,51,True,RGI link checked manually.
+8.33019,46.4383,CH,GRIES,359,CH0003,CHN012405004,,RGI60-11.01876,11,Central Europe,Glacier,Land-terminating,False,56,True,RGI link checked manually.
+8.01919,46.5028,CH,GROSSER ALETSCH,360,CH0005,CHN012306026,,RGI60-11.01450,11,Central Europe,Glacier,Land-terminating,False,60,False,RGI link checked manually.
+7.370430000000001,46.0489,CH,HOHLAUB,3332,,,,RGI60-11.02690,11,Central Europe,Glacier,Land-terminating,False,61,True,RGI link checked manually.
+7.621230000000001,46.0564,CH,KESSJEN,393,CH0012,CHN012502033,,RGI60-11.02682,11,Central Europe,Glacier,Land-terminating,False,40,True,RGI link checked manually.
+8.97739,46.8133,CH,LIMMERN,421,CH0078,CHR013500I 6,,RGI60-11.00918,11,Central Europe,Glacier,Land-terminating,False,38,True,RGI link checked manually.
+9.38896,46.9603,CH,PIZOL,417,CH0081,CHR0135000D1,,RGI60-11.00638,11,Central Europe,Glacier,Land-terminating,False,10,True,RGI link checked manually.
+7.51198,46.3839,CH,PLAINE MORTE,4246,,CHR01355F003,,RGI60-11.02072,11,Central Europe,Glacier,Land-terminating,False,7,True,RGI link checked manually.
+8.988710000000001,46.833,CH,PLATTALVA,420,CH0114,CHR013500I 7,,RGI60-11.00892,11,Central Europe,Glacier,Land-terminating,False,42,True,RGI link checked manually.
+8.3965,46.6236,CH,RHONE,473,CH0001,CHN012403003,,RGI60-11.01238,11,Central Europe,Glacier,Land-terminating,False,35,True,RGI link checked manually.
+8.60104,46.5988,CH,SANKT ANNA,432,CH0067,CHR013501E12,,RGI60-11.01367,11,Central Europe,Glacier,Land-terminating,False,5,True,RGI link automated.
+7.8696399999999995,46.0179,CH,SCHWARZBERG,395,CH0010,CHN012502024,,RGI60-11.02762,11,Central Europe,Glacier,Land-terminating,False,61,True,RGI link checked manually.
+10.0766,46.8524,CH,SILVRETTA,408,CH0090,CHR013100G 5,,RGI60-11.00804,11,Central Europe,Glacier,Land-terminating,False,99,True,RGI link checked manually.
+7.22536,46.3202,CH,TSANFLEURON,371,CH0033,CHN012202001,,RGI60-11.02249,11,Central Europe,Glacier,Land-terminating,False,7,True,RGI link checked manually.
+-72.069,-42.4515,CL,AMARILLO,3905,,,,RGI60-17.11634,17,Southern Andes,Glacier,Land-terminating,False,10,True,RGI link checked manually.
+-70.0955,-33.1036,CL,ECHAURREN NORTE,1344,CL0001B,CL1M0057D015,,RGI60-17.13957,17,Southern Andes,Glacier,Land-terminating,False,42,False,RGI link checked manually.
+-69.4968,-28.2912,CL,ESPERANZA,3982,,,,RGI60-17.15116,17,Southern Andes,Glacier,Land-terminating,False,6,False,RGI link checked manually.
+-69.5662,-28.3289,CL,GUANACO,3983,,CL1M03812071,,RGI60-17.15110,17,Southern Andes,Glacier,Land-terminating,False,12,False,RGI link checked manually.
+-71.7552,-38.7271,CL,MOCHO CHOSHUENCO SE,3972,,,,RGI60-17.12685,17,Southern Andes,Glacier,Land-terminating,False,6,False,RGI link automated.
+-69.012,-28.2914,CL,TORO 1,3980,,,,RGI60-17.15113,17,Southern Andes,Glacier,Land-terminating,False,6,False,RGI link checked manually.
+-69.5638,-28.3028,CL,TORO 2,3981,,,,RGI60-17.15114,17,Southern Andes,Glacier,Land-terminating,False,6,False,RGI link checked manually.
+90.447,30.193,CN,GURENHEKOU,3978,,,,RGI60-13.28839,13,"Asia, Central",Glacier,Land-terminating,False,5,False,RGI link checked manually.
+101.916,29.584,CN,HAILUOGOU,849,CN0031,CN5K6120F003,,RGI60-15.07886,15,"Asia, South East",Glacier,Land-terminating,False,5,False,RGI link checked manually.
+94.184,35.669000000000004,CN,MEIKUANG,3955,,,,RGI60-13.33648,13,"Asia, Central",Ice cap,Land-terminating,False,12,False,RGI link checked manually.
+75.072,38.23,CN,MUZTAG ATA (GLACIER NO. 15),3992,,,G075058E38248N,RGI60-13.41896,13,"Asia, Central",Ice cap,Land-terminating,False,5,False,RGI link checked manually.
+81.32300000000001,30.455,CN,NAIMONA NYI,3991,,CN5O173B0003,G081323E30455N,RGI60-15.09026,15,"Asia, South East",Glacier,Land-terminating,False,5,False,RGI link checked manually.
+96.975,29.386999999999997,CN,PARLUNG NO. 94,3987,CN0094,CN5O282A1094,G096975E29387N,RGI60-15.11693,15,"Asia, South East",Glacier,Land-terminating,False,11,True,RGI link checked manually.
+96.902,29.303,CN,PARLUNG ZANGBO: NO. 12,3986,CN0012,CN5O2820B000,,RGI60-15.11962,15,"Asia, South East",Glacier,Land-terminating,False,5,False,RGI link checked manually.
+97.755,39.236999999999995,CN,QIYI,856,CN0003,CN Y0437C018,,RGI60-13.32330,13,"Asia, Central",Glacier,Land-terminating,False,15,False,RGI link checked manually.
+86.81,43.111000000000004,CN,URUMQI GLACIER NO. 1 E-BRANCH,1511,CN0001,,G086810E43111N,RGI60-13.45335,13,"Asia, Central",Glacier,Land-terminating,False,30,True,RGI link checked manually.
+86.801,43.117,CN,URUMQI GLACIER NO. 1 W-BRANCH,1512,CN0002,,G086801E43117N,RGI60-13.45334,13,"Asia, Central",Glacier,Land-terminating,False,30,True,RGI link checked manually.
+92.135,33.171,CN,XIAO DONGKZMADI,1510,CN0038,,,RGI60-13.24556,13,"Asia, Central",Glacier,Land-terminating,False,22,False,RGI link checked manually.
+-75.3715,4.80506,CO,CONEJERAS,2721,CO0033,,,RGI60-16.01355,16,Low Latitudes,Glacier,Land-terminating,False,11,True,RGI link checked manually.
+10.982920789000001,47.415938931999996,DE,SCHNEEFERNER N,346,DE0001,DE4J14400001,,RGI60-11.03246,11,Central Europe,Glacier,Land-terminating,False,6,True,RGI link checked manually.
+-78.1446,-0.489511,EC,ANTIZANA15ALPHA,1624,EC1DA15,EC1D30370015,,RGI60-16.01339,16,Low Latitudes,Glacier,Land-terminating,False,22,True,RGI link checked manually.
+6.419410706,44.949546813999994,ES,MALADETA,942,ES9020,ES4O00122008,,RGI60-11.03818,11,Central Europe,Glacier,Land-terminating,False,25,True,RGI link checked manually.
+7.509239999999999,45.9701,FR,ARGENTIERE,354,FR0002,FRN010305A08,,RGI60-11.02835,11,Central Europe,Glacier,Land-terminating,False,41,False,RGI link checked manually.
+7.042000000000001,45.475,FR,GEBROULAZ,352,FR0009,FRN010406E06,,RGI60-11.03432,11,Central Europe,Glacier,Land-terminating,False,22,False,RGI link checked manually.
+7.83246,45.9256,FR,MER DE GLACE,353,FR0003,FRN010306A01,,RGI60-11.02923,11,Central Europe,Glacier,Land-terminating,False,8,False,RGI link checked manually.
+7.882999999999999,45.827,FR,OSSOUE,2867,,,,RGI60-11.03841,11,Central Europe,Glacier,Land-terminating,False,15,False,RGI link checked manually.
+6.353,44.824,FR,SAINT SORLIN,356,FR0015,FRN010602B09,,RGI60-11.03503,11,Central Europe,Glacier,Land-terminating,False,60,False,RGI link checked manually.
+6.388999999999999,44.972,FR,SARENNES,357,FR0029,FRN010603A02,,RGI60-11.03515,11,Central Europe,Glacier,Land-terminating,False,69,False,RGI link checked manually.
+42.4732,43.1296,GE,TBILISA,724,GE3012,GE0 XXX00022,,RGI60-12.00807,12,Caucasus and Middle East,Glacier,Land-terminating,False,13,True,RGI link checked manually.
+-50.3208,66.1325,GL,AMITSULOQ ICE CAP,232,GL0004,GL2U1DG16166,,RGI60-05.00446,05,Greenland Periphery,Glacier,Land-terminating,False,9,False,RGI link checked manually.
+-20.8288,74.3778,GL,FREYA,3350,,,,RGI60-05.20030,05,Greenland Periphery,Glacier,Land-terminating,False,9,True,RGI link checked manually.
+-37.8032,65.6957,GL,MITTIVAKKAT,1629,GL0019,GL02U3I00000,G322197E65696N,RGI60-05.11186,05,Greenland Periphery,Glacier,Land-terminating,False,22,True,RGI link checked manually.
+-52.1262,65.6,GL,QAPIARFIUP SER.,238,GL0009,GL2U1DB10003,,RGI60-05.00115,05,Greenland Periphery,Glacier,Land-terminating,False,5,False,RGI link checked manually.
+-45.3055,61.4421,GL,VALHALTINDE,240,GL0001,GL2U1AG05008,,RGI60-05.05149,05,Greenland Periphery,Glacier,Land-terminating,False,5,False,RGI link checked manually.
+88.684351605,27.959920148000002,IN,CHANGMEKHANGPU,1045,IN2522,IN05P2500022,G088684E27960N,RGI60-15.02942,15,"Asia, South East",Glacier,Land-terminating,False,7,False,RGI link checked manually.
+77.507513941,32.224215541999996,IN,CHHOTA SHIGRI,2921,,,G077508E32224N,RGI60-14.15990,14,"Asia, South West",Glacier,Land-terminating,False,14,True,RGI link checked manually.
+78.825119019,30.842954635999998,IN,DOKRIANI,3454,,,G078825E30843N,RGI60-15.07605,15,"Asia, South East",Glacier,Land-terminating,False,6,False,RGI link checked manually.
+79.894082471,30.557780418000004,IN,DUNAGIRI,1047,IN0191,IN5O12202191,G079894E30558N,RGI60-15.06777,15,"Asia, South East",Glacier,Land-terminating,False,6,False,RGI link checked manually.
+78.521963702,31.378255834,IN,GOR GARANG,3929,,,,RGI60-14.12365,14,"Asia, South West",Glacier,Land-terminating,False,9,False,RGI link checked manually.
+77.373833286,32.23484894,IN,HAMTAH,3044,,IN5Q21212180,G077374E32235N,RGI60-14.15536,14,"Asia, South West",Glacier,Land-terminating,False,11,False,RGI link checked manually.
+75.537165453,34.15943632,IN,NEH NAR,3930,,,,RGI60-14.19543,14,"Asia, South West",Glacier,Land-terminating,False,9,False,RGI link checked manually.
+78.349378203,31.292291095,IN,SHAUNE GARANG,1048,IN0084,IN5Q220 1984,G078349E31292N,RGI60-14.12323,14,"Asia, South West",Glacier,Land-terminating,False,13,False,RGI link checked manually.
+79.675,30.718000000000004,IN,TIPRA BANK,1049,IN0004,IN5O12200004,G079675E30718N,RGI60-15.06557,15,"Asia, South East",Glacier,Land-terminating,False,7,False,RGI link checked manually.
+-16.4767,64.2666,IS,BREIDAMJOKULL E. B.,3062,IS1126B,ISV   10126B,,RGI60-06.00483,06,Iceland,Ice cap,Land-terminating,False,7,False,RGI link checked manually.
+-16.2675,64.5867,IS,BRUARJOKULL,3067,IS2400,IS0000V02400,G343222E64409N,RGI60-06.00377,06,Iceland,Ice cap,Land-terminating,False,24,False,"RGI link checked manually. GLIMS ID from Foresta, L., et al. (2016),  Geophys. Res. Lett., 43, doi:10.1002/2016GL071485."
+-17.0539,64.6745,IS,DYNGJUJOKULL,3068,IS2600,,,RGI60-06.00477,06,Iceland,Ice cap,Land-terminating,False,19,False,RGI link checked manually.
+-15.6083,64.6284,IS,EYJABAKKAJOKULL,3069,IS2300,IS0000V02300,,RGI60-06.00472,06,Iceland,Glacier,Land-terminating,False,25,False,RGI link checked manually.
+-18.6422,64.7989,IS,HOFSJOKULL E,3088,IS0510B,IS0000V00510,,RGI60-06.00234,06,Iceland,Ice cap,Land-terminating,False,28,False,RGI link checked manually.
+-18.9072,64.9014,IS,HOFSJOKULL N,3089,IS0510A,IS0000V00510,,RGI60-06.00238,06,Iceland,Ice cap,Land-terminating,False,28,False,RGI link checked manually.
+-19.0241,64.757,IS,HOFSJOKULL SW,3090,IS0510C,IS0000V00510,G340976E64757N,RGI60-06.00236,06,Iceland,Ice cap,Land-terminating,False,26,False,RGI link checked manually.
+-17.7174,64.5628,IS,KOLDUKVISLARJ.,3096,IS2700,,,RGI60-06.00424,06,Iceland,Ice cap,Land-terminating,False,23,False,RGI link checked manually.
+-20.0311,64.6423,IS,LANGJOKULL ICE CAP,3660,,,G339764E64629N,RGI60-06.00310,06,Iceland,Ice cap,Land-terminating,False,20,False,"RGI link checked manually. GLIMS ID from Foresta, L., et al. (2016),  Geophys. Res. Lett., 43, doi:10.1002/2016GL071485."
+-18.9072,64.9014,IS,SATUJOKULL,3110,IS0530,,,RGI60-06.00238,06,Iceland,Ice cap,Land-terminating,False,11,False,RGI link automated.
+-14.9002,64.7077,IS,THRANDARJOKULL,3125,IS1940,,G345100E64708N,RGI60-06.00513,06,Iceland,Ice cap,Land-terminating,False,6,False,RGI link automated.
+-17.927,64.3475,IS,TUNGNAARJOKULL,3126,IS2214,IS0000V02214,,RGI60-06.00443,06,Iceland,Ice cap,Land-terminating,False,25,False,RGI link checked manually.
+13.56671,42.47054,IT,CALDERONE,1107,IT1006,,,RGI60-11.03241,11,Central Europe,Glacier,Land-terminating,False,22,True,RGI link checked manually.
+10.1119,46.4296,IT,CAMPO SETT.,1106,IT0997,IT4J14311006,,RGI60-11.01930,11,Central Europe,Glacier,Land-terminating,False,8,False,RGI link checked manually.
+10.7085,46.4512,IT,CARESER,635,IT0701,IT4L00102519,,RGI60-11.01834,11,Central Europe,Glacier,Land-terminating,False,51,True,RGI link checked manually.
+6.4079999999999995,44.9,IT,CIARDONEY,1264,IT0081,IT4L01052003,,RGI60-11.03254,11,Central Europe,Glacier,Land-terminating,False,25,True,RGI link checked manually.
+10.770999999999999,46.4838,IT,FONTANA BIANCA / WEISSBRUNNF.,1507,IT0713,IT4L00110103,,RGI60-11.01704,11,Central Europe,Glacier,Land-terminating,False,32,True,RGI link checked manually.
+6.12,44.915,IT,GRAND ETRET,1238,IT0134,IT4L01313012,,RGI60-11.03298,11,Central Europe,Glacier,Land-terminating,False,13,True,RGI link checked manually.
+10.6286,46.4337,IT,LA MARE (VEDRETTA DE),636,IT0699,IT4L00102517,,RGI60-11.01863,11,Central Europe,Glacier,Land-terminating,False,14,True,RGI link automated.
+10.6115,46.4674,IT,LUNGA (VEDRETTA) / LANGENF.,661,IT0733,IT4L00112128,,RGI60-11.01776,11,Central Europe,Glacier,Land-terminating,False,14,True,RGI link checked manually.
+7.866210000000001,46.0723,IT,LUPO,1138,IT0543,IT4L01132016,,RGI60-11.02659,11,Central Europe,Glacier,Land-terminating,False,8,False,RGI link checked manually.
+11.1528,46.9566,IT,MALAVALLE (VEDR. DI) / UEBELTALF.,672,IT0875,IT4L00121108,,RGI60-11.00619,11,Central Europe,Glacier,Land-terminating,False,15,True,RGI link checked manually.
+11.2247,46.9656,IT,PENDENTE (VEDR.) / HANGENDERF.,675,IT0876,IT4L00121110,,RGI60-11.00603,11,Central Europe,Glacier,Land-terminating,False,21,True,RGI link checked manually.
+12.0965,46.9069,IT,RIES OCC. (VEDR. DI) / RIESERF. WESTL.,645,IT0930,IT4L00123312,,RGI60-11.00647,11,Central Europe,Glacier,Land-terminating,False,8,True,RGI link checked manually.
+10.5127,46.348,IT,SFORZELLINA,667,IT0516,IT4L01137036,,RGI60-11.02214,11,Central Europe,Glacier,Land-terminating,False,14,False,RGI link checked manually.
+9.363539999999999,46.5056,IT,SURETTA MERID.,2488,IT0371,IT4L01113007,,RGI60-11.01662,11,Central Europe,Glacier,Land-terminating,False,8,False,RGI link checked manually.
+7.1227,45.3262,IT,TIMORION,1282,IT0126,IT4L01313003,,RGI60-11.03191,11,Central Europe,Glacier,Land-terminating,False,15,False,RGI link checked manually.
+37.314,-0.156806,KE,LEWIS,695,KE0008,KEE021D00001,G037314E00157S,RGI60-16.01638,16,Low Latitudes,Glacier,Land-terminating,False,22,True,RGI link checked manually.
+71.56986236600001,39.609699249,KG,ABRAMOV,732,KG4101,KGXA31000040,G071570E39610N,RGI60-13.18096,13,"Asia, Central",Glacier,Land-terminating,False,36,True,RGI link checked manually.
+77.749273443,41.786813441,KG,BATYSH SOOK/SYEK ZAPADNIY,781,KG5082,KG05XXX00082,,RGI60-13.06974,13,"Asia, Central",Glacier,Land-terminating,False,11,True,RGI link checked manually.
+78.163760075,41.793219402,KG,GLACIER NO. 354 (AKSHIYRAK),3889,,SU5X14105354,G078164E41793N,RGI60-13.07064,13,"Asia, Central",Glacier,Land-terminating,False,6,True,RGI link automated.
+74.49766036300001,42.454479253,KG,GOLUBIN,753,KG5060,KG0X0C100250,G074498E42454N,RGI60-13.11609,13,"Asia, Central",Glacier,Land-terminating,False,32,True,RGI link checked manually.
+78.27280330800001,42.140309986999995,KG,KARA-BATKAK,813,KG5080,KG0X00C00265,G078273E42140N,RGI60-13.06361,13,"Asia, Central",Glacier,Land-terminating,False,46,True,RGI link checked manually.
+77.68168298399999,41.876732163,KG,NO.131,782,KG5081,KG05XXX00081,,RGI60-13.06828,13,"Asia, Central",Glacier,Land-terminating,False,5,True,RGI link checked manually.
+78.181348805,41.826979308,KG,SARY TOR (NO.356),805,KG5106,KG0 XXX00019,G078181E41827N,RGI60-13.08055,13,"Asia, Central",Glacier,Land-terminating,False,8,True,RGI link checked manually.
+77.09641025,43.050292445,KZ,IGLI TUYUKSU,816,KZ5076,KZ0XB2200108,,RGI60-13.08782,13,"Asia, Central",Glacier,Land-terminating,False,34,False,RGI link checked manually.
+77.107482796,43.075781418999995,KZ,MANSHUK MAMETOVA,811,KZ5091,KZ0XB2200112,,RGI60-13.08534,13,"Asia, Central",Glacier,Land-terminating,False,32,False,RGI link checked manually.
+77.109750374,43.021278228999996,KZ,MAYAKOVSKIY,808,KZ5094,KZ0XB2200111,,RGI60-13.08615,13,"Asia, Central",Glacier,Land-terminating,False,15,False,RGI link checked manually.
+77.064330256,43.057823598,KZ,MOLODEZHNIY,812,KZ5090,KZ0XB2200105,,RGI60-13.08781,13,"Asia, Central",Glacier,Land-terminating,False,34,False,RGI link checked manually.
+80.238317299,45.095799218,KZ,MURAVLEV,796,KZ6002,KZ0 XXX00020,,RGI60-13.05496,13,"Asia, Central",Glacier,Land-terminating,False,13,True,RGI link checked manually.
+77.102104419,43.062361311000004,KZ,ORDZHONIKIDZE,809,KZ5093,KZ0XB2200110,,RGI60-13.08531,13,"Asia, Central",Glacier,Land-terminating,False,15,False,RGI link checked manually.
+77.07974015,43.024608168,KZ,PARTIZAN,807,KZ5095,KZ0XB2200109,,RGI60-13.08533,13,"Asia, Central",Glacier,Land-terminating,False,15,False,RGI link checked manually.
+80.228503062,45.082519212,KZ,SHUMSKIY,797,KZ6001,KZ0 XXX00024,G080229E45083N,RGI60-13.05504,13,"Asia, Central",Glacier,Land-terminating,False,25,True,RGI link checked manually.
+77.080587306,43.043653004,KZ,TS.TUYUKSUYSKIY,817,KZ5075,KZ0XB2200107,G077081E43044N,RGI60-13.08624,13,"Asia, Central",Glacier,Land-terminating,False,61,True,RGI link checked manually.
+77.05140511100001,43.071075201000006,KZ,VISYACHIY-1-2,806,KZ5096,KZ0XB2200103,,RGI60-13.08814,13,"Asia, Central",Glacier,Land-terminating,False,15,False,RGI link checked manually.
+77.07363205600001,43.051831778,KZ,ZOYA KOSMODEMYANSKAYA,810,KZ5092,KZ0XB2200106,,RGI60-13.08783,13,"Asia, Central",Glacier,Land-terminating,False,15,False,RGI link checked manually.
+5.644,61.747,NO,AALFOTBREEN,317,NO36204,NOA000B0O001,G005644E61747N,RGI60-08.02666,08,Scandinavia,Glacier,Land-terminating,False,54,True,RGI link checked manually.
+21.999000000000002,70.234,NO,AUSTDALSBREEN,321,NO37323,NO4A000A4023,,RGI60-08.02489,08,Scandinavia,Glacier,Land-terminating,False,29,True,RGI link checked manually.
+8.491,61.553000000000004,NO,AUSTRE MEMURUBREEN,1317,NO0053A,NO4A000AB033,G008491E61553N,RGI60-08.01013,08,Scandinavia,Glacier,Land-terminating,False,5,True,RGI link checked manually.
+6.438,60.086000000000006,NO,BLAABREEN,10423,NO3126,N4A000AJ011,G006438E60086N,RGI60-08.02966,08,Scandinavia,Glacier,Land-terminating,False,6,True,
+17.852,68.34,NO,BLAAISEN,1328,NO7421,NO4A000DZ011,G017852E68340N,RGI60-08.02436,08,Scandinavia,Glacier,Land-terminating,False,6,True,RGI link checked manually.
+8.561,61.431000000000004,NO,BLOMSTERSKARDSBREEN,1321,NO1930,,,RGI60-08.01431,08,Scandinavia,Glacier,Land-terminating,False,7,False,RGI link checked manually.
+8.708,61.398,NO,BONDHUSBREA,318,NO20408,NO4A000AJ002,,RGI60-08.01432,08,Scandinavia,Glacier,Land-terminating,False,5,True,RGI link checked manually.
+6.38,60.067,NO,BREIDABLIKKBREA,2671,,NO4A000AJ001,G006380E60067N,RGI60-08.02962,08,Scandinavia,Glacier,Land-terminating,False,17,True,RGI link checked manually.
+6.957999999999999,60.373000000000005,NO,ENGABREEN,298,NO67011,NO4A000C4011,,RGI60-08.00431,08,Scandinavia,Glacier,Land-terminating,False,48,True,RGI link checked manually.
+8.623,61.424,NO,GRAAFJELLSBREA,1320,NO2051,NO4A000AJ010,,RGI60-08.01433,08,Scandinavia,Glacier,Land-terminating,False,18,True,RGI link checked manually.
+8.6,61.657,NO,GRAASUBREEN,299,NO0547,NO4A000AB047,G008600E61657N,RGI60-08.00987,08,Scandinavia,Glacier,Land-terminating,False,56,True,RGI link checked manually.
+5.672000000000001,61.746,NO,HANSEBREEN,322,NO36206,NO4A000BO01A,G005672E61746N,RGI60-08.02650,08,Scandinavia,Glacier,Land-terminating,False,31,True,RGI link checked manually.
+7.667999999999999,61.681000000000004,NO,HARBARDSBREEN,2320,NO30704,NO4A000A2004,G007668E61681N,RGI60-08.01217,08,Scandinavia,Glacier,Land-terminating,False,5,True,RGI link checked manually.
+8.441,61.556000000000004,NO,HELLSTUGUBREEN,300,NO0511,NO4A000AD011,G008441E61556N,RGI60-08.00449,08,Scandinavia,Glacier,Land-terminating,False,56,True,RGI link checked manually.
+13.633,66.454,NO,HOEGTUVBREEN,286,NO5507,NO4A000CX007,G013633E66454N,RGI60-08.00295,08,Scandinavia,Glacier,Land-terminating,False,7,True,RGI link checked manually.
+6.542000000000001,61.416000000000004,NO,JOSTEFONN,1676,,NO4A000A8009,G006542E61416N,RGI60-08.02017,08,Scandinavia,Glacier,Land-terminating,False,5,True,RGI link checked manually.
+21.737,70.13,NO,LANGFJORDJOEKELEN,323,NO85008,NO4A000ET008,G021737E70130N,RGI60-08.01258,08,Scandinavia,Glacier,Land-terminating,False,26,True,RGI link checked manually.
+7.099,61.715,NO,NIGARDSBREEN,290,NO31014,NO4A000A4014,G007099E61715N,RGI60-08.01126,08,Scandinavia,Glacier,Land-terminating,False,56,True,RGI link checked manually.
+18.63,68.152,NO,OKSTINDBREEN,324,NO64902,NO4A000CV001,,RGI60-08.00243,08,Scandinavia,Glacier,Land-terminating,False,12,True,RGI link checked manually.
+14.605,66.60300000000001,NO,OMNSBREEN,3805,,,,RGI60-08.01520,08,Scandinavia,Glacier,Land-terminating,False,5,False,RGI link checked manually.
+14.542,66.60300000000001,NO,REMBESDALSKAAKA,2296,NO22303,NO4A000AO001,,RGI60-08.01501,08,Scandinavia,Glacier,Land-terminating,False,55,True,RGI link checked manually.
+6.4270000000000005,60.067,NO,RUKLEBREEN,10422,NO3129,N4A000AJ026,G006427E60067N,RGI60-08.02643,08,Scandinavia,Glacier,Land-terminating,False,5,True,
+16.043,67.291,NO,RUNDVASSBREEN,2670,,NO4A000DI022,G016043E67291N,RGI60-08.02384,08,Scandinavia,Glacier,Land-terminating,False,9,True,RGI link checked manually.
+8.132,61.573,NO,STORBREEN,302,NO0541,NOA000A0D041,G008132E61573N,RGI60-08.00312,08,Scandinavia,Glacier,Land-terminating,False,69,True,RGI link checked manually.
+6.801,61.531000000000006,NO,STORE SUPPHELLEBREEN,287,NO33014,NO4A000A8015,G006801E61531N,RGI60-08.01099,08,Scandinavia,Glacier,Land-terminating,False,11,False,RGI link checked manually.
+18.066,68.32600000000001,NO,STORGLOMBREEN,297,NO67313,NO4A000C7013,,RGI60-08.00472,08,Scandinavia,Glacier,Land-terminating,False,10,True,RGI link checked manually.
+17.917,68.217,NO,STORSTEINSFJELLBREEN,1329,NO7381,NO4A000DW011,G017917E68217N,RGI60-08.02458,08,Scandinavia,Glacier,Land-terminating,False,10,True,RGI link checked manually.
+13.761,66.557,NO,SVARTISHEIBREEN,320,NO65509,NO4A000CX009,G013761E66557N,RGI60-08.01598,08,Scandinavia,Glacier,Land-terminating,False,13,True,RGI link checked manually.
+14.437000000000001,66.71600000000001,NO,TROLLBERGDALSBREEN,316,NO68507,NO4A000DE007,G014437E66716N,RGI60-08.01484,08,Scandinavia,Glacier,Land-terminating,False,11,True,RGI link checked manually.
+6.997999999999999,61.646,NO,TUNSBERGDALSBREEN,1316,NO3100,NO4A000A4007,G006998E61646N,RGI60-08.00434,08,Scandinavia,Glacier,Land-terminating,False,7,True,RGI link checked manually.
+7.278,61.833,NO,VESLEDALSBREEN,1331,NO3733A,NO4A000BU033,G007278E61833N,RGI60-08.01186,08,Scandinavia,Glacier,Land-terminating,False,6,True,RGI link automated.
+19.355999999999998,69.47800000000001,NO,VESTRE MEMURUBREEN,1318,NO053B,NO4A000AB031,,RGI60-08.02183,08,Scandinavia,Glacier,Land-terminating,False,5,True,RGI link automated.
+86.556320409,27.715784606,NP,AX010,906,NP0005,NP0 XXX00005,,RGI60-15.03507,15,"Asia, South East",Glacier,Land-terminating,False,5,True,RGI link checked manually.
+86.897669131,27.709259601,NP,MERA,3996,,,,RGI60-15.03591,15,"Asia, South East",Ice cap,Land-terminating,False,8,False,RGI link checked manually.
+86.79068870299999,27.898420495,NP,POKALDE,3997,,,,RGI60-15.03875,15,"Asia, South East",Glacier,Land-terminating,False,6,False,RGI link checked manually.
+83.489979811,28.827027264,NP,RIKHA SAMBA,1516,NP0012,,G083490E28827N,RGI60-15.04847,15,"Asia, South East",Glacier,Land-terminating,False,7,True,RGI link automated.
+93.17319594799999,29.744736518000003,NP,WEST CHANGRI NUP,10401,,,G086808E28006N,RGI60-13.03734,13,"Asia, Central",Glacier,Land-terminating,False,5,False,RGI-ID reported by David R. Rounce.
+85.644976738,28.262351016,NP,YALA,912,NP0004,NP0 XXX00004,G085645E28262N,RGI60-15.04119,15,"Asia, South East",Glacier,Land-terminating,False,5,True,RGI link automated.
+169.437,-44.0715,NZ,BREWSTER,1597,,NZ0868C20000,G169437E44072S,RGI60-18.01130,18,New Zealand,Glacier,Land-terminating,False,12,False,RGI link checked manually.
+170.926,-43.1326,NZ,IVORY,900,,NZ0090109000,,RGI60-18.03357,18,New Zealand,Glacier,Land-terminating,False,6,False,RGI link checked manually.
+171.52599999999998,-42.89,NZ,ROLLESTON,1538,,NZ0911A04000,,RGI60-18.02910,18,New Zealand,Glacier,Land-terminating,False,6,False,RGI link automated.
+-77.6279,-8.96265,PE,ARTESONRAJU,3292,PE0003,PEP005C0GH01,,RGI60-16.02444,16,Low Latitudes,Glacier,Land-terminating,False,12,True,RGI link checked manually.
+-76.7207,-10.4787,PE,SANTA ROSA,225,PE0006,PEP00470AEC8,,RGI60-16.01756,16,Low Latitudes,Glacier,Land-terminating,False,6,False,RGI link checked manually.
+-77.2709,-9.65293,PE,YANAMAREY,226,PE0004,PEP005C0VAC2,,RGI60-16.02086,16,Low Latitudes,Glacier,Land-terminating,False,22,True,RGI link checked manually.
+76.8939,35.4284,PK,SIACHEN,3666,,,,RGI60-14.07524,14,"Asia, South West",Glacier,Land-terminating,False,5,False,RGI link checked manually.
+43.083999999999996,43.0332,RU,BEZENGI,703,RU3006,RUG003700001,,RGI60-12.01252,12,Caucasus and Middle East,Glacier,Land-terminating,False,15,False,RGI link checked manually.
+86.703071594,49.813026428,RU,BOLSHOI BEREL,3950,,,,RGI60-10.01121,10,"Asia, North",Glacier,Land-terminating,False,5,False,RGI link checked manually.
+42.7612,43.1944,RU,DJANKUAT,726,RU3010,RUG003700062,,RGI60-12.01132,12,Caucasus and Middle East,Glacier,Land-terminating,False,49,True,RGI link checked manually.
+42.4674,43.3121,RU,GARABASHI,761,RU3031,RU4G00307011,,RGI60-12.00161,12,Caucasus and Middle East,Glacier,Land-terminating,False,34,True,RGI link checked manually.
+66.000305176,67.57893371600001,RU,IGAN,730,RU2001,RU00A0200027,,RGI60-10.05087,10,"Asia, North",Glacier,Land-terminating,False,24,False,RGI link checked manually.
+43.0522,43.0776,RU,KELBASHI,3917,,,,RGI60-12.01198,12,Caucasus and Middle East,Glacier,Land-terminating,False,5,False,RGI link checked manually.
+41.8439,43.2251,RU,KHAKEL,700,RU3003,RU0H00100173,,RGI60-12.01297,12,Caucasus and Middle East,Glacier,Land-terminating,False,6,False,RGI link checked manually.
+42.7668,43.2143,RU,KOIAVGAN,3957,,,,RGI60-12.00632,12,Caucasus and Middle East,Glacier,Land-terminating,False,7,False,
+161.802352905,54.830718993999994,RU,KORYTO,791,RU8003,RU0 XXX00007,,RGI60-10.04358,10,"Asia, North",Glacier,Land-terminating,False,16,True,RGI link checked manually.
+87.69024658200001,50.080078125,RU,LEVIY AKTRU,794,RU7102,RU0A12500128,,RGI60-10.01737,10,"Asia, North",Glacier,Land-terminating,False,36,True,RGI link checked manually.
+87.745521545,50.049674988,RU,MALIY AKTRU,795,RU7100,RU0A12500126,,RGI60-10.01732,10,"Asia, North",Glacier,Land-terminating,False,51,True,RGI link checked manually.
+86.71026611299999,49.82395172100001,RU,MALYY BERELSKIY,830,RU7083,RU0A31500116,,RGI60-10.01107,10,"Asia, North",Glacier,Land-terminating,False,5,False,RGI link checked manually.
+41.4156,43.3638,RU,MARUKHSKIY,727,RU3001,RU0 00100108,,RGI60-12.00960,12,Caucasus and Middle East,Glacier,Land-terminating,False,16,True,RGI link checked manually.
+158.180389404,52.46206665,RU,MUTNOVSKIY NE,788,RU8011,RU0 XXX00004,,RGI60-10.03941,10,"Asia, North",Glacier,Land-terminating,False,5,False,RGI link checked manually.
+158.15740966799999,52.452796936000006,RU,MUTNOVSKIY SW,787,RU8012,RU0 XXX00003,,RGI60-10.03944,10,"Asia, North",Glacier,Land-terminating,False,5,False,RGI link checked manually.
+140.865356445,62.588794708,RU,NO.31,3534,,,,RGI60-10.03264,10,"Asia, North",Glacier,Land-terminating,False,13,False,RGI link checked manually.
+65.78010559100001,67.636535645,RU,OBRUCHEV,729,RU2002,RU00A0200026,,RGI60-10.05085,10,"Asia, North",Glacier,Land-terminating,False,24,False,RGI link checked manually.
+87.69741058299999,50.061340332,RU,PRAVIY AKTRU,831,RU7101,RU0A12500127,,RGI60-10.01735,10,"Asia, North",Glacier,Land-terminating,False,11,True,RGI link checked manually.
+43.8232,42.7537,RU,TSEYA,704,RU3007,RUG003300002,,RGI60-12.01302,12,Caucasus and Middle East,Glacier,Land-terminating,False,11,False,RGI link checked manually.
+42.7749,43.2009,RU,VISYACHIY,3958,,,,RGI60-12.00335,12,Caucasus and Middle East,Glacier,Land-terminating,False,7,False,
+87.780303955,50.047698975,RU,VODOPADNIY (NO.125),780,RU7105,RU5A12500105,,RGI60-10.01708,10,"Asia, North",Glacier,Land-terminating,False,36,True,RGI link checked manually.
+18.325,68.36,SE,KARSOJIETNA,330,SE0798,SEB000E0V019,G018325E68360N,RGI60-08.00259,08,Scandinavia,Glacier,Land-terminating,False,13,False,RGI link checked manually.
+18.686,68.081,SE,MARMAGLACIAEREN,1461,SE0799,SE4B000EZ001,G018686E68081N,RGI60-08.00199,08,Scandinavia,Glacier,Land-terminating,False,26,True,RGI link checked manually.
+17.655,67.172,SE,PARTEJEKNA,327,SE0763,SEB000E08002,G017655E67172N,RGI60-08.00146,08,Scandinavia,Glacier,Land-terminating,False,6,True,RGI link checked manually.
+18.332,68.545,SE,RABOTS GLACIAER,334,SE0785,SEB000E01016,,RGI60-08.00013,08,Scandinavia,Glacier,Land-terminating,False,32,True,RGI link checked manually.
+18.055,68.083,SE,RIUKOJIETNA,342,SE0790,SE4A000DW065,G018055E68083N,RGI60-08.00006,08,Scandinavia,Glacier,Land-terminating,False,27,True,RGI link checked manually.
+18.569000000000003,67.903,SE,STORGLACIAEREN,332,SE0788,SEB000E00005,G018569E67903N,RGI60-08.00213,08,Scandinavia,Glacier,Land-terminating,False,71,True,RGI link checked manually.
+18.648,67.934,SE,TARFALAGLACIAEREN,326,SE0791,SE4B000E0011,G018648E67934N,RGI60-08.00210,08,Scandinavia,Glacier,Land-terminating,False,20,True,RGI link checked manually.
+11.8309,78.8876,SJ,AUSTRE BROEGGERBREEN,292,SJ15504,SJW015505006,G011831E78888N,RGI60-07.00504,07,Svalbard and Jan Mayen,Glacier,Land-terminating,False,51,True,RGI link checked manually.
+12.1614,78.87100000000001,SJ,AUSTRE LOVENBREEN,3812,,SJ4W01505000,G012161E78871N,RGI60-07.00496,07,Svalbard and Jan Mayen,Glacier,Land-terminating,False,7,False,RGI link checked manually.
+16.258,78.6982,SJ,BERTILBREEN,3755,,,G016258E78698N,RGI60-07.00593,07,Svalbard and Jan Mayen,Glacier,Land-terminating,False,11,False,RGI link checked manually.
+15.6267,78.1281,SJ,BOGERBREEN,3914,,,G015627E78128N,RGI60-07.01132,07,Svalbard and Jan Mayen,Glacier,Land-terminating,False,12,False,RGI link checked manually.
+18.8089,78.086,SJ,DAUDBREEN,3915,,,,RGI60-07.00382,07,Svalbard and Jan Mayen,Glacier,Land-terminating,False,6,False,RGI link checked manually.
+15.2378,77.461,SJ,FINSTERWALDERBREEN,3486,SJ13202,SJ4W00103202,G015238E77461N,RGI60-07.00231,07,Svalbard and Jan Mayen,Glacier,Land-terminating,False,18,False,RGI link checked manually.
+14.4077,77.8358,SJ,FRIDTJOVBREEN,3494,SJ13708,SJ4W00103708,G014408E77836N,RGI60-07.01100,07,Svalbard and Jan Mayen,Glacier,Marine-terminating,True,5,False,RGI link checked manually.
+15.5799,77.0748,SJ,HANSBREEN,306,SJ12419,SJW012404019,,RGI60-07.00240,07,Svalbard and Jan Mayen,Glacier,Marine-terminating,True,26,True,RGI link checked manually.
+12.1249,78.6651,SJ,IRENEBREEN,2669,SJ15402,,G012125E78665N,RGI60-07.00490,07,Svalbard and Jan Mayen,Glacier,Land-terminating,False,15,False,RGI link checked manually.
+13.1481,78.7872,SJ,KONGSVEGEN,1456,SJ15510,SJ4W00145510,,RGI60-07.01481,07,Svalbard and Jan Mayen,Glacier,Land-terminating,False,31,True,RGI link checked manually.
+13.3845,78.9916,SJ,KRONEBREEN,3504,SJ15511,SJ4W00105511,,RGI60-07.01464,07,Svalbard and Jan Mayen,Ice cap,Land-terminating,False,9,False,RGI link checked manually.
+15.4657,78.1728,SJ,LONGYEARBREEN,3913,,,,RGI60-07.01107,07,Svalbard and Jan Mayen,Glacier,Land-terminating,False,6,False,RGI link checked manually.
+12.0311,78.8779,SJ,MIDTRE LOVENBREEN,291,SJ15506,SJ4W01505007,G012031E78878N,RGI60-07.00493,07,Svalbard and Jan Mayen,Glacier,Land-terminating,False,50,True,RGI link checked manually.
+13.9535,78.0409,SJ,VOERINGBREEN,3912,,,G013954E78041N,RGI60-07.01060,07,Svalbard and Jan Mayen,Glacier,Land-terminating,False,16,False,RGI link checked manually.
+12.0692,78.6774,SJ,WALDEMARBREEN,2307,SJ15403,,G012069E78677N,RGI60-07.00492,07,Svalbard and Jan Mayen,Glacier,Land-terminating,False,22,True,RGI link checked manually.
+15.394,77.0799,SJ,WERENSKIOLDBREEN,305,SJ12501,SJ4W00102551,G015394E77080N,RGI60-07.00246,07,Svalbard and Jan Mayen,Glacier,Land-terminating,False,7,True,RGI link automated.
+-125.74420166,49.666877747,US,ARAPAHO,1354,US7000,,,RGI60-02.00088,02,Western Canada and USA,Glacier,Land-terminating,False,5,False,RGI link automated.
+-121.71883000000001,45.38088,US,BLUE GLACIER,210,US2126,USM000B00114,,RGI60-02.13924,02,Western Canada and USA,Glacier,Land-terminating,False,47,False,RGI link checked manually.
+-123.973,50.3018,US,COLUMBIA (2057),76,US2057,US2M00332004,,RGI60-02.00837,02,Western Canada and USA,Glacier,Land-terminating,False,34,True,RGI link checked manually.
+-117.21,50.1929,US,DANIELS,83,US2052,US2M10015004,,RGI60-02.00686,02,Western Canada and USA,Glacier,Land-terminating,False,34,False,RGI link checked manually.
+-123.37799999999999,50.3193,US,EASTON,1367,US2008,,,RGI60-02.01305,02,Western Canada and USA,Glacier,Land-terminating,False,28,False,RGI link checked manually.
+-121.70808999999998,45.406000000000006,US,ELIOT,3919,,,,RGI60-02.13914,02,Western Canada and USA,Glacier,Land-terminating,False,15,False,RGI link checked manually.
+-122.764,50.1505,US,EMMONS,203,US2022,USM000B00127,,RGI60-02.00651,02,Western Canada and USA,Glacier,Land-terminating,False,12,False,RGI link checked manually.
+-137.039916992,58.793186188,US,GILMAN,138,US1321,USN000C00063,,RGI60-01.20830,01,Alaska,Glacier,Marine-terminating,True,5,False,RGI link checked manually.
+-145.42700000000002,63.281000000000006,US,GULKANA,90,US0200,US0001200002,,RGI60-01.00570,01,Alaska,Glacier,Land-terminating,False,52,True,RGI link checked manually.
+-134.349,58.38,US,LEMON CREEK,3334,,,,RGI60-01.01104,01,Alaska,Glacier,Land-terminating,False,65,True,RGI link checked manually.
+-116.61399999999999,50.5372,US,LOWER CURTIS,77,US2055,US2M00212004,,RGI60-02.01356,02,Western Canada and USA,Glacier,Land-terminating,False,34,False,RGI link checked manually.
+-116.686,50.3027,US,LYMAN,3340,,,,RGI60-02.00874,02,Western Canada and USA,Glacier,Land-terminating,False,14,False,RGI link checked manually.
+-143.847625732,69.302070618,US,MCCALL,1388,US0001,,G216152E69302N,RGI60-01.02228,01,Alaska,Glacier,Land-terminating,False,13,True,RGI link checked manually.
+-122.74700000000001,50.1373,US,NISQUALLY,201,US2027,USM000B00129,,RGI60-02.00644,02,Western Canada and USA,Glacier,Land-terminating,False,11,False,RGI link checked manually.
+-116.786,50.461999999999996,US,NOISY CREEK,1666,US2078,,,RGI60-02.01170,02,Western Canada and USA,Glacier,Land-terminating,False,24,False,RGI link checked manually.
+-124.175,50.4249,US,NORTH KLAWATTI,1664,US2076,,,RGI60-02.01093,02,Western Canada and USA,Glacier,Land-terminating,False,24,False,RGI link checked manually.
+-123.36,50.4871,US,RAINBOW,79,US2003,US2M00B11008,,RGI60-02.01299,02,Western Canada and USA,Glacier,Land-terminating,False,34,True,RGI link checked manually.
+-116.38799999999999,50.3817,US,SANDALEE,1667,US2079,,,RGI60-02.00971,02,Western Canada and USA,Glacier,Land-terminating,False,23,False,RGI link checked manually.
+-123.375,50.4735,US,SHOLES,3295,,US2M00B00000,,RGI60-02.01295,02,Western Canada and USA,Glacier,Land-terminating,False,28,False,RGI link checked manually.
+-124.00200000000001,50.5625,US,SILVER,1665,US2077,,,RGI60-02.01464,02,Western Canada and USA,Glacier,Land-terminating,False,24,False,RGI link checked manually.
+-123.02,50.318999999999996,US,SOUTH CASCADE,205,US2013,US0M10000121,,RGI60-02.00941,02,Western Canada and USA,Glacier,Land-terminating,False,60,True,RGI link checked manually.
+-123.85799999999999,50.4105,US,SPERRY,218,US5001,US0M12200135,,RGI60-02.01146,02,Western Canada and USA,Glacier,Land-terminating,False,13,False,RGI link checked manually.
+-123.074,50.3834,US,SPIDER,3941,,,,RGI60-02.00974,02,Western Canada and USA,Glacier,Land-terminating,False,10,False,RGI link checked manually.
+-134.278,58.651,US,TAKU,124,US1805,USN000C00099,,RGI60-01.01390,01,Alaska,Glacier,Marine-terminating,True,71,False,RGI link checked manually.
+-148.908,60.412,US,WOLVERINE,94,US0411,USN000D00006,,RGI60-01.09162,01,Alaska,Glacier,Land-terminating,False,52,True,RGI link checked manually.
+-123.20700000000001,50.3918,US,YAWNING,75,US2050,US2M10446007,,RGI60-02.00992,02,Western Canada and USA,Glacier,Land-terminating,False,34,False,RGI link checked manually.

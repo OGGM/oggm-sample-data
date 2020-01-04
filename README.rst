@@ -12,7 +12,7 @@ About
 -----
 
 :License:
-    GNU GPLv3
+    `BSD-3-Clause <https://github.com/OGGM/oggm/blob/master/LICENSE.txt>`_
 
-:Author:
-    Fabien Maussion
+:Authors:
+    OGGM Contributors

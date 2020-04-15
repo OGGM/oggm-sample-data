@@ -93,7 +93,6 @@ CenLon,CenLat,POLITICAL_UNIT,NAME,WGMS_ID,PSFG_ID,WGI_ID,GLIMS_ID,RGI40_ID,RGI50
 96.975,29.387,CN,PARLUNG NO. 94,3987,CN0094,CN5O282A1094,G096975E29387N,,RGI50-15.11693,RGI60-15.11693,15,"15: Asia, South East",Glacier,Land-terminating,False,12,True,RGI link checked manually.
 96.902,29.303,CN,PARLUNG ZANGBO: NO. 12,3986,CN0012,CN5O2820B000,,,RGI50-15.11962,RGI60-15.11962,15,"15: Asia, South East",Glacier,Land-terminating,False,5,False,RGI link checked manually.
 97.755,39.237,CN,QIYI,856,CN0003,CN Y0437C018,,,RGI50-13.32330,RGI60-13.32330,13,"13: Asia, Central",Glacier,Land-terminating,False,15,False,RGI link checked manually.
-86.801,43.117,CN,URUMQI GLACIER NO. 1,853,CN0010,CN5Y730C0029,G086807E43112N,RGI40-13.27055,,RGI60-13.45334,13,"13: Asia, Central",Glacier,Land-terminating,False,60,True,There is no RGI-ID of the whole glacier (W Branch + E Branch) shown in RGI5.0
 86.81,43.111,CN,URUMQI GLACIER NO. 1 E-BRANCH,1511,CN0001,,G086810E43111N,,RGI50-13.45335,RGI60-13.45335,13,"13: Asia, Central",Glacier,Land-terminating,False,31,True,RGI link checked manually.
 86.801,43.117,CN,URUMQI GLACIER NO. 1 W-BRANCH,1512,CN0002,,G086801E43117N,,RGI50-13.45334,RGI60-13.45334,13,"13: Asia, Central",Glacier,Land-terminating,False,31,True,RGI link checked manually.
 92.135,33.171,CN,XIAO DONGKZMADI,1510,CN0038,,,,RGI50-13.24556,RGI60-13.24556,13,"13: Asia, Central",Glacier,Land-terminating,False,22,False,RGI link checked manually.

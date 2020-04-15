@@ -1,13 +1,15 @@
-YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS
-2004,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.9379998999999999,1022.0,-2161.0,-1140.0,"glacier wide annual (and hence summer-) balance involves point values modeled based on meteorological data (10 out of 32 points), reanalized according to methods described in reference"
-2005,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.8639999,750.0,-2206.0,-1456.0,"glacier wide annual (and hence summer-) balance involves point values modeled based on meteorological data (10 out of 33 points), reanalized according to methods described in reference"
-2006,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.8329999,925.0,-2439.0,-1514.0,"glacier wide annual (and hence summer-) balance involves point values modeled based on meteorological data (10 out of 30 points), reanalized according to methods described in reference"
-2007,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.8209999,558.0,-2096.0,-1539.0,"glacier wide annual (and hence summer-) balance involves point values modeled based on meteorological data (7 out of 30 points), reanalized according to methods described in reference"
-2008,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.7849999,814.0,-2132.0,-1318.0,"glacier wide annual (and hence summer-) balance involves point values modeled based on meteorological data (6 out of 32 points), reanalized according to methods described in reference"
-2009,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.7539999,1267.0,-2209.0,-942.0,"glacier wide annual (and hence summer-) balance involves point values modeled based on meteorological data (7 out of 30 points), reanalized according to methods described in reference"
-2010,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.722,843.0,-1336.0,-493.0,"glacier wide annual (and hence summer-) balance involves point values modeled based on meteorological data (2 out of 28 points), reanalized according to methods described in reference"
-2011,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.6929999,965.0,-2131.0,-1166.0,reanalized according to methods described in reference
-2012,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.659,932.0,-2488.0,-1556.0,reanalized according to methods described in reference
-2013,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.62,1216.0,-1462.0,-246.0,reanalized according to methods described in reference
-2014,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.6023690000000002,1642.0,-1200.0,442.0,
-2015,661,IT,LUNGA (VEDRETTA) / LANGENF.,,,,-1727.0,Preliminary value.
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
+2004,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.9379998999999999,1022.0,-2161.0,-1140.0,"glacier wide annual (and hence summer-) balance involves point values modeled based on meteorological data (10 out of 32 points), reanalized according to methods described in reference",RGI50-11.01776
+2005,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.8639999,750.0,-2206.0,-1456.0,"glacier wide annual (and hence summer-) balance involves point values modeled based on meteorological data (10 out of 33 points), reanalized according to methods described in reference",RGI50-11.01776
+2006,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.8329999,925.0,-2439.0,-1514.0,"glacier wide annual (and hence summer-) balance involves point values modeled based on meteorological data (10 out of 30 points), reanalized according to methods described in reference",RGI50-11.01776
+2007,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.8209999,558.0,-2096.0,-1539.0,"glacier wide annual (and hence summer-) balance involves point values modeled based on meteorological data (7 out of 30 points), reanalized according to methods described in reference",RGI50-11.01776
+2008,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.7849999,814.0,-2132.0,-1318.0,"glacier wide annual (and hence summer-) balance involves point values modeled based on meteorological data (6 out of 32 points), reanalized according to methods described in reference",RGI50-11.01776
+2009,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.7539999,1267.0,-2209.0,-942.0,"glacier wide annual (and hence summer-) balance involves point values modeled based on meteorological data (7 out of 30 points), reanalized according to methods described in reference",RGI50-11.01776
+2010,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.722,843.0,-1336.0,-493.0,"glacier wide annual (and hence summer-) balance involves point values modeled based on meteorological data (2 out of 28 points), reanalized according to methods described in reference",RGI50-11.01776
+2011,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.6929999,965.0,-2131.0,-1166.0,reanalized according to methods described in reference,RGI50-11.01776
+2012,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.659,932.0,-2488.0,-1556.0,reanalized according to methods described in reference,RGI50-11.01776
+2013,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.62,1216.0,-1462.0,-246.0,reanalized according to methods described in reference,RGI50-11.01776
+2014,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.6023690000000002,1642.0,-1200.0,442.0,,RGI50-11.01776
+2015,661,IT,LUNGA (VEDRETTA) / LANGENF.,,,,-1727.0,Preliminary value.,RGI50-11.01776
+2016,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.5997,951.0,-1960.0,-1010.0,,RGI50-11.01776
+2017,661,IT,LUNGA (VEDRETTA) / LANGENF.,1.5997,731.0,-2797.0,-2066.0,,RGI50-11.01776

@@ -1,7 +1,12 @@
-YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS
-2001,3044,IN,HAMTAH,3.462,,,-1654.0,"AREA was calculated from submitted accumulation and ablation areas.NET_BALANCE was reported positive, but corrected according to reported AAR."
-2002,3044,IN,HAMTAH,3.462,,,-1221.0,"AREA was calculated from submitted accumulation and ablation areas.NET_BALANCE was reported positive, but corrected according to reported AAR."
-2003,3044,IN,HAMTAH,3.462,,,-1621.0,"AREA was calculated from submitted accumulation and ablation areas.NET_BALANCE was reported positive, but corrected according to reported AAR."
-2004,3044,IN,HAMTAH,3.458,,,-1857.0,"AREA was calculated from submitted accumulation and ablation areas. NET_BALANCE was reported positive, but corrected according to reported AAR."
-2005,3044,IN,HAMTAH,,,,-1856.0,"Reported YEAR was corrected from 2004 to 2005. NET_BALANCE was reported positive, but corrected according to reported AAR."
-2006,3044,IN,HAMTAH,3.458,,,-1391.0,"AREA was calculated from submitted accumulation and ablation areas. NET_BALANCE was reported positive, but corrected according to reported AAR."
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
+2001,3044,IN,HAMTAH,3.462,,,-1654.0,"AREA was calculated from submitted accumulation and ablation areas.NET_BALANCE was reported positive, but corrected according to reported AAR.",RGI50-14.15536
+2002,3044,IN,HAMTAH,3.462,,,-1221.0,"AREA was calculated from submitted accumulation and ablation areas.NET_BALANCE was reported positive, but corrected according to reported AAR.",RGI50-14.15536
+2003,3044,IN,HAMTAH,3.462,,,-1621.0,"AREA was calculated from submitted accumulation and ablation areas.NET_BALANCE was reported positive, but corrected according to reported AAR.",RGI50-14.15536
+2004,3044,IN,HAMTAH,3.458,,,-1857.0,"AREA was calculated from submitted accumulation and ablation areas. NET_BALANCE was reported positive, but corrected according to reported AAR.",RGI50-14.15536
+2005,3044,IN,HAMTAH,,,,-650.0,,RGI50-14.15536
+2006,3044,IN,HAMTAH,3.458,,,-1391.0,"AREA was calculated from submitted accumulation and ablation areas. NET_BALANCE was reported positive, but corrected according to reported AAR.",RGI50-14.15536
+2007,3044,IN,HAMTAH,,,,-2610.0,,RGI50-14.15536
+2008,3044,IN,HAMTAH,,,,-1340.0,,RGI50-14.15536
+2009,3044,IN,HAMTAH,,,,-750.0,,RGI50-14.15536
+2011,3044,IN,HAMTAH,,,,-1460.0,,RGI50-14.15536
+2012,3044,IN,HAMTAH,,,,-1190.0,,RGI50-14.15536

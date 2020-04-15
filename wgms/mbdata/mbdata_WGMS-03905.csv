@@ -1,9 +1,13 @@
-YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS
-2008,3905,CL,AMARILLO,0.269,622.0,-881.0,-259.0,
-2009,3905,CL,AMARILLO,0.276,,,-1111.0,
-2010,3905,CL,AMARILLO,0.249,,,-751.0,
-2011,3905,CL,AMARILLO,0.245,,,-737.0,
-2012,3905,CL,AMARILLO,0.243,,,-550.0,
-2013,3905,CL,AMARILLO,,,,-905.0,
-2014,3905,CL,AMARILLO,,,,-1319.0,preliminary value
-2015,3905,CL,AMARILLO,0.1728,-139.0,-1241.0,-1393.0,
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
+2008,3905,CL,AMARILLO,0.269,622.0,-881.0,-259.0,,RGI60-17.14887
+2009,3905,CL,AMARILLO,0.276,,,-1111.0,,RGI60-17.14887
+2010,3905,CL,AMARILLO,0.249,,,-751.0,,RGI60-17.14887
+2011,3905,CL,AMARILLO,0.245,,,-737.0,,RGI60-17.14887
+2012,3905,CL,AMARILLO,0.243,,,-550.0,,RGI60-17.14887
+2013,3905,CL,AMARILLO,,,,-905.0,,RGI60-17.14887
+2014,3905,CL,AMARILLO,,,,-1319.0,preliminary value,RGI60-17.14887
+2015,3905,CL,AMARILLO,0.1728,-139.0,-1241.0,-1393.0,,RGI60-17.14887
+2016,3905,CL,AMARILLO,,,,3824.0,Mass-balance value estimated using correlations with the area measured in imagery and the balance data of Brown Superior and Conconta Norte Glaciers.,RGI60-17.14887
+2017,3905,CL,AMARILLO,,,,1403.0,Mass-balance value estimated using correlations with the area measured in imagery and the balance data of Brown Superior and Conconta Norte Glaciers.,RGI60-17.14887
+2018,3905,CL,AMARILLO,,,,893.0,Mass-balance value estimated using correlations with the area measured in imagery and the balance data of Brown Superior and Conconta Norte Glaciers.,RGI60-17.14887
+2019,3905,CL,AMARILLO,,,,-2632.0,Mass-balance value estimated using correlations with the area measured in imagery and the balance data of Brown Superior and Conconta Norte Glaciers.,RGI60-17.14887

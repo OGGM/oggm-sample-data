@@ -1,36 +1,39 @@
-YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS
-1968,732,KG,ABRAMOV,24.6374,936.0,-1358.0,-423.0,re-analysed data based on raw data published by Pertziger (1996)
-1969,732,KG,ABRAMOV,26.0,,,740.0,"Kamnyansky, 2001"
-1970,732,KG,ABRAMOV,25.97,,,-210.0,"Kamnyansky, 2001"
-1971,732,KG,ABRAMOV,24.6374,1250.0,-1916.0,-666.0,re-analysed data based on raw data published by Pertziger (1996)
-1972,732,KG,ABRAMOV,24.6374,1304.0,-868.0,436.0,re-analysed data based on raw data published by Pertziger (1996)
-1973,732,KG,ABRAMOV,25.3184,1621.0,-2574.0,-953.0,re-analysed data based on raw data published by Pertziger (1996)
-1974,732,KG,ABRAMOV,25.3184,676.0,-989.0,-313.0,re-analysed data based on raw data published by Pertziger (1996)
-1975,732,KG,ABRAMOV,25.3184,874.0,-2085.0,-1211.0,re-analysed data based on raw data published by Pertziger (1996)
-1976,732,KG,ABRAMOV,25.2556,906.0,-1738.0,-832.0,re-analysed data based on raw data published by Pertziger (1996)
-1977,732,KG,ABRAMOV,25.1475,1453.0,-2765.0,-1312.0,re-analysed data based on raw data published by Pertziger (1996)
-1978,732,KG,ABRAMOV,25.1195,1457.0,-2654.0,-1197.0,re-analysed data based on raw data published by Pertziger (1996)
-1979,732,KG,ABRAMOV,25.1195,1497.0,-1994.0,-497.0,re-analysed data based on raw data published by Pertziger (1996)
-1980,732,KG,ABRAMOV,25.1195,1149.0,-2122.0,-973.0,re-analysed data based on raw data published by Pertziger (1996)
-1981,732,KG,ABRAMOV,25.1195,954.0,-876.0,78.0,re-analysed data based on raw data published by Pertziger (1996)
-1982,732,KG,ABRAMOV,25.1195,888.0,-1576.0,-688.0,re-analysed data based on raw data published by Pertziger (1996)
-1983,732,KG,ABRAMOV,24.6589,1273.0,-1616.0,-344.0,re-analysed data based on raw data published by Pertziger (1996)
-1984,732,KG,ABRAMOV,24.6589,1311.0,-2054.0,-744.0,re-analysed data based on raw data published by Pertziger (1996); no summer measurements available -  Summer balance modeled according to Barandun and others (in review) 
-1985,732,KG,ABRAMOV,24.6589,1420.0,-2106.0,-687.0,re-analysed data based on raw data published by Pertziger (1996)
-1986,732,KG,ABRAMOV,24.6589,974.0,-1836.0,-861.0,re-analysed data based on raw data published by Pertziger (1996)
-1987,732,KG,ABRAMOV,24.6589,1698.0,-1417.0,281.0,re-analysed data based on raw data published by Pertziger (1996)
-1988,732,KG,ABRAMOV,24.6417,1725.0,-1677.0,48.0,re-analysed data based on raw data published by Pertziger (1996)
-1989,732,KG,ABRAMOV,24.6417,1190.0,-1346.0,-156.0,re-analysed data based on raw data published by Pertziger (1996)
-1990,732,KG,ABRAMOV,24.6417,1627.0,-2014.0,-387.0,re-analysed data based on raw data published by Pertziger (1996)
-1991,732,KG,ABRAMOV,24.6417,1309.0,-1662.0,-353.0,re-analysed data based on raw data published by Pertziger (1996)
-1992,732,KG,ABRAMOV,24.512,1630.0,-1208.0,422.0,re-analysed data based on raw data published by Pertziger (1996)
-1993,732,KG,ABRAMOV,24.512,1658.0,-1209.0,449.0,re-analysed data based on raw data published by Pertziger (1996)
-1994,732,KG,ABRAMOV,24.512,1580.0,-2193.0,-613.0,re-analysed data based on raw data published by Pertziger (1996)
-1995,732,KG,ABRAMOV,25.84,,,-880.0,"Kamnyansky, 2001"
-1996,732,KG,ABRAMOV,25.84,,,-450.0,"Kamnyansky, 2001"
-1997,732,KG,ABRAMOV,25.83,,,-1830.0,
-1998,732,KG,ABRAMOV,25.83,,,100.0,"Kamnyansky, 2001"
-2012,732,KG,ABRAMOV,24.06011,1204.0,-1806.0,-601.0,Barandun and others (in review)
-2013,732,KG,ABRAMOV,24.00607,1222.0,-1471.0,-249.0,Barandun and others (in review)
-2014,732,KG,ABRAMOV,24.00607,1234.0,-1900.0,-665.0,Barandun and others (in review)
-2015,732,KG,ABRAMOV,24.0060005,2049.0,-2083.0,-33.0,
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
+1968,732,KG,ABRAMOV,24.6374,936.0,-1358.0,-423.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1969,732,KG,ABRAMOV,26.0,,,740.0,"Kamnyansky, 2001",RGI60-13.18096
+1970,732,KG,ABRAMOV,25.97,,,-210.0,"Kamnyansky, 2001",RGI60-13.18096
+1971,732,KG,ABRAMOV,24.6374,1250.0,-1916.0,-666.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1972,732,KG,ABRAMOV,24.6374,1304.0,-868.0,436.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1973,732,KG,ABRAMOV,25.3184,1621.0,-2574.0,-953.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1974,732,KG,ABRAMOV,25.3184,676.0,-989.0,-313.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1975,732,KG,ABRAMOV,25.3184,874.0,-2085.0,-1211.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1976,732,KG,ABRAMOV,25.2556,906.0,-1738.0,-832.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1977,732,KG,ABRAMOV,25.1475,1453.0,-2765.0,-1312.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1978,732,KG,ABRAMOV,25.1195,1457.0,-2654.0,-1197.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1979,732,KG,ABRAMOV,25.1195,1497.0,-1994.0,-497.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1980,732,KG,ABRAMOV,25.1195,1149.0,-2122.0,-973.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1981,732,KG,ABRAMOV,25.1195,954.0,-876.0,78.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1982,732,KG,ABRAMOV,25.1195,888.0,-1576.0,-688.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1983,732,KG,ABRAMOV,24.6589,1273.0,-1616.0,-344.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1984,732,KG,ABRAMOV,24.6589,1311.0,-2054.0,-744.0,re-analysed data based on raw data published by Pertziger (1996); no summer measurements available -  Summer balance modeled according to Barandun and others (in review) ,RGI60-13.18096
+1985,732,KG,ABRAMOV,24.6589,1420.0,-2106.0,-687.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1986,732,KG,ABRAMOV,24.6589,974.0,-1836.0,-861.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1987,732,KG,ABRAMOV,24.6589,1698.0,-1417.0,281.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1988,732,KG,ABRAMOV,24.6417,1725.0,-1677.0,48.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1989,732,KG,ABRAMOV,24.6417,1190.0,-1346.0,-156.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1990,732,KG,ABRAMOV,24.6417,1627.0,-2014.0,-387.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1991,732,KG,ABRAMOV,24.6417,1309.0,-1662.0,-353.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1992,732,KG,ABRAMOV,24.512,1630.0,-1208.0,422.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1993,732,KG,ABRAMOV,24.512,1658.0,-1209.0,449.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1994,732,KG,ABRAMOV,24.512,1580.0,-2193.0,-613.0,re-analysed data based on raw data published by Pertziger (1996),RGI60-13.18096
+1995,732,KG,ABRAMOV,25.84,,,-880.0,"Kamnyansky, 2001",RGI60-13.18096
+1996,732,KG,ABRAMOV,25.84,,,-450.0,"Kamnyansky, 2001",RGI60-13.18096
+1997,732,KG,ABRAMOV,25.83,,,-1830.0,,RGI60-13.18096
+1998,732,KG,ABRAMOV,25.83,,,100.0,"Kamnyansky, 2001",RGI60-13.18096
+2012,732,KG,ABRAMOV,24.0341,1096.0,-1517.0,-421.0,fixed period (1.10 - 31.9). Bs calculated from reported Ba and Bw.,RGI60-13.18096
+2013,732,KG,ABRAMOV,24.0061,1141.0,-1468.0,-327.0,fixed period (1.10 - 31.9). Bs calculated from reported Ba and Bw.,RGI60-13.18096
+2014,732,KG,ABRAMOV,24.0061,843.0,-1593.0,-750.0,fixed period (1.10 - 31.9). Bs calculated from reported Ba and Bw.,RGI60-13.18096
+2015,732,KG,ABRAMOV,23.9304,1991.0,-1821.0,170.0,fixed period (1.10 - 31.9). Bs calculated from reported Ba and Bw.,RGI60-13.18096
+2016,732,KG,ABRAMOV,23.9304,1760.0,-2034.0,-274.0,fixed period (1.10 - 31.9). Bs calculated from reported Ba and Bw.,RGI60-13.18096
+2017,732,KG,ABRAMOV,23.9304,1590.0,-1944.0,-354.0,fixed period (1.10 - 31.9). Bs calculated from reported Ba and Bw.,RGI60-13.18096
+2018,732,KG,ABRAMOV,23.9304,2025.0,-1969.0,56.0,fixed period (1.10 - 31.9). Bs calculated from reported Ba and Bw.,RGI60-13.18096

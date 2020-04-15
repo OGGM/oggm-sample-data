@@ -1,53 +1,55 @@
-YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS
-1965,489,AT,VERNAGT F.,9.52,,,751.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1966,489,AT,VERNAGT F.,9.52,1570.0,-938.0,633.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1967,489,AT,VERNAGT F.,9.52,1295.0,-1212.0,83.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1968,489,AT,VERNAGT F.,9.52,677.0,-376.0,301.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1969,489,AT,VERNAGT F.,9.46,618.0,-925.0,-307.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1970,489,AT,VERNAGT F.,9.46,919.0,-1143.0,-224.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1971,489,AT,VERNAGT F.,9.455,682.0,-1106.0,-424.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1972,489,AT,VERNAGT F.,9.46,820.0,-683.0,137.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1973,489,AT,VERNAGT F.,9.301,703.0,-1163.0,-460.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1974,489,AT,VERNAGT F.,9.301,731.0,-501.0,230.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1975,489,AT,VERNAGT F.,9.301,1131.0,-960.0,171.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1976,489,AT,VERNAGT F.,9.302,613.0,-563.0,50.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1977,489,AT,VERNAGT F.,9.301,1004.0,-652.0,352.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1978,489,AT,VERNAGT F.,9.55,916.0,-628.0,288.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1979,489,AT,VERNAGT F.,9.55,993.0,-949.0,44.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1980,489,AT,VERNAGT F.,9.55,868.0,-728.0,140.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1981,489,AT,VERNAGT F.,9.55,936.0,-991.0,-55.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1982,489,AT,VERNAGT F.,9.35,1313.0,-2158.0,-845.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1983,489,AT,VERNAGT F.,9.35,1081.0,-1618.0,-537.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1984,489,AT,VERNAGT F.,9.34,871.0,-851.0,20.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1985,489,AT,VERNAGT F.,9.34,1410.0,-1522.0,-112.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1986,489,AT,VERNAGT F.,9.34,870.0,-1678.0,-808.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1987,489,AT,VERNAGT F.,9.3,988.0,-1278.0,-290.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1988,489,AT,VERNAGT F.,9.08,899.0,-1396.0,-497.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1989,489,AT,VERNAGT F.,9.08,949.0,-1261.0,-312.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1990,489,AT,VERNAGT F.,9.08,855.0,-1423.0,-568.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1991,489,AT,VERNAGT F.,9.08,912.0,-1991.0,-1079.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1992,489,AT,VERNAGT F.,9.08,947.0,-1805.0,-858.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1993,489,AT,VERNAGT F.,9.08,895.0,-1367.0,-472.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1994,489,AT,VERNAGT F.,9.08,1031.0,-2059.0,-1028.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1995,489,AT,VERNAGT F.,9.08,979.0,-1377.0,-398.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1996,489,AT,VERNAGT F.,9.08,486.0,-899.0,-413.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1997,489,AT,VERNAGT F.,9.06,928.0,-1415.0,-487.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1998,489,AT,VERNAGT F.,9.05,807.0,-1809.0,-1003.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-1999,489,AT,VERNAGT F.,8.68,1116.0,-1224.0,-108.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-2000,489,AT,VERNAGT F.,8.67,1079.0,-1366.0,-287.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-2001,489,AT,VERNAGT F.,8.68,1139.0,-1363.0,-224.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-2002,489,AT,VERNAGT F.,8.68,1013.0,-1279.0,-266.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-2003,489,AT,VERNAGT F.,8.53,986.0,-3119.0,-2133.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-2004,489,AT,VERNAGT F.,8.36,891.0,-1298.0,-407.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-2005,489,AT,VERNAGT F.,8.36,621.0,-1144.0,-523.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-2006,489,AT,VERNAGT F.,8.35,791.0,-1673.0,-882.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-2007,489,AT,VERNAGT F.,8.17,491.0,-1457.0,-966.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-2008,489,AT,VERNAGT F.,8.17,977.0,-1820.0,-843.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-2009,489,AT,VERNAGT F.,8.16,1072.0,-2031.0,-959.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-2010,489,AT,VERNAGT F.,7.91,487.0,-1167.0,-680.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-2011,489,AT,VERNAGT F.,7.916,744.0,-1699.0,-955.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-2012,489,AT,VERNAGT F.,7.55,885.0,-2040.0,-1155.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.
-2013,489,AT,VERNAGT F.,7.550064999999999,912.0,-1337.0,-425.0,
-2014,489,AT,VERNAGT F.,7.355542999999999,,,-144.0,
-2015,489,AT,VERNAGT F.,7.304999799999999,,,-1268.0,
-2016,489,AT,VERNAGT F.,,,,-900.0,
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
+1965,489,AT,VERNAGT F.,9.52,,,751.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1966,489,AT,VERNAGT F.,9.52,1570.0,-938.0,633.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1967,489,AT,VERNAGT F.,9.52,1295.0,-1212.0,83.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1968,489,AT,VERNAGT F.,9.52,677.0,-376.0,301.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1969,489,AT,VERNAGT F.,9.46,618.0,-925.0,-307.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1970,489,AT,VERNAGT F.,9.46,919.0,-1143.0,-224.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1971,489,AT,VERNAGT F.,9.455,682.0,-1106.0,-424.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1972,489,AT,VERNAGT F.,9.46,820.0,-683.0,137.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1973,489,AT,VERNAGT F.,9.301,703.0,-1163.0,-460.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1974,489,AT,VERNAGT F.,9.301,731.0,-501.0,230.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1975,489,AT,VERNAGT F.,9.301,1131.0,-960.0,171.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1976,489,AT,VERNAGT F.,9.302,613.0,-563.0,50.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1977,489,AT,VERNAGT F.,9.301,1004.0,-652.0,352.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1978,489,AT,VERNAGT F.,9.55,916.0,-628.0,288.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1979,489,AT,VERNAGT F.,9.55,993.0,-949.0,44.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1980,489,AT,VERNAGT F.,9.55,868.0,-728.0,140.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1981,489,AT,VERNAGT F.,9.55,936.0,-991.0,-55.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1982,489,AT,VERNAGT F.,9.35,1313.0,-2158.0,-845.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1983,489,AT,VERNAGT F.,9.35,1081.0,-1618.0,-537.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1984,489,AT,VERNAGT F.,9.34,871.0,-851.0,20.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1985,489,AT,VERNAGT F.,9.34,1410.0,-1522.0,-112.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1986,489,AT,VERNAGT F.,9.34,870.0,-1678.0,-808.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1987,489,AT,VERNAGT F.,9.3,988.0,-1278.0,-290.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1988,489,AT,VERNAGT F.,9.08,899.0,-1396.0,-497.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1989,489,AT,VERNAGT F.,9.08,949.0,-1261.0,-312.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1990,489,AT,VERNAGT F.,9.08,855.0,-1423.0,-568.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1991,489,AT,VERNAGT F.,9.08,912.0,-1991.0,-1079.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1992,489,AT,VERNAGT F.,9.08,947.0,-1805.0,-858.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1993,489,AT,VERNAGT F.,9.08,895.0,-1367.0,-472.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1994,489,AT,VERNAGT F.,9.08,1031.0,-2059.0,-1028.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1995,489,AT,VERNAGT F.,9.08,979.0,-1377.0,-398.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1996,489,AT,VERNAGT F.,9.08,486.0,-899.0,-413.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1997,489,AT,VERNAGT F.,9.06,928.0,-1415.0,-487.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1998,489,AT,VERNAGT F.,9.05,807.0,-1809.0,-1003.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+1999,489,AT,VERNAGT F.,8.68,1116.0,-1224.0,-108.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+2000,489,AT,VERNAGT F.,8.67,1079.0,-1366.0,-287.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+2001,489,AT,VERNAGT F.,8.68,1139.0,-1363.0,-224.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+2002,489,AT,VERNAGT F.,8.68,1013.0,-1279.0,-266.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+2003,489,AT,VERNAGT F.,8.53,986.0,-3119.0,-2133.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+2004,489,AT,VERNAGT F.,8.36,891.0,-1298.0,-407.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+2005,489,AT,VERNAGT F.,8.36,621.0,-1144.0,-523.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+2006,489,AT,VERNAGT F.,8.35,791.0,-1673.0,-882.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+2007,489,AT,VERNAGT F.,8.17,491.0,-1457.0,-966.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+2008,489,AT,VERNAGT F.,8.17,977.0,-1820.0,-843.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+2009,489,AT,VERNAGT F.,8.16,1072.0,-2031.0,-959.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+2010,489,AT,VERNAGT F.,7.91,487.0,-1167.0,-680.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+2011,489,AT,VERNAGT F.,7.916,744.0,-1699.0,-955.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+2012,489,AT,VERNAGT F.,7.55,885.0,-2040.0,-1155.0,Entire data series recompiled in 2007 with Bn and Areas from www.glaziologie.de and Bw and Bs from Ludwig Braun.,RGI60-11.00719
+2013,489,AT,VERNAGT F.,7.550064999999999,912.0,-1337.0,-425.0,,RGI60-11.00719
+2014,489,AT,VERNAGT F.,7.355542999999999,,,-144.0,,RGI60-11.00719
+2015,489,AT,VERNAGT F.,7.305,868.0,-2136.0,-1268.0,,RGI60-11.00719
+2016,489,AT,VERNAGT F.,7.155,780.0,-1561.0,-781.0,Reported year corrected from 2017 to 2016.,RGI60-11.00719
+2017,489,AT,VERNAGT F.,7.077,700.0,-2035.0,-1335.0,,RGI60-11.00719
+2018,489,AT,VERNAGT F.,,,,-1419.0,,RGI60-11.00719

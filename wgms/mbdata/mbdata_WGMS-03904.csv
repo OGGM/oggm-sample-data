@@ -1,9 +1,13 @@
-YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS
-2008,3904,AR,LOS AMARILLOS,1.063,672.0,-868.0,-196.0,
-2009,3904,AR,LOS AMARILLOS,1.083,,,-654.0,
-2010,3904,AR,LOS AMARILLOS,0.98,,,-1089.0,
-2011,3904,AR,LOS AMARILLOS,0.992,,,-756.0,
-2012,3904,AR,LOS AMARILLOS,0.954,,,-750.0,
-2013,3904,AR,LOS AMARILLOS,,,,-477.0,
-2014,3904,AR,LOS AMARILLOS,,,,-950.0,preliminary value
-2015,3904,AR,LOS AMARILLOS,0.7796,-235.0,-861.0,-1097.0,The summer mass balance of the whole glacier was adjusted using energy and hydric balances. The error was 15% for net balance and 17% for seasonal terms.
+YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
+2008,3904,AR,LOS AMARILLOS,1.063,672.0,-868.0,-196.0,,RGI50-17.15131
+2009,3904,AR,LOS AMARILLOS,1.083,,,-654.0,,RGI50-17.15131
+2010,3904,AR,LOS AMARILLOS,0.98,,,-1089.0,,RGI50-17.15131
+2011,3904,AR,LOS AMARILLOS,0.992,,,-756.0,,RGI50-17.15131
+2012,3904,AR,LOS AMARILLOS,0.954,,,-750.0,,RGI50-17.15131
+2013,3904,AR,LOS AMARILLOS,,,,-477.0,,RGI50-17.15131
+2014,3904,AR,LOS AMARILLOS,,,,-950.0,preliminary value,RGI50-17.15131
+2015,3904,AR,LOS AMARILLOS,0.7796,-235.0,-861.0,-1097.0,The summer mass balance of the whole glacier was adjusted using energy and hydric balances. The error was 15% for net balance and 17% for seasonal terms.,RGI50-17.15131
+2016,3904,AR,LOS AMARILLOS,,,,2222.0,Mass-balance value estimated using correlations with the area measured in imagery and the balance data of Brown Superior and Conconta Norte Glaciers.,RGI50-17.15131
+2017,3904,AR,LOS AMARILLOS,,,,1431.0,Mass-balance value estimated using correlations with the area measured in imagery and the balance data of Brown Superior and Conconta Norte Glaciers.,RGI50-17.15131
+2018,3904,AR,LOS AMARILLOS,,,,248.0,Mass-balance value estimated using correlations with the area measured in imagery and the balance data of Brown Superior and Conconta Norte Glaciers.,RGI50-17.15131
+2019,3904,AR,LOS AMARILLOS,,,,-1485.0,Mass-balance value estimated using correlations with the area measured in imagery and the balance data of Brown Superior and Conconta Norte Glaciers.,RGI50-17.15131

@@ -49,7 +49,6 @@ CenLon,CenLat,POLITICAL_UNIT,NAME,WGMS_ID,PSFG_ID,WGI_ID,GLIMS_ID,RGI40_ID,RGI50
 -64.1739,81.9561,CA,ST PATRICK BAY NE ICE CAP,3908,,,,,RGI50-03.01623,RGI60-03.01623,03,"03: Arctic Canada, North",Glacier,Land-terminating,False,7,False,RGI link checked manually.
 -123.621,50.872,CA,SYKORA,59,CA1995,CA0M22000001,,,RGI50-02.04114,RGI60-02.02631,02,02: Western Canada and USA,Glacier,Land-terminating,False,10,True,RGI link checked manually.
 -125.136,51.3432,CA,TIEDEMANN,24,CA2040,CA0 XXX00017,,,RGI50-02.05862,RGI60-02.04379,02,02: Western Canada and USA,Glacier,Land-terminating,False,7,True,RGI link checked manually.
--74.2248,83.1066,CA,WARD H. I. RISE,53,CA2318,CA0 XXX00003,,,RGI50-03.04079,RGI60-03.04079,03,"03: Arctic Canada, North",Glacier,Land-terminating,False,25,False,RGI link checked manually.
 -90.87697,79.5146,CA,WHITE,0,CA2340,CA2R014E0014,G269123E79515N,,,RGI60-03.04539,03,"03: Arctic Canada, North",Glacier,Land-terminating,False,55,True,RGI link checked manually.
 -118.061,51.1141,CA,WOOLSEY,1402,CA2380,,,,RGI50-02.04693,RGI60-02.03210,02,02: Western Canada and USA,Glacier,Land-terminating,False,11,True,RGI link checked manually.
 -130.684,56.975,CA,YURI,30,CA2530,CA0N00200003,,,RGI50-01.05211,RGI60-01.05211,01,01: Alaska,Glacier,Land-terminating,False,10,True,RGI link checked manually.

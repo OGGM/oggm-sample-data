@@ -1,0 +1,20 @@
+,Region,Area,Volume,SMB,SMB_err,MC,MC_err
+1,Alaska (ALA),86725,18429,-0.85,0.19,-73,17
+2,Western Canada & USA (WNA),14524,1048,-0.83,0.4,-12,6
+3,Arctic Canada North (ACN),105111,29721,-0.57,0.8,-60,84
+4,Arctic Canada South (ACS),40888,8948,-0.57,0.7,-23,28
+5,Greenland (GRL),89717,15780,-0.63,0.21,-51,17
+6,Iceland (ISL),11060,3520,-0.5,0.37,-5,4
+7,Svalbard and Jan Mayen (SJM),33959,8076,-0.47,0.23,-16,8
+8,Scandinavia (SCA),2949,306,-0.49,0.27,-1,1
+9,Russian Arctic (RUA),51592,15449,-0.47,0.37,-24,19
+10,North Asia (ASN),2410,146,-0.37,0.31,-1,1
+11,Central Europe (CEU),2092,116,-0.87,0.07,-2,0
+12,Caucasus and Middle East (CAU),1307,63,-0.9,0.57,-1,1
+13,Central Asia (ASC),49303,3483,-0.15,0.12,-7,6
+14,South Asia West (ASW),33568,3092,-0.03,0.12,-1,4
+15,South Asia East (ASE),14734,906,-0.35,0.12,-5,2
+16,Low Latitudes (TRP),2341,80,-1.03,0.83,-2,2
+17,Southern Andes (SAN),29429,5518,-1.18,0.38,-34,11
+18,New Zealand (NZL),1162,61,-0.68,1.15,-1,1
+19,Antarctic and Subantarctic (ANT),132867,46801,-0.11,0.87,-14,108

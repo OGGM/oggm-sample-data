@@ -1,14 +1,22 @@
 YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALANCE,REMARKS,RGI_ID
-2000,1238,IT,GRAND ETRET,0.5526,329.0,-550.0,-221.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances.",RGI50-11.03298
-2001,1238,IT,GRAND ETRET,0.5526,764.0,-431.0,333.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances.",RGI50-11.03298
-2002,1238,IT,GRAND ETRET,0.5526,444.0,-822.0,-378.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances.",RGI50-11.03298
-2003,1238,IT,GRAND ETRET,0.5526,332.0,-885.0,-553.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances.",RGI50-11.03298
-2004,1238,IT,GRAND ETRET,0.5526,436.0,-789.0,-353.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances.",RGI50-11.03298
-2005,1238,IT,GRAND ETRET,0.5526,353.0,-766.0,-413.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances.",RGI50-11.03298
-2006,1238,IT,GRAND ETRET,0.5526,334.0,-912.0,-578.0,"Calculated based on data from a Poster from Bertoglio et al. (Parco Nazionale Gran Paradiso and Dipartimento di Scienze della Terra, Universita? di Torino). m3 values per glacier are reported. the area as reported for 2008 was choosen for the caluculation of the specific balances.",RGI50-11.03298
+2000,1238,IT,GRAND ETRET,0.564,1056.0,-1694.0,-638.0,,RGI50-11.03298
+2001,1238,IT,GRAND ETRET,0.564,2451.0,-1382.0,1069.0,,RGI50-11.03298
+2002,1238,IT,GRAND ETRET,0.564,1426.0,-2636.0,-1210.0,,RGI50-11.03298
+2003,1238,IT,GRAND ETRET,0.564,1066.0,-2839.0,-1733.0,,RGI50-11.03298
+2004,1238,IT,GRAND ETRET,0.564,1400.0,-2538.0,-1138.0,,RGI50-11.03298
+2005,1238,IT,GRAND ETRET,0.564,1134.0,-2459.0,-1325.0,,RGI50-11.03298
+2006,1238,IT,GRAND ETRET,0.564,1072.0,-2927.0,-1855.0,,RGI50-11.03298
+2007,1238,IT,GRAND ETRET,0.5526,1065.0,-2436.0,-1371.0,,RGI50-11.03298
 2008,1238,IT,GRAND ETRET,0.5526,1322.0,-2685.0,-1363.0,,RGI50-11.03298
-2009,1238,IT,GRAND ETRET,,2846.0,-2473.0,373.0,,RGI50-11.03298
-2012,1238,IT,GRAND ETRET,,,,-1158.0,,RGI50-11.03298
+2009,1238,IT,GRAND ETRET,0.5526,2846.0,-2473.0,373.0,,RGI50-11.03298
+2010,1238,IT,GRAND ETRET,0.5322,1438.0,-1998.0,-560.0,,RGI50-11.03298
+2011,1238,IT,GRAND ETRET,0.5322,1127.0,-1920.0,-793.0,,RGI50-11.03298
+2012,1238,IT,GRAND ETRET,0.5322,1339.0,-2497.0,-1158.0,,RGI50-11.03298
 2013,1238,IT,GRAND ETRET,0.5322,1901.0,-2171.0,-270.0,,RGI50-11.03298
-2014,1238,IT,GRAND ETRET,0.5322,,,-569.0,,RGI50-11.03298
+2014,1238,IT,GRAND ETRET,0.5322,1389.0,-1958.0,-569.0,,RGI50-11.03298
 2015,1238,IT,GRAND ETRET,0.5322,1452.0,-3243.0,-1791.0,,RGI50-11.03298
+2016,1238,IT,GRAND ETRET,0.5322,1431.0,-2238.0,-807.0,,RGI50-11.03298
+2017,1238,IT,GRAND ETRET,0.4614,1942.0,-2777.0,-835.0,,RGI50-11.03298
+2018,1238,IT,GRAND ETRET,0.37935,2048.0,-3061.0,-653.0,,RGI50-11.03298
+2019,1238,IT,GRAND ETRET,0.359682,2398.0,-2690.0,-292.0,,RGI50-11.03298
+2020,1238,IT,GRAND ETRET,0.359682,1725.0,-2058.0,-333.0,,RGI50-11.03298

@@ -22,8 +22,8 @@ YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALAN
 2003,545,AT,WURTEN K.,0.972,1732.0,-3909.0,-2177.0,,RGI50-11.00300
 2004,545,AT,WURTEN K.,0.824,1501.0,-1814.0,-301.0,,RGI50-11.00300
 2005,545,AT,WURTEN K.,0.824,1194.0,-1642.0,-448.0,,RGI50-11.00300
-2006,545,AT,WURTEN K.,0.8244290000000001,1441.0,-2218.0,-778.0,,RGI50-11.00300
-2007,545,AT,WURTEN K.,0.8243729999999999,936.0,-2136.0,-1201.0,,RGI50-11.00300
+2006,545,AT,WURTEN K.,0.824429,1441.0,-2218.0,-778.0,,RGI50-11.00300
+2007,545,AT,WURTEN K.,0.824373,936.0,-2136.0,-1201.0,,RGI50-11.00300
 2008,545,AT,WURTEN K.,0.82,1784.0,-2722.0,-938.0,,RGI50-11.00300
 2009,545,AT,WURTEN K.,0.82,2086.0,-2671.0,-584.0,,RGI50-11.00300
 2010,545,AT,WURTEN K.,0.7702,1366.0,-1885.0,-519.0,influenced by snow production of ski ressort,RGI50-11.00300
@@ -32,5 +32,7 @@ YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALAN
 2013,545,AT,WURTEN K.,0.3289999,,,-665.0,"Glacier Area 2012, DEM 2012 (extrapolated), only lower part of the glacier, no winterbalance ",RGI50-11.00300
 2014,545,AT,WURTEN K.,0.3289999,,,-380.0,"Glacier Area 2012, DEM 2012 (extrapolated), only lower part of the glacier, no winterbalance ",RGI50-11.00300
 2015,545,AT,WURTEN K.,0.3289999,,,-1275.0,"Glacier Area 2012, DEM 2012 (extrapolated), only lower part of the glacier, no winterbalance ",RGI50-11.00300
-2016,545,AT,WURTEN K.,0.28336300000000003,,,-1250.0,"Glacier area 2015, DEM 2009 (extrapolated), only lower part of the glacier, no winter balance.",RGI50-11.00300
+2016,545,AT,WURTEN K.,0.283363,,,-1250.0,"Glacier area 2015, DEM 2009 (extrapolated), only lower part of the glacier, no winter balance.",RGI50-11.00300
 2017,545,AT,WURTEN K.,0.283,,,-1706.0,"Glacier area 2015, DEM 2009 (extrapolated), only lower part of the glacier, no winter balance. Reported year corrected from 2016 to 2017.",RGI50-11.00300
+2018,545,AT,WURTEN K.,0.283,,,-1957.0,"Glacier area 2015, DEM 2009 (extrapolated), only lower part of the glacier, no winter balance ",RGI50-11.00300
+2019,545,AT,WURTEN K.,0.235,,,-1232.0,"Glacier area 2018, DEM 2009 (extrapolated), only lower part of the glacier, no winter balance ",RGI50-11.00300

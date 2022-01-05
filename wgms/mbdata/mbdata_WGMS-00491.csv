@@ -49,19 +49,21 @@ YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALAN
 2000,491,AT,HINTEREIS F.,8.11,,,-633.0,Bn calculated from submitted values.,RGI60-11.00897
 2001,491,AT,HINTEREIS F.,7.963,,,-173.0,Bn calculated from submitted values.,RGI60-11.00897
 2002,491,AT,HINTEREIS F.,8.022418,,,-624.0,homogenized according to Klug et al. (2018),RGI60-11.00897
-2003,491,AT,HINTEREIS F.,7.8613539999999995,,,-1796.0,"homogenized according to Klug et al. (2018). Users should take note of the difference between the glaciological and the geodetic results of this year (cf. Klug et al. 2018, The Cryosphere, 12, 833-849 p.).",RGI60-11.00897
+2003,491,AT,HINTEREIS F.,7.861354,,,-1796.0,"homogenized according to Klug et al. (2018). Users should take note of the difference between the glaciological and the geodetic results of this year (cf. Klug et al. 2018, The Cryosphere, 12, 833-849 p.).",RGI60-11.00897
 2004,491,AT,HINTEREIS F.,7.663986,,,-651.0,homogenized according to Klug et al. (2018),RGI60-11.00897
-2005,491,AT,HINTEREIS F.,7.605460000000001,,,-1022.0,homogenized according to Klug et al. (2018),RGI60-11.00897
-2006,491,AT,HINTEREIS F.,7.510350999999999,,,-1493.0,"homogenized according to Klug et al. (2018). Users should take note of the difference between the glaciological and the geodetic results of this year (cf. Klug et al. 2018, The Cryosphere, 12, 833-849 p.).",RGI60-11.00897
-2007,491,AT,HINTEREIS F.,7.383122999999999,,,-1813.0,"homogenized according to Klug et al. (2018). Users should take note of the difference between the glaciological and the geodetic results of this year (cf. Klug et al. 2018, The Cryosphere, 12, 833-849 p.).",RGI60-11.00897
-2008,491,AT,HINTEREIS F.,7.2761130000000005,,,-1246.0,homogenized according to Klug et al. (2018),RGI60-11.00897
+2005,491,AT,HINTEREIS F.,7.60546,,,-1022.0,homogenized according to Klug et al. (2018),RGI60-11.00897
+2006,491,AT,HINTEREIS F.,7.510351,,,-1493.0,"homogenized according to Klug et al. (2018). Users should take note of the difference between the glaciological and the geodetic results of this year (cf. Klug et al. 2018, The Cryosphere, 12, 833-849 p.).",RGI60-11.00897
+2007,491,AT,HINTEREIS F.,7.383123,,,-1813.0,"homogenized according to Klug et al. (2018). Users should take note of the difference between the glaciological and the geodetic results of this year (cf. Klug et al. 2018, The Cryosphere, 12, 833-849 p.).",RGI60-11.00897
+2008,491,AT,HINTEREIS F.,7.276113,,,-1246.0,homogenized according to Klug et al. (2018),RGI60-11.00897
 2009,491,AT,HINTEREIS F.,7.147819,,,-1182.0,homogenized according to Klug et al. (2018),RGI60-11.00897
 2010,491,AT,HINTEREIS F.,7.048214,,,-792.0,homogenized according to Klug et al. (2018),RGI60-11.00897
-2011,491,AT,HINTEREIS F.,6.879002000000001,,,-1423.0,homogenized according to Klug et al. (2018),RGI60-11.00897
+2011,491,AT,HINTEREIS F.,6.879002,,,-1423.0,homogenized according to Klug et al. (2018),RGI60-11.00897
 2012,491,AT,HINTEREIS F.,6.879,,,-1561.0,,RGI60-11.00897
 2013,491,AT,HINTEREIS F.,6.879,1331.0,-1841.0,-510.0,,RGI60-11.00897
 2014,491,AT,HINTEREIS F.,6.659,1372.0,-1494.0,-122.0,,RGI60-11.00897
-2015,491,AT,HINTEREIS F.,6.658999900000001,1367.0,-3049.0,-1682.0,,RGI60-11.00897
+2015,491,AT,HINTEREIS F.,6.6589999,1367.0,-3049.0,-1682.0,,RGI60-11.00897
 2016,491,AT,HINTEREIS F.,6.659,948.0,-2210.0,-1263.0,,RGI60-11.00897
 2017,491,AT,HINTEREIS F.,6.659,892.0,-2718.0,-1826.0,,RGI60-11.00897
-2018,491,AT,HINTEREIS F.,6.38885,1208.0,-3170.0,-1963.0,,RGI60-11.00897
+2018,491,AT,HINTEREIS F.,6.389,1207.0,-3170.0,-1963.0,,RGI60-11.00897
+2019,491,AT,HINTEREIS F.,6.224,1650.0,-2330.0,-680.0,,RGI60-11.00897
+2020,491,AT,HINTEREIS F.,6.142,1396.0,-2366.0,-970.0,,RGI60-11.00897

@@ -4,7 +4,7 @@ YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALAN
 1917,2660,CH,CLARIDENFIRN,6.78937,1539.0,-1697.0,-158.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
 1918,2660,CH,CLARIDENFIRN,6.7625,1338.0,-754.0,584.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
 1919,2660,CH,CLARIDENFIRN,6.74812,1682.0,-1082.0,600.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
-1920,2660,CH,CLARIDENFIRN,6.734380000000001,1577.0,-1732.0,-155.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
+1920,2660,CH,CLARIDENFIRN,6.73438,1577.0,-1732.0,-155.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
 1921,2660,CH,CLARIDENFIRN,6.71312,607.0,-2222.0,-1615.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
 1922,2660,CH,CLARIDENFIRN,6.69625,1753.0,-1700.0,53.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
 1923,2660,CH,CLARIDENFIRN,6.675,1576.0,-1204.0,372.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
@@ -59,7 +59,7 @@ YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALAN
 1972,2660,CH,CLARIDENFIRN,5.97,1007.0,-1062.0,-55.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
 1973,2660,CH,CLARIDENFIRN,5.97,1395.0,-2190.0,-795.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
 1974,2660,CH,CLARIDENFIRN,5.97312,1689.0,-899.0,790.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
-1975,2660,CH,CLARIDENFIRN,5.975630000000001,2468.0,-1463.0,1005.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
+1975,2660,CH,CLARIDENFIRN,5.97563,2468.0,-1463.0,1005.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
 1976,2660,CH,CLARIDENFIRN,5.98,968.0,-1104.0,-136.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
 1977,2660,CH,CLARIDENFIRN,5.98313,1902.0,-1218.0,684.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
 1978,2660,CH,CLARIDENFIRN,5.98688,1840.0,-824.0,1016.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
@@ -82,9 +82,9 @@ YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALAN
 1995,2660,CH,CLARIDENFIRN,5.42938,1852.0,-1475.0,377.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
 1996,2660,CH,CLARIDENFIRN,5.40188,1238.0,-1424.0,-186.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
 1997,2660,CH,CLARIDENFIRN,5.38375,1616.0,-1665.0,-49.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
-1998,2660,CH,CLARIDENFIRN,5.368130000000001,1280.0,-2940.0,-1660.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
+1998,2660,CH,CLARIDENFIRN,5.36813,1280.0,-2940.0,-1660.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
 1999,2660,CH,CLARIDENFIRN,5.35,2612.0,-1907.0,705.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
-2000,2660,CH,CLARIDENFIRN,5.328130000000001,1684.0,-1719.0,-35.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
+2000,2660,CH,CLARIDENFIRN,5.32813,1684.0,-1719.0,-35.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
 2001,2660,CH,CLARIDENFIRN,5.31062,1663.0,-1677.0,-14.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
 2002,2660,CH,CLARIDENFIRN,5.2925,1335.0,-2068.0,-733.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
 2003,2660,CH,CLARIDENFIRN,5.12937,1726.0,-3705.0,-1979.0,Mass balance includes estimates for frontal calving. Bs calculated from reported Bw and Ba.,RGI50-11.00843
@@ -102,4 +102,5 @@ YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALAN
 2015,2660,CH,CLARIDENFIRN,4.55063,1690.0,-3052.0,-1362.0,Frontal break-off of ice attributed to two lowermost elev. bands,RGI50-11.00843
 2016,2660,CH,CLARIDENFIRN,4.55063,1694.0,-2118.0,-424.0,Glacier influenced by dry calving.,RGI50-11.00843
 2017,2660,CH,CLARIDENFIRN,4.55063,1465.0,-2661.0,-1196.0,Mass balance includes estimates for frontal calving.,RGI50-11.00843
-2018,2660,CH,CLARIDENFIRN,,,,-1480.0,,RGI50-11.00843
+2018,2660,CH,CLARIDENFIRN,4.55063,1980.0,-3460.0,-1480.0,,RGI50-11.00843
+2019,2660,CH,CLARIDENFIRN,4.32062,2331.0,-3338.0,-1007.0,,RGI50-11.00843

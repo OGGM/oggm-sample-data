@@ -34,3 +34,5 @@ YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALAN
 2016,761,RU,GARABASHI,4.3,1120.0,-2100.0,-980.0,,RGI60-12.00161
 2017,761,RU,GARABASHI,4.3,1200.0,-2130.0,-930.0,,RGI60-12.00161
 2018,761,RU,GARABASHI,4.0,1271.0,-2159.0,-888.0,,RGI60-12.00161
+2019,761,RU,GARABASHI,4.051,1059.0,-1893.0,-834.0,"Surface area and elevation differ from previously reported due to both glacier recession and new set of ice devides (see Kutuzov et al., 2019).",RGI60-12.00161
+2020,761,RU,GARABASHI,3.934,712.0,-2141.0,-1427.0,bw and bs values should be treated with causion since the date of end of accumulation season was shifted due to COVID-19 restrictions. ,RGI60-12.00161

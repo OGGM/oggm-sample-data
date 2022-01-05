@@ -6,6 +6,8 @@ YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALAN
 1993,306,SJ,HANSBREEN,56.76,930.0,-1610.0,-670.0,Glacier-wide balance corrected based on information from Jack Kohler based on Bartek Luks.,RGI50-07.00240
 1994,306,SJ,HANSBREEN,56.76,760.0,-560.0,150.0,Glacier-wide balance corrected based on information from Jack Kohler based on Bartek Luks.,RGI50-07.00240
 1995,306,SJ,HANSBREEN,56.76,760.0,-1210.0,-400.0,Glacier-wide balance corrected based on information from Jack Kohler based on Bartek Luks.,RGI50-07.00240
+1996,306,SJ,HANSBREEN,,,,-2020.0,,RGI50-07.00240
+1997,306,SJ,HANSBREEN,,,,-150.0,,RGI50-07.00240
 1998,306,SJ,HANSBREEN,56.76,1110.0,-1710.0,-600.0,Glacier-wide balance corrected based on information from Jack Kohler based on Bartek Luks.,RGI50-07.00240
 1999,306,SJ,HANSBREEN,56.76,1010.0,-1370.0,-360.0,Glacier-wide balance corrected based on information from Jack Kohler based on Bartek Luks.,RGI50-07.00240
 2000,306,SJ,HANSBREEN,56.76,930.0,-1410.0,-480.0,Glacier-wide balance corrected based on information from Jack Kohler based on Bartek Luks.,RGI50-07.00240
@@ -26,4 +28,5 @@ YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALAN
 2015,306,SJ,HANSBREEN,56.7420005,1002.0,-1438.0,-436.0,,RGI50-07.00240
 2016,306,SJ,HANSBREEN,56.74,857.0,-1936.0,-1078.0,,RGI50-07.00240
 2017,306,SJ,HANSBREEN,56.74,955.0,-1651.0,-697.0,,RGI50-07.00240
-2018,306,SJ,HANSBREEN,,,,-631.0,,RGI50-07.00240
+2018,306,SJ,HANSBREEN,56.74,900.0,-1531.0,-631.0,,RGI50-07.00240
+2019,306,SJ,HANSBREEN,56.742,969.0,-1452.0,-483.0,,RGI50-07.00240

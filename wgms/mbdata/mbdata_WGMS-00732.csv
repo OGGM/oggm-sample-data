@@ -34,6 +34,8 @@ YEAR,WGMS_ID,POLITICAL_UNIT,NAME,AREA,WINTER_BALANCE,SUMMER_BALANCE,ANNUAL_BALAN
 2013,732,KG,ABRAMOV,24.0061,1141.0,-1468.0,-327.0,fixed period (1.10 - 31.9). Bs calculated from reported Ba and Bw.,RGI60-13.18096
 2014,732,KG,ABRAMOV,24.0061,843.0,-1593.0,-750.0,fixed period (1.10 - 31.9). Bs calculated from reported Ba and Bw.,RGI60-13.18096
 2015,732,KG,ABRAMOV,23.9304,1991.0,-1821.0,170.0,fixed period (1.10 - 31.9). Bs calculated from reported Ba and Bw.,RGI60-13.18096
-2016,732,KG,ABRAMOV,23.9304,1760.0,-2034.0,-274.0,fixed period (1.10 - 31.9). Bs calculated from reported Ba and Bw.,RGI60-13.18096
+2016,732,KG,ABRAMOV,23.9304,1760.0,-2034.0,380.0,fixed period (1.10 - 31.9). Bs calculated from reported Ba and Bw.,RGI60-13.18096
 2017,732,KG,ABRAMOV,23.9304,1590.0,-1944.0,-354.0,fixed period (1.10 - 31.9). Bs calculated from reported Ba and Bw.,RGI60-13.18096
 2018,732,KG,ABRAMOV,23.9304,2025.0,-1969.0,56.0,fixed period (1.10 - 31.9). Bs calculated from reported Ba and Bw.,RGI60-13.18096
+2019,732,KG,ABRAMOV,23.9304,1434.0,,-660.0,FXD,RGI60-13.18096
+2020,732,KG,ABRAMOV,23.9304,1392.0,,124.0,FXD,RGI60-13.18096

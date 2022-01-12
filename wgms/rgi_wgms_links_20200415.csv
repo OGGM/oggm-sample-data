@@ -278,4 +278,3 @@ CenLon,CenLat,POLITICAL_UNIT,NAME,WGMS_ID,PSFG_ID,WGI_ID,GLIMS_ID,RGI40_ID,RGI50
 -134.278,58.651,US,TAKU,124,US1805,USN000C00099,,,RGI50-01.01390,RGI60-01.01390,01,01: Alaska,Glacier,Marine-terminating,True,73,False,RGI link checked manually.
 -148.908,60.412,US,WOLVERINE,94,US0411,USN000D00006,,,RGI50-01.09162,RGI60-01.09162,01,01: Alaska,Glacier,Land-terminating,False,52,False,RGI link checked manually.
 -121.03017,48.44805,US,YAWNING,75,US2050,US2M10446007,,,RGI50-02.00992,RGI60-02.17806,02,02: Western Canada and USA,Glacier,Land-terminating,False,35,False,RGI link checked manually.
-
